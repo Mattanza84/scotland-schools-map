@@ -79,7 +79,14 @@ function buildPopupHtml(school) {
   const sectorLabel = school.sector.charAt(0).toUpperCase() + school.sector.slice(1);
   let ratingBlock;
 
-  if (school.rating.hasData) {
+  if (school.rating.hasData && school.rating.metric === "attainment") {
+    const colorHex = colorForScore(school.rating.score, true);
+    ratingBlock = `
+      <div class="popup-rating" style="border-left: 4px solid ${colorHex}">
+        <strong>${escapeHtml(school.rating.label)}</strong> &mdash; ${escapeHtml(school.rating.percent)}% of the leaver cohort attained 5+ awards at Higher level or above
+        <div class="popup-source">SQA attainment, ${escapeHtml(school.rating.year)} &mdash; Scottish Government (statistics.gov.scot, "Breadth and Depth of Qualifications"). This is a raw attainment figure, not adjusted for pupils' backgrounds &mdash; the official methodology recommends comparing a school to its "virtual comparator" for a fairer read, which this map does not show.</div>
+      </div>`;
+  } else if (school.rating.hasData) {
     const colorHex = colorForScore(school.rating.score, true);
     const qiItems = Object.entries(school.rating.qiScores)
       .map(([qi, val]) => {
@@ -95,7 +102,7 @@ function buildPopupHtml(school) {
         <div class="popup-source">Inspected ${escapeHtml(school.rating.inspectionDate)} &mdash; Education Scotland. Rating is an illustrative average of the quality indicators graded at that inspection, not an official single overall grade.</div>
       </div>`;
   } else {
-    ratingBlock = `<div class="popup-rating popup-rating--none">No inspection data available for this school (not recently inspected, or outside the 2008&ndash;2020 dataset used here).</div>`;
+    ratingBlock = `<div class="popup-rating popup-rating--none">No rating data available for this school.</div>`;
   }
 
   return `

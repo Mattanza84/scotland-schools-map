@@ -1,9 +1,10 @@
 # Scotland Schools Map
 
 Interactive map of primary and secondary schools across all 32 Scottish local authorities,
-colour-coded by an illustrative rating derived from published Education Scotland inspection
-quality indicators. The homepage is the area picker (`index.html`) — pick one of 6 macro regions
-to jump into the filtered map (`map.html`).
+colour-coded by rating: primary schools by an illustrative average of published Education
+Scotland inspection quality indicators, secondary schools by recent SQA Highers attainment
+(% of leavers with 5+ Higher passes). The homepage is the area picker (`index.html`) — pick one
+of 6 macro regions to jump into the filtered map (`map.html`).
 
 ## Running locally
 
@@ -27,22 +28,27 @@ fits the map view to that region's real geographic bounds.
 ## What the map shows
 
 - **Icon shape**: circle = primary school, triangle = secondary school.
-- **Colour**: red (weaker) → yellow → green (stronger), based on the average of whichever
-  Education Scotland quality indicators were graded at that school's most recent inspection.
-  Grey = no inspection data available for that school in the dataset used here.
+- **Colour**: red (weaker) → yellow → green (stronger). For primary schools this reflects
+  Education Scotland inspection quality indicators; for secondary schools it reflects the % of
+  leavers attaining 5+ Higher passes. Grey = no rating data available for that school.
 - **Click a marker** to see the school's name, sector, local authority, address, and rating
-  detail (or a note that no inspection data is available).
-- **Checkboxes** (top-right panel) toggle primary/secondary schools on/off; both are on by default.
+  detail (or a note that no rating data is available).
+- **Checkboxes** (filter panel) toggle primary/secondary schools, local authorities, and rating
+  bands on/off.
 
 ## Data and its limitations
 
 See [`data/SOURCES.md`](data/SOURCES.md) for full provenance. In short:
 - School names/locations/sectors are real, sourced from a Scottish Government open dataset.
-- Ratings are real inspection outcomes, but coverage is partial (Scotland does light-touch
-  inspection) and the underlying source only covers inspections up to June 2020 — some ratings
-  shown may be over a decade old. Always check the inspection date shown in the popup.
-- "Rating" here is an illustrative average of the graded quality indicators, not an official
+- **Primary** ratings are real inspection outcomes, but coverage is partial (Scotland does
+  light-touch inspection) and the underlying source only covers inspections up to June 2020 —
+  some ratings shown may be over a decade old. Always check the inspection date shown in the
+  popup. The rating is an illustrative average of the graded quality indicators, not an official
   single overall grade — Education Scotland doesn't publish one.
+- **Secondary** ratings are real, current (2023-25) SQA attainment figures from
+  statistics.gov.scot, banded into the same illustrative scale. This is a raw percentage, not
+  adjusted for pupils' backgrounds — see the popup and `data/SOURCES.md` for the "virtual
+  comparator" caveat.
 
 ## Regenerating the data
 
@@ -53,7 +59,7 @@ python3 scripts/build_schools_json.py
 
 This reads the files in `data/raw/` and rewrites `data/schools.json`. To refresh with newer
 source data, replace the files in `data/raw/` first (see `data/SOURCES.md` for where they came
-from).
+from, including the SPARQL query used for the secondary attainment data).
 
 ## File structure
 

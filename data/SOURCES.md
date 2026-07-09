@@ -13,7 +13,7 @@
 - **Notes**: covers all ~2,495 schools in Scotland; filtered at build time to primary/secondary
   sectors only (special schools excluded), giving 2,360 schools across all 32 local authorities.
 
-## Inspection ratings (quality indicator grades)
+## Primary school ratings (inspection quality indicator grades)
 
 - **Source**: Scottish Government FOI response FOI-202000044014, Annex A spreadsheet.
 - **URL**: `https://www.gov.scot/publications/foi-202000044014/` (spreadsheet linked from that page)
@@ -38,6 +38,41 @@
   `averageScore` fields in `data/schools.json` are an illustrative average computed across
   whichever quality indicators were graded at that school's inspection — not an official
   Education Scotland score.
+- **Usage**: this is the sole rating source for primary schools, and the fallback for any
+  secondary school with no attainment data available (see below).
+
+## Secondary school ratings (SQA attainment)
+
+- **Source**: Scottish Government, "Schools - Breadth and Depth of Qualifications",
+  statistics.gov.scot (a linked-data cube, OGL v3.0 licensed).
+- **URL**: `https://statistics.gov.scot/data/breadth-and-depth`, queried via its SPARQL endpoint
+  at `http://statistics.gov.scot/sparql`.
+- **Fetched**: 2026-07-09, filtered to: `numberOfAwards = 5-and-above`, `scqfLevel = 6-and-above`
+  (SCQF level 6 = Higher), `courses = all-courses`, `comparator = real-establishment`, for
+  reference periods 2023-08-01/P1Y (academic year 2023-24) and 2024-08-01/P1Y (2024-25).
+- **Raw files**: `data/raw/breadth_and_depth_2023-24.json`, `data/raw/breadth_and_depth_2024-25.json`
+  (raw SPARQL JSON results).
+- **Metric**: % of the school-leaver cohort attaining 5 or more qualifications at Higher level
+  (SCQF 6) or above. This is a genuinely school-level, annually-updated official statistic —
+  unlike primary attainment (ACEL), which Scottish Government only publishes aggregated at
+  local-authority level, so no equivalent exists for primary schools here.
+- **Join key**: each establishment entity's `foi:code` in this dataset is the same SEED code used
+  throughout the rest of this project — confirmed by cross-checking real schools (e.g. SEED
+  5102030 = "Thurso High School" in both this dataset and the ArcGIS schools layer).
+- **Suppression**: cells marked `*` (small-cohort disclosure control) or `#` (not applicable) in
+  the raw data are treated as no data for that year; 2024-25 is preferred where both years have a
+  usable value, otherwise 2023-24 is used.
+- **Banding**: `data/schools.json` reuses the same six labels as the primary inspection scale
+  (Excellent/Very Good/Good/Satisfactory/Weak/Unsatisfactory) so the existing "School rating"
+  filter needs no changes, banding the raw percentage at 60/45/35/25/15/0. These thresholds are
+  illustrative (chosen from the actual national distribution, not an official scale) — Scottish
+  Government does not publish rating bands for this metric.
+- **Known limitation**: this is a raw attainment figure, not adjusted for pupils' socioeconomic
+  background or prior attainment. The official methodology recommends comparing a school against
+  its own "virtual comparator" (a matched sample with similar pupil characteristics) for a fairer
+  read — this map does not show that comparison, only the raw percentage, and the popup discloses
+  this. ~16 of 360 secondary schools have no usable value in either year (suppressed in both, or
+  absent from the dataset) and fall back to inspection-based ratings where available.
 
 ## Region-picker boundary shapes (index.html)
 
@@ -59,3 +94,35 @@ Re-run `python3 scripts/build_schools_json.py` after replacing the files in `dat
 newer downloads from the same sources (or newer equivalents) to regenerate `data/schools.json`.
 Re-run `python3 scripts/build_regions_geometry.py` after replacing
 `data/raw/scotland_la_boundaries.geojson` to regenerate `js/scotland-geometry.js`.
+
+To pull a newer year of secondary attainment data, query the SPARQL endpoint with the reference
+period updated to the new year (e.g. `2025-08-01T00:00:00/P1Y` for 2025-26), and save the result
+as `data/raw/breadth_and_depth_<year>.json`:
+
+```
+curl -sS -G "http://statistics.gov.scot/sparql" \
+  --data-urlencode 'query=PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX sdmxd: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX foi: <http://publishmydata.com/def/ontology/foi/>
+PREFIX edu: <http://statistics.gov.scot/def/education/>
+PREFIX dim: <http://statistics.gov.scot/def/dimension/>
+PREFIX measure: <http://statistics.gov.scot/def/measure-properties/>
+SELECT ?seedCode ?schoolName ?refPeriod ?percent WHERE {
+  ?obs qb:dataSet <http://statistics.gov.scot/data/breadth-and-depth> ;
+       sdmxd:refPeriod ?refPeriod ;
+       edu:refEstablishment ?est ;
+       dim:numberOfAwards <http://statistics.gov.scot/def/concept/number-of-awards/5-and-above> ;
+       dim:scqfLevel <http://statistics.gov.scot/def/concept/scqf-level/6-and-above> ;
+       dim:courses <http://statistics.gov.scot/def/concept/courses/all-courses> ;
+       dim:comparator <http://statistics.gov.scot/def/concept/comparator/real-establishment> ;
+       measure:percent ?percent .
+  ?est foi:memberOf <http://statistics.gov.scot/def/foi/collection/education-establishments> ;
+       foi:code ?seedCode ;
+       foi:displayName ?schoolName .
+  FILTER(?refPeriod = <http://reference.data.gov.uk/id/gregorian-interval/YYYY-08-01T00:00:00/P1Y>)
+}' \
+  -H "Accept: application/sparql-results+json" -o data/raw/breadth_and_depth_YYYY-YY.json
+```
+
+Then update the `sources` list at the top of `load_attainment()` in `scripts/build_schools_json.py`
+to include the new filename (most recent year first).

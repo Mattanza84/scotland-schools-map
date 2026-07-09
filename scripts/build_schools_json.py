@@ -8,7 +8,15 @@ Sources (see data/SOURCES.md for full provenance):
   - data/raw/foi_inspection_annex_a.xlsx
       Education Scotland inspection quality-indicator (QI) grades, 1 (weakest)
       to 6 (strongest), covering inspections from April 2008 to June 2020.
-      Response to FOI-202000044014.
+      Response to FOI-202000044014. Used as the rating for primary schools,
+      and as a fallback for secondary schools with no attainment data.
+  - data/raw/breadth_and_depth_2023-24.json, breadth_and_depth_2024-25.json
+      SQA attainment (% of leavers with 5+ awards at Higher level or above),
+      from the Scottish Government "Schools - Breadth and Depth of
+      Qualifications" statistics.gov.scot dataset. Used as the rating for
+      secondary schools where available -- a more current, direct measure
+      than the sparse/dated inspection data, and secondary schools have no
+      equivalent to primary's ACEL attainment stats at school level.
 
 Run with: python3 scripts/build_schools_json.py
 """
@@ -39,6 +47,28 @@ GRADE_LABELS = {
     2: "Weak",
     1: "Unsatisfactory",
 }
+
+# Bands for secondary schools' SQA attainment percentage (% of leavers with
+# 5+ awards at Higher level or above), reusing the same six labels as the
+# inspection scale so the existing "School rating" filter UI needs no
+# changes. Thresholds are illustrative, chosen from the actual national
+# distribution (roughly even-ish population split), not an official scale --
+# Scottish Government does not publish a school-rating band for this metric.
+ATTAINMENT_BANDS = [
+    (60, "Excellent"),
+    (45, "Very Good"),
+    (35, "Good"),
+    (25, "Satisfactory"),
+    (15, "Weak"),
+    (0, "Unsatisfactory"),
+]
+
+
+def band_for_percent(pct):
+    for threshold, label in ATTAINMENT_BANDS:
+        if pct >= threshold:
+            return label
+    return ATTAINMENT_BANDS[-1][1]
 
 
 def load_locations():
@@ -163,6 +193,7 @@ def apply_ratings(schools, ratings_by_seed):
         inspection_date = rec["inspectionDate"]
         school["rating"] = {
             "hasData": True,
+            "metric": "inspection",
             "inspectionDate": inspection_date.date().isoformat()
             if hasattr(inspection_date, "date")
             else str(inspection_date),
@@ -175,10 +206,56 @@ def apply_ratings(schools, ratings_by_seed):
     return matched
 
 
+def load_attainment():
+    """Seed code -> {percent, year}, preferring 2024-25 over 2023-24 where
+    both exist. Suppressed cells ('*' small-cohort, '#' not applicable) are
+    skipped, same as a school having no row at all."""
+    sources = [
+        ("2024-25", "breadth_and_depth_2024-25.json"),
+        ("2023-24", "breadth_and_depth_2023-24.json"),
+    ]
+    by_seed = {}
+    for year, fname in sources:
+        with open(os.path.join(RAW, fname)) as f:
+            bindings = json.load(f)["results"]["bindings"]
+        for row in bindings:
+            pct_raw = row["percent"]["value"]
+            if not pct_raw.isdigit():
+                continue
+            seed = int(row["seedCode"]["value"])
+            if seed not in by_seed:
+                by_seed[seed] = {"percent": int(pct_raw), "year": year}
+    return by_seed
+
+
+def apply_attainment(schools, attainment_by_seed):
+    matched = 0
+    for school in schools.values():
+        if school["sector"] != "secondary":
+            continue
+        rec = attainment_by_seed.get(school["seedCode"])
+        if rec is None:
+            continue
+        pct = rec["percent"]
+        school["rating"] = {
+            "hasData": True,
+            "metric": "attainment",
+            "year": rec["year"],
+            "percent": pct,
+            "score": round(pct / 100, 3),
+            "label": band_for_percent(pct),
+        }
+        matched += 1
+    return matched
+
+
 def main():
     schools = load_locations()
     ratings_by_seed = load_ratings()
-    matched = apply_ratings(schools, ratings_by_seed)
+    apply_ratings(schools, ratings_by_seed)
+
+    attainment_by_seed = load_attainment()
+    attainment_matched = apply_attainment(schools, attainment_by_seed)
 
     out = sorted(schools.values(), key=lambda s: (s["localAuthority"], s["name"]))
 
@@ -186,12 +263,19 @@ def main():
         json.dump(out, f, indent=2)
 
     by_sector = {}
+    rating_metric_counts = {}
     for s in out:
         by_sector[s["sector"]] = by_sector.get(s["sector"], 0) + 1
+        if s["rating"]["hasData"]:
+            metric = s["rating"]["metric"]
+            rating_metric_counts[metric] = rating_metric_counts.get(metric, 0) + 1
 
+    total_with_rating = sum(rating_metric_counts.values())
     print(f"Wrote {len(out)} schools to {OUT_PATH}")
     print(f"  by sector: {by_sector}")
-    print(f"  with rating data: {matched} ({matched / len(out):.0%})")
+    print(f"  with rating data: {total_with_rating} ({total_with_rating / len(out):.0%})")
+    print(f"    inspection-based: {rating_metric_counts.get('inspection', 0)}")
+    print(f"    attainment-based (secondary): {attainment_matched}")
     print(f"  generated: {date.today().isoformat()}")
 
 

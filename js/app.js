@@ -38,7 +38,7 @@ let markerRecords = [];
 
 // Best to worst, matching the labels build_schools_json.py assigns to averageScore 6..1.
 const RATING_ORDER = ["Excellent", "Very Good", "Good", "Satisfactory", "Weak", "Unsatisfactory"];
-const NO_DATA_LABEL = "No inspection data";
+const NO_DATA_LABEL = "No rating data";
 
 function ratingKeyForSchool(school) {
   return school.rating.hasData ? school.rating.label : NO_DATA_LABEL;
@@ -261,9 +261,10 @@ async function init() {
   if (selectedRegion) {
     document.getElementById("page-title").textContent = `${selectedRegion.name} Schools Map`;
     document.getElementById("page-subtitle").textContent =
-      `Primary and secondary schools in ${selectedRegion.name}. Colours reflect an illustrative ` +
-      "average of published Education Scotland inspection quality indicators — coverage is " +
-      "partial and some inspections are old, so always check the date shown in each popup.";
+      `Primary and secondary schools in ${selectedRegion.name}. Primary schools are coloured by ` +
+      "Education Scotland inspection grades (coverage is partial, some inspections are over a " +
+      "decade old). Secondary schools are coloured by recent SQA Highers attainment. Always " +
+      "check the date/year shown in each popup.";
   }
   buildLocalAuthorityCheckboxes(schools, selectedRegion);
   buildRatingCheckboxes(schools);
