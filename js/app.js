@@ -53,8 +53,29 @@ function createMarkerForSchool(school) {
   const colorHex = colorForScore(school.rating.score, school.rating.hasData);
   const icon = buildIcon(school.sector, colorHex);
   const marker = L.marker([school.lat, school.lng], { icon });
-  marker.bindPopup(buildPopupHtml(school));
+  marker.on("click", () => openSchoolModal(school));
   return marker;
+}
+
+function openSchoolModal(school) {
+  document.getElementById("school-modal-content").innerHTML = buildPopupHtml(school);
+  document.getElementById("school-modal-overlay").hidden = false;
+}
+
+function closeSchoolModal() {
+  document.getElementById("school-modal-overlay").hidden = true;
+}
+
+function initSchoolModal() {
+  document.getElementById("school-modal-close").addEventListener("click", closeSchoolModal);
+
+  document.getElementById("school-modal-overlay").addEventListener("click", (e) => {
+    if (e.target.id === "school-modal-overlay") closeSchoolModal();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeSchoolModal();
+  });
 }
 
 function isVisible(school) {
@@ -247,6 +268,7 @@ async function init() {
   buildLocalAuthorityCheckboxes(schools, selectedRegion);
   buildRatingCheckboxes(schools);
   initAccordion();
+  initSchoolModal();
 
   markerRecords = schools.map((school) => ({
     school,
