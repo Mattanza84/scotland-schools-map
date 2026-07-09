@@ -1,0 +1,86 @@
+/* Shared site header + hamburger menu, used by every page for a consistent
+   top bar (regions.html, index.html, ...). Keep this the single source of
+   truth for header styling rather than duplicating rules per page. */
+
+#site-header {
+  flex: 0 0 auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #0065bd;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+}
+
+.site-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+#menu-toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+#menu-toggle span {
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: #fff;
+  border-radius: 2px;
+}
+
+#menu-toggle:hover span {
+  background: #e5f0fa;
+}
+
+#site-menu {
+  position: absolute;
+  top: 100%;
+  right: 1.5rem;
+  z-index: 20;
+  background: #fff;
+  color: #222;
+  border: 1px solid #ddd;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  padding: 1rem 1.25rem;
+  min-width: 220px;
+}
+
+.site-menu-placeholder {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #777;
+}
+
+@media (max-width: 600px) {
+  #site-header {
+    padding: 0.6rem 1rem;
+  }
+
+  .site-title {
+    font-size: 1rem;
+  }
+
+  #menu-toggle {
+    width: 36px;
+    height: 36px;
+  }
+
+  #site-menu {
+    right: 0.5rem;
+    left: 0.5rem;
+    min-width: 0;
+    width: auto;
+  }
+}
