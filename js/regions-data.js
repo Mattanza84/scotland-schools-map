@@ -1,5 +1,5 @@
-// Shared macro-region definitions, used by both regions.html (the picker
-// screen) and index.html (to pre-filter local authorities when arriving via
+// Shared macro-region definitions, used by both index.html (the picker
+// screen) and map.html (to pre-filter local authorities when arriving via
 // a region link). Local authority names must match `localAuthority` exactly
 // as it appears in data/schools.json.
 

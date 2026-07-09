@@ -3,7 +3,7 @@ Builds js/scotland-geometry.js from the real ONS local authority boundary
 data in data/raw/scotland_la_boundaries.geojson (British National Grid,
 EPSG:27700). Converts each of Scotland's 32 local authority polygons into an
 SVG path (flipping northing -> SVG y, scaling to fit a chosen viewBox) and
-tags each with its macro-region slug, so regions.html can render an
+tags each with its macro-region slug, so index.html can render an
 accurate, real-shaped map instead of hand-drawn approximations.
 
 Run with: python3 scripts/build_regions_geometry.py

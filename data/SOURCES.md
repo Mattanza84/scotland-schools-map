@@ -39,7 +39,7 @@
   whichever quality indicators were graded at that school's inspection — not an official
   Education Scotland score.
 
-## Region-picker boundary shapes (regions.html)
+## Region-picker boundary shapes (index.html)
 
 - **Source**: ONS Open Geography Portal, "Local Authority Districts (December 2023) Boundaries
   UK BUC" (Ultra Generalised, 500m — the lightest-weight ONS boundary product, intended for

@@ -2,8 +2,8 @@
 
 Interactive map of primary and secondary schools across all 32 Scottish local authorities,
 colour-coded by an illustrative rating derived from published Education Scotland inspection
-quality indicators. Start from the area picker (`regions.html`) to jump straight to one of 6
-macro regions, or browse the full map directly.
+quality indicators. The homepage is the area picker (`index.html`) — pick one of 6 macro regions
+to jump into the filtered map (`map.html`).
 
 ## Running locally
 
@@ -14,16 +14,15 @@ folder with a simple static server instead of double-clicking `index.html`:
 python3 -m http.server 8000
 ```
 
-Then open `http://localhost:8000/regions.html` in a browser to start from the area picker, or
-`http://localhost:8000/index.html` to go straight to the full map.
+Then open `http://localhost:8000/` in a browser to start from the area picker.
 
-## Area picker (`regions.html`)
+## Area picker (`index.html`)
 
 A stylized, clickable map of Scotland split into 6 macro regions (Highland and Islands, Aberdeen
 and North East, Tayside/Central/Fife, Edinburgh and Lothians, Glasgow and Strathclyde, Scotland
 South — see `js/regions-data.js` for the exact local-authority membership of each). Clicking a
-region (on the map or in the list) opens `index.html?region=<slug>`, which pre-checks only that
-region's local authorities and fits the map view to that region's real geographic bounds.
+region opens `map.html?region=<slug>`, which pre-checks only that region's local authorities and
+fits the map view to that region's real geographic bounds.
 
 ## What the map shows
 
@@ -59,13 +58,13 @@ from).
 ## File structure
 
 ```
-regions.html                   Area picker (clickable map of Scotland's 6 macro regions)
+index.html                     Homepage: area picker (clickable map of Scotland's 6 macro regions)
 css/regions.css                Area picker styling
 js/regions-page.js             Area picker: renders the map, click/hover/keyboard wiring
 js/regions-data.js             Shared region -> local authority definitions
 js/scotland-geometry.js        Generated: real local authority boundary shapes (see below)
 scripts/build_regions_geometry.py  Rebuilds js/scotland-geometry.js from data/raw/scotland_la_boundaries.geojson
-index.html                     Main schools map
+map.html                       Main schools map
 css/style.css                  Main map styling
 js/app.js                      Map init, layer toggling, region-param handling
 js/markers.js                  Icon/colour/popup builders
