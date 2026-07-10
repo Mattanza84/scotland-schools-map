@@ -1,0 +1,49 @@
+/* Shared site footer, used by every page for a consistent bottom bar
+   (index.html, map.html, schools/*.html, ...). Keep this the single source
+   of truth for footer styling rather than duplicating rules per page. */
+
+#site-footer {
+  flex: 0 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  background: #1a1a1a;
+  color: #bbb;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.8rem;
+}
+
+#site-footer p {
+  margin: 0;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.footer-links a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  #site-footer {
+    justify-content: center;
+    text-align: center;
+    padding: 0.75rem 1rem;
+  }
+
+  .footer-links {
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

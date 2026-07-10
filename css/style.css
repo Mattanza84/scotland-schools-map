@@ -44,15 +44,7 @@ html, body {
 #map {
   position: relative;
   width: 100%;
-  height: calc(100vh - 192px);
-}
-
-#page-footer {
-  padding: 0.4rem 1.25rem;
-  font-size: 0.72rem;
-  color: #555;
-  background: #f2f2f2;
-  border-top: 1px solid #ddd;
+  height: calc(100vh - 205px);
 }
 
 #control-panel {
@@ -61,7 +53,7 @@ html, body {
   top: 202px;
   right: 12px;
   width: 300px;
-  max-height: calc(100vh - 224px);
+  max-height: calc(100vh - 237px);
   overflow-y: auto;
 }
 
