@@ -36,6 +36,16 @@ fits the map view to that region's real geographic bounds.
 - **Checkboxes** (filter panel) toggle primary/secondary schools, local authorities, and rating
   bands on/off.
 
+## School pages (`schools/<local-authority>/<school-name>.html`)
+
+Every school also gets its own static detail page (generated, not hand-written) at a URL like
+`schools/city-of-edinburgh/boroughmuir-high-school.html`, linked from that school's map popup
+("View full profile") and vice versa ("View on interactive map" jumps back to the map with that
+school's marker highlighted). Each page shows only real, sourced data: rating detail, pupil
+roll/pupil:teacher ratio, contact details, a small embedded map, and nearby schools (computed by
+distance) — no invented star ratings, capacity, attendance, catchment areas, or narrative "about"
+text. A `sitemap.xml` covering every page is generated alongside them.
+
 ## Data and its limitations
 
 See [`data/SOURCES.md`](data/SOURCES.md) for full provenance. In short:
@@ -57,9 +67,15 @@ pip3 install openpyxl
 python3 scripts/build_schools_json.py
 ```
 
-This reads the files in `data/raw/` and rewrites `data/schools.json`. To refresh with newer
-source data, replace the files in `data/raw/` first (see `data/SOURCES.md` for where they came
-from, including the SPARQL query used for the secondary attainment data).
+This reads the files in `data/raw/` and rewrites `data/schools.json`, including each school's
+`pageUrl`. Then regenerate the school pages from that:
+
+```
+python3 scripts/build_school_pages.py
+```
+
+To refresh with newer source data, replace the files in `data/raw/` first (see `data/SOURCES.md`
+for where they came from, including the SPARQL query used for the secondary attainment data).
 
 ## File structure
 
@@ -72,9 +88,15 @@ js/scotland-geometry.js        Generated: real local authority boundary shapes (
 scripts/build_regions_geometry.py  Rebuilds js/scotland-geometry.js from data/raw/scotland_la_boundaries.geojson
 map.html                       Main schools map
 css/style.css                  Main map styling
-js/app.js                      Map init, layer toggling, region-param handling
+js/app.js                      Map init, layer toggling, region-param handling, ?school= deep link
 js/markers.js                  Icon/colour/popup builders
 js/data-loader.js              Fetches data/schools.json
+schools/                       Generated: one static detail page per school
+css/school-page.css            School detail page styling
+js/school-page.js              Initialises the small embedded map on each school page
+scripts/build_school_pages.py  Rebuilds schools/ and sitemap.xml from data/schools.json
+scripts/region_mapping.py      Shared local-authority -> macro-region mapping (Python side)
+sitemap.xml                    Generated: every page URL, for search engines
 data/schools.json              Final dataset used by the app
 data/raw/                      Downloaded source files (provenance)
 data/SOURCES.md                Source URLs, fetch dates, known limitations

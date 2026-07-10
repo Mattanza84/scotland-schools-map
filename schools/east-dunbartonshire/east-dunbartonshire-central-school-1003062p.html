@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>East Dunbartonshire Central School &mdash; East Dunbartonshire | Scotland Schools Map</title>
+<meta name="description" content="East Dunbartonshire Central School is a non-denominational primary school in the East Dunbartonshire local authority area.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<link rel="stylesheet" href="/css/site-header.css?v=8">
+<link rel="stylesheet" href="/css/school-page.css?v=1">
+</head>
+<body>
+
+<header id="site-header">
+  <a class="site-title" href="/" style="color:inherit;text-decoration:none;">Scotland Schools Map</a>
+  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="site-menu" hidden>
+    <p class="site-menu-placeholder">More sections coming soon.</p>
+  </nav>
+</header>
+
+<main id="school-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/map.html?region=glasgow-strathclyde">Glasgow and Strathclyde</a> &rsaquo; <span>East Dunbartonshire</span> &rsaquo; <span>East Dunbartonshire Central School</span></nav>
+
+  <div class="school-hero">
+    <div>
+      <span class="sector-badge sector-badge--primary">Primary school</span>
+      <h1>East Dunbartonshire Central School</h1>
+      <div class="hero-rating">
+        <span class="rating-dot" style="background:#9e9e9e"></span>
+        <strong>No rating data</strong>
+      </div>
+      <p class="summary-text">East Dunbartonshire Central School is a non-denominational primary school in the East Dunbartonshire local authority area.</p>
+      <a class="view-map-link" href="/map.html?region=glasgow-strathclyde&school=1003062">View on interactive map &rarr;</a>
+    </div>
+    <div id="school-map" data-lat="55.9362943" data-lng="-4.1571179"
+         data-name="East Dunbartonshire Central School" data-shape="circle" data-color="#9e9e9e"></div>
+  </div>
+
+  <section>
+    <h2>Overview</h2>
+    <div class="quick-facts-grid"><div class="fact-card"><span class="fact-label">School type</span><span class="fact-value">Primary</span></div><div class="fact-card"><span class="fact-label">Local authority</span><span class="fact-value">East Dunbartonshire</span></div><div class="fact-card"><span class="fact-label">Denomination</span><span class="fact-value">Non-denominational</span></div></div>
+  </section>
+
+  <section>
+    <h2>Rating detail</h2>
+    <p class="no-rating">No rating data is available for this school.</p>
+  </section>
+
+  <div class="two-col">
+    <section>
+      <h2>Contact details</h2>
+      <div class="contact-list"><div class="contact-row"><span>Address</span><span>New College Lanarkshire Kirkintilloch Campus, 50 Southbank Road, KIRKINTILLOCH, G66 1NH</span></div><div class="contact-row"><span>Phone</span><span><a href="tel:0141 578 8681">0141 578 8681</a></span></div><div class="contact-row"><span>Email</span><span><a href="mailto:jackie.swan@eastdunbarton.gov.uk">jackie.swan@eastdunbarton.gov.uk</a></span></div><div class="contact-row"><span>Website</span><span><a href="http://0" rel="noopener" target="_blank">http://0</a></span></div></div>
+    </section>
+
+    <section>
+      <h2>Nearby schools</h2>
+      <div class="nearby-grid">
+          <a class="nearby-card" href="/schools/east-dunbartonshire/east-dunbartonshire-central-school-1003062s.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Secondary</span>
+              <span class="nearby-distance">0.0 km</span>
+            </div>
+            <div class="nearby-name">East Dunbartonshire Central School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating nearby-rating--none">No data</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/lairdsland-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.3 km</span>
+            </div>
+            <div class="nearby-name">Lairdsland Primary School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(208, 210, 127)">Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/st-ninian-s-high-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Secondary</span>
+              <span class="nearby-distance">0.3 km</span>
+            </div>
+            <div class="nearby-name">St Ninian&#x27;s High School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(250, 206, 129)">Very Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/holy-family-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.9 km</span>
+            </div>
+            <div class="nearby-name">Holy Family Primary School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(44, 158, 85)">Excellent</span>
+          </a></div>
+    </section>
+  </div>
+</main>
+
+<footer id="page-footer">
+  Data: school locations, sectors &amp; contact details from the Scottish Government
+  "Schools_Scotland" dataset; ratings from Education Scotland inspections (FOI-202000044014) or
+  SQA attainment statistics (statistics.gov.scot). See <a href="/data/SOURCES.md">data/SOURCES.md</a>
+  for full provenance.
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/js/site-header.js?v=8"></script>
+<script src="/js/school-page.js?v=1"></script>
+</body>
+</html>

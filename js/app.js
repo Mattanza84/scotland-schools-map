@@ -278,6 +278,17 @@ async function init() {
 
   applyMarkerVisibility();
 
+  const highlightSeed = new URLSearchParams(window.location.search).get("school");
+  if (highlightSeed) {
+    const target = markerRecords.find(
+      ({ school }) => String(school.seedCode) === highlightSeed
+    );
+    if (target) {
+      map.setView([target.school.lat, target.school.lng], 16);
+      openSchoolModal(target.school);
+    }
+  }
+
   document.getElementById("toggle-primary").addEventListener("change", (e) => {
     if (e.target.checked) {
       activeSectors.add("primary");

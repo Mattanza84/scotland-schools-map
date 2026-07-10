@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>St Ninian&#x27;s High School &mdash; East Renfrewshire | Scotland Schools Map</title>
+<meta name="description" content="St Ninian&#x27;s High School is a roman catholic secondary school in the East Renfrewshire local authority area. In 2024-25, 83% of its leaver cohort attained 5 or more qualifications at Higher level or above. The school has a pupil roll of 1,899.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<link rel="stylesheet" href="/css/site-header.css?v=8">
+<link rel="stylesheet" href="/css/school-page.css?v=1">
+</head>
+<body>
+
+<header id="site-header">
+  <a class="site-title" href="/" style="color:inherit;text-decoration:none;">Scotland Schools Map</a>
+  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="site-menu" hidden>
+    <p class="site-menu-placeholder">More sections coming soon.</p>
+  </nav>
+</header>
+
+<main id="school-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/map.html?region=glasgow-strathclyde">Glasgow and Strathclyde</a> &rsaquo; <span>East Renfrewshire</span> &rsaquo; <span>St Ninian&#x27;s High School</span></nav>
+
+  <div class="school-hero">
+    <div>
+      <span class="sector-badge sector-badge--secondary">Secondary school</span>
+      <h1>St Ninian&#x27;s High School</h1>
+      <div class="hero-rating">
+        <span class="rating-dot" style="background:rgb(104, 176, 100)"></span>
+        <strong>Excellent</strong>
+      </div>
+      <p class="summary-text">St Ninian&#x27;s High School is a roman catholic secondary school in the East Renfrewshire local authority area. In 2024-25, 83% of its leaver cohort attained 5 or more qualifications at Higher level or above. The school has a pupil roll of 1,899.</p>
+      <a class="view-map-link" href="/map.html?region=glasgow-strathclyde&school=8602433">View on interactive map &rarr;</a>
+    </div>
+    <div id="school-map" data-lat="55.7993299" data-lng="-4.3020449"
+         data-name="St Ninian&#x27;s High School" data-shape="triangle" data-color="rgb(104, 176, 100)"></div>
+  </div>
+
+  <section>
+    <h2>Overview</h2>
+    <div class="quick-facts-grid"><div class="fact-card"><span class="fact-label">School type</span><span class="fact-value">Secondary</span></div><div class="fact-card"><span class="fact-label">Local authority</span><span class="fact-value">East Renfrewshire</span></div><div class="fact-card"><span class="fact-label">Denomination</span><span class="fact-value">Roman Catholic</span></div><div class="fact-card"><span class="fact-label">Rating</span><span class="fact-value">Excellent</span></div><div class="fact-card"><span class="fact-label">Pupil roll</span><span class="fact-value">1,899</span></div><div class="fact-card"><span class="fact-label">Pupil:teacher ratio</span><span class="fact-value">13.1:1</span></div></div>
+  </section>
+
+  <section>
+    <h2>Rating detail</h2>
+    
+      <div class="rating-cards">
+        <div class="rating-card" style="border-top-color: rgb(104, 176, 100)">
+          <span class="rating-card-label">5+ Higher passes</span>
+          <span class="rating-card-value">83%</span>
+        </div>
+      </div>
+      <p class="rating-source">SQA attainment, 2024-25 &mdash; Scottish Government
+        (statistics.gov.scot, "Breadth and Depth of Qualifications"). This is a raw attainment
+        figure, not adjusted for pupils' backgrounds &mdash; the official methodology recommends
+        comparing a school to its "virtual comparator" for a fairer read, which this page does
+        not show.</p>
+  </section>
+
+  <div class="two-col">
+    <section>
+      <h2>Contact details</h2>
+      <div class="contact-list"><div class="contact-row"><span>Address</span><span>13 Eastwood Park, Rouken Glen Road, GIFFNOCK, G46 6UX</span></div><div class="contact-row"><span>Phone</span><span><a href="tel:0141 577 2000">0141 577 2000</a></span></div><div class="contact-row"><span>Email</span><span><a href="mailto:headteacher@st-ninians.e-renfrew.sch.uk">headteacher@st-ninians.e-renfrew.sch.uk</a></span></div><div class="contact-row"><span>Website</span><span><a href="http://www.ea.e-renfrew.sch.uk/stninians/" rel="noopener" target="_blank">http://www.ea.e-renfrew.sch.uk/stninians/</a></span></div></div>
+    </section>
+
+    <section>
+      <h2>Nearby schools</h2>
+      <div class="nearby-grid">
+          <a class="nearby-card" href="/schools/east-renfrewshire/our-lady-of-the-missions-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.5 km</span>
+            </div>
+            <div class="nearby-name">Our Lady Of The Missions Primary School</div>
+            <div class="nearby-la">East Renfrewshire</div>
+            <span class="nearby-rating" style="background: rgb(72, 166, 92)">Excellent</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-renfrewshire/giffnock-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.7 km</span>
+            </div>
+            <div class="nearby-name">Giffnock Primary School</div>
+            <div class="nearby-la">East Renfrewshire</div>
+            <span class="nearby-rating" style="background: rgb(163, 195, 115)">Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-renfrewshire/woodfarm-high-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Secondary</span>
+              <span class="nearby-distance">0.7 km</span>
+            </div>
+            <div class="nearby-name">Woodfarm High School</div>
+            <div class="nearby-la">East Renfrewshire</div>
+            <span class="nearby-rating" style="background: rgb(145, 189, 111)">Excellent</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-renfrewshire/thornliebank-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">1.3 km</span>
+            </div>
+            <div class="nearby-name">Thornliebank Primary School</div>
+            <div class="nearby-la">East Renfrewshire</div>
+            <span class="nearby-rating" style="background: rgb(135, 187, 108)">Very Good</span>
+          </a></div>
+    </section>
+  </div>
+</main>
+
+<footer id="page-footer">
+  Data: school locations, sectors &amp; contact details from the Scottish Government
+  "Schools_Scotland" dataset; ratings from Education Scotland inspections (FOI-202000044014) or
+  SQA attainment statistics (statistics.gov.scot). See <a href="/data/SOURCES.md">data/SOURCES.md</a>
+  for full provenance.
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/js/site-header.js?v=8"></script>
+<script src="/js/school-page.js?v=1"></script>
+</body>
+</html>

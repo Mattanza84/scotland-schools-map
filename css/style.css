@@ -369,6 +369,19 @@ html, body {
   padding-left: 8px;
 }
 
+.popup-profile-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0065bd;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.popup-profile-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 640px) {
   #control-panel {
     position: static;

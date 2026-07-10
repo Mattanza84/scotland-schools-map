@@ -22,6 +22,7 @@ Run with: python3 scripts/build_schools_json.py
 """
 import json
 import os
+import re
 from datetime import date
 
 import openpyxl
@@ -102,6 +103,13 @@ def load_locations():
         if p.get("PostCode"):
             address = f"{address}, {p['PostCode']}" if address else p["PostCode"]
 
+        website = p.get("WebsiteAdd") or None
+        if website and not website.startswith(("http://", "https://")):
+            website = f"http://{website}"
+
+        pupil_roll = p.get("Pupil_Roll")
+        fte_teachers = p.get("FTE_Teache")
+
         schools[p["SchUID"]] = {
             "id": p["SchUID"],
             "seedCode": seed,
@@ -112,9 +120,41 @@ def load_locations():
             "address": address,
             "lat": lat,
             "lng": lng,
+            "email": p.get("Email") or None,
+            "phone": p.get("PhoneNumbe") or None,
+            "website": website,
+            "pupilRoll": int(pupil_roll) if pupil_roll not in (None, "", 0) else None,
+            "fteTeachers": round(fte_teachers, 1) if fte_teachers not in (None, "", 0) else None,
             "rating": {"hasData": False},
         }
     return schools
+
+
+def slugify(text):
+    slug = text.lower().strip()
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    return slug.strip("-")
+
+
+def assign_page_urls(schools):
+    """Sets school['pageUrl'] = 'schools/<la-slug>/<school-slug>.html', appending
+    the SEED code to the school slug only when two schools in the same local
+    authority would otherwise collide (e.g. same name on split campuses)."""
+    la_school_slugs = {}
+    for school in schools.values():
+        la_slug = slugify(school["localAuthority"])
+        school_slug = slugify(school["name"])
+        la_school_slugs.setdefault((la_slug, school_slug), []).append(school)
+
+    for (la_slug, school_slug), group in la_school_slugs.items():
+        for school in group:
+            # SEED code alone doesn't disambiguate: a primary and secondary
+            # sharing one campus can share a SEED code (only the SchUID's
+            # P/S/SP suffix differs), so use the full id, not seedCode.
+            final_slug = (
+                school_slug if len(group) == 1 else f"{school_slug}-{school['id'].lower()}"
+            )
+            school["pageUrl"] = f"schools/{la_slug}/{final_slug}.html"
 
 
 def read_inspection_sheet(ws, header_name="Seed No."):
@@ -256,6 +296,8 @@ def main():
 
     attainment_by_seed = load_attainment()
     attainment_matched = apply_attainment(schools, attainment_by_seed)
+
+    assign_page_urls(schools)
 
     out = sorted(schools.values(), key=lambda s: (s["localAuthority"], s["name"]))
 

@@ -11,6 +11,8 @@ Run with: python3 scripts/build_regions_geometry.py
 import json
 import os
 
+from region_mapping import LA_NAME_ALIASES, LA_TO_REGION as CANONICAL_LA_TO_REGION
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_PATH = os.path.join(ROOT, "data", "raw", "scotland_la_boundaries.geojson")
 RAW_WGS84_PATH = os.path.join(ROOT, "data", "raw", "scotland_la_boundaries_wgs84.geojson")
@@ -19,48 +21,13 @@ OUT_PATH = os.path.join(ROOT, "js", "scotland-geometry.js")
 VIEWBOX_WIDTH = 520
 MARGIN = 8
 
-# ONS LAD23NM -> region slug. Names must match data/raw feature properties
-# exactly. Note ONS spells the Outer Hebrides "Na h-Eileanan Siar", while the
-# schools dataset (and js/regions-data.js) uses "Na h-Eileanan an Iar" for
-# the same council area -- handled by LA_NAME_ALIASES below.
+# ONS LAD23NM -> region slug, derived from the canonical (schools.json
+# spelling) mapping in region_mapping.py via LA_NAME_ALIASES, since ONS
+# spells the Outer Hebrides council "Na h-Eileanan Siar" while everywhere
+# else in this project uses "Na h-Eileanan an Iar" for the same area.
 LA_TO_REGION = {
-    "Highland": "highland-islands",
-    "Argyll and Bute": "highland-islands",
-    "Na h-Eileanan Siar": "highland-islands",
-    "Orkney Islands": "highland-islands",
-    "Shetland Islands": "highland-islands",
-    "Aberdeen City": "aberdeen-north-east",
-    "Aberdeenshire": "aberdeen-north-east",
-    "Moray": "aberdeen-north-east",
-    "Angus": "tayside-central-fife",
-    "Clackmannanshire": "tayside-central-fife",
-    "Dundee City": "tayside-central-fife",
-    "Falkirk": "tayside-central-fife",
-    "Fife": "tayside-central-fife",
-    "Perth and Kinross": "tayside-central-fife",
-    "Stirling": "tayside-central-fife",
-    "City of Edinburgh": "edinburgh-lothians",
-    "East Lothian": "edinburgh-lothians",
-    "Midlothian": "edinburgh-lothians",
-    "West Lothian": "edinburgh-lothians",
-    "Glasgow City": "glasgow-strathclyde",
-    "East Ayrshire": "glasgow-strathclyde",
-    "East Dunbartonshire": "glasgow-strathclyde",
-    "East Renfrewshire": "glasgow-strathclyde",
-    "Inverclyde": "glasgow-strathclyde",
-    "North Ayrshire": "glasgow-strathclyde",
-    "North Lanarkshire": "glasgow-strathclyde",
-    "Renfrewshire": "glasgow-strathclyde",
-    "South Ayrshire": "glasgow-strathclyde",
-    "South Lanarkshire": "glasgow-strathclyde",
-    "West Dunbartonshire": "glasgow-strathclyde",
-    "Dumfries and Galloway": "scotland-south",
-    "Scottish Borders": "scotland-south",
-}
-
-# Canonical name to use in output (matches js/regions-data.js / schools.json).
-LA_NAME_ALIASES = {
-    "Na h-Eileanan Siar": "Na h-Eileanan an Iar",
+    ons_name: CANONICAL_LA_TO_REGION[LA_NAME_ALIASES.get(ons_name, ons_name)]
+    for ons_name in list(CANONICAL_LA_TO_REGION) + list(LA_NAME_ALIASES)
 }
 
 

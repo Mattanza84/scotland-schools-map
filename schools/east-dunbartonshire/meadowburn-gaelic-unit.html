@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meadowburn Gaelic Unit &mdash; East Dunbartonshire | Scotland Schools Map</title>
+<meta name="description" content="Meadowburn Gaelic Unit is a non-denominational primary school in the East Dunbartonshire local authority area. The school has a pupil roll of 83.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<link rel="stylesheet" href="/css/site-header.css?v=8">
+<link rel="stylesheet" href="/css/school-page.css?v=1">
+</head>
+<body>
+
+<header id="site-header">
+  <a class="site-title" href="/" style="color:inherit;text-decoration:none;">Scotland Schools Map</a>
+  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="site-menu" hidden>
+    <p class="site-menu-placeholder">More sections coming soon.</p>
+  </nav>
+</header>
+
+<main id="school-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/map.html?region=glasgow-strathclyde">Glasgow and Strathclyde</a> &rsaquo; <span>East Dunbartonshire</span> &rsaquo; <span>Meadowburn Gaelic Unit</span></nav>
+
+  <div class="school-hero">
+    <div>
+      <span class="sector-badge sector-badge--primary">Primary school</span>
+      <h1>Meadowburn Gaelic Unit</h1>
+      <div class="hero-rating">
+        <span class="rating-dot" style="background:#9e9e9e"></span>
+        <strong>No rating data</strong>
+      </div>
+      <p class="summary-text">Meadowburn Gaelic Unit is a non-denominational primary school in the East Dunbartonshire local authority area. The school has a pupil roll of 83.</p>
+      <a class="view-map-link" href="/map.html?region=glasgow-strathclyde&school=8341826">View on interactive map &rarr;</a>
+    </div>
+    <div id="school-map" data-lat="55.9160292" data-lng="-4.2215329"
+         data-name="Meadowburn Gaelic Unit" data-shape="circle" data-color="#9e9e9e"></div>
+  </div>
+
+  <section>
+    <h2>Overview</h2>
+    <div class="quick-facts-grid"><div class="fact-card"><span class="fact-label">School type</span><span class="fact-value">Primary</span></div><div class="fact-card"><span class="fact-label">Local authority</span><span class="fact-value">East Dunbartonshire</span></div><div class="fact-card"><span class="fact-label">Denomination</span><span class="fact-value">Non-denominational</span></div><div class="fact-card"><span class="fact-label">Pupil roll</span><span class="fact-value">83</span></div><div class="fact-card"><span class="fact-label">Pupil:teacher ratio</span><span class="fact-value">13.8:1</span></div></div>
+  </section>
+
+  <section>
+    <h2>Rating detail</h2>
+    <p class="no-rating">No rating data is available for this school.</p>
+  </section>
+
+  <div class="two-col">
+    <section>
+      <h2>Contact details</h2>
+      <div class="contact-list"><div class="contact-row"><span>Address</span><span>Meadowburn Primary School, Lendale lane, BISHOPBRIGGS, G64 3LL</span></div><div class="contact-row"><span>Phone</span><span><a href="tel:0141 955 2293">0141 955 2293</a></span></div><div class="contact-row"><span>Email</span><span><a href="mailto:office@meadowburn.e-dunbarton.sch.uk">office@meadowburn.e-dunbarton.sch.uk</a></span></div><div class="contact-row"><span>Website</span><span><a href="http://www.meadowburn.e-dunbarton.sch.uk" rel="noopener" target="_blank">http://www.meadowburn.e-dunbarton.sch.uk</a></span></div></div>
+    </section>
+
+    <section>
+      <h2>Nearby schools</h2>
+      <div class="nearby-grid">
+          <a class="nearby-card" href="/schools/east-dunbartonshire/meadowburn-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.0 km</span>
+            </div>
+            <div class="nearby-name">Meadowburn Primary School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(208, 210, 127)">Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/balmuildy-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.8 km</span>
+            </div>
+            <div class="nearby-name">Balmuildy Primary School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(208, 210, 127)">Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/st-matthew-s-primary-school.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.9 km</span>
+            </div>
+            <div class="nearby-name">St Matthew&#x27;s Primary School</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(245, 221, 137)">Good</span>
+          </a>
+          <a class="nearby-card" href="/schools/east-dunbartonshire/wester-cleddens-primary.html">
+            <div class="nearby-card-top">
+              <span class="nearby-sector">Primary</span>
+              <span class="nearby-distance">0.9 km</span>
+            </div>
+            <div class="nearby-name">Wester Cleddens Primary</div>
+            <div class="nearby-la">East Dunbartonshire</div>
+            <span class="nearby-rating" style="background: rgb(163, 195, 115)">Good</span>
+          </a></div>
+    </section>
+  </div>
+</main>
+
+<footer id="page-footer">
+  Data: school locations, sectors &amp; contact details from the Scottish Government
+  "Schools_Scotland" dataset; ratings from Education Scotland inspections (FOI-202000044014) or
+  SQA attainment statistics (statistics.gov.scot). See <a href="/data/SOURCES.md">data/SOURCES.md</a>
+  for full provenance.
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/js/site-header.js?v=8"></script>
+<script src="/js/school-page.js?v=1"></script>
+</body>
+</html>

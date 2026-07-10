@@ -105,6 +105,10 @@ function buildPopupHtml(school) {
     ratingBlock = `<div class="popup-rating popup-rating--none">No rating data available for this school.</div>`;
   }
 
+  const profileLink = school.pageUrl
+    ? `<a class="popup-profile-link" href="/${escapeHtml(school.pageUrl)}">View full profile &rarr;</a>`
+    : "";
+
   return `
     <div class="school-popup">
       <h3>${escapeHtml(school.name)}</h3>
@@ -112,5 +116,6 @@ function buildPopupHtml(school) {
       <div class="popup-address">${escapeHtml(school.address)}</div>
       <hr>
       ${ratingBlock}
+      ${profileLink}
     </div>`;
 }
