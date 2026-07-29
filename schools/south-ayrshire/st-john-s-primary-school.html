@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>St John&#x27;s Primary School &mdash; South Ayrshire | Scotland Schools Map</title>
-<meta name="description" content="St John&#x27;s Primary School is a roman catholic primary school in the South Ayrshire local authority area. According to its most recent Education Scotland inspection (2018-09-11), it was rated very good on the quality indicators graded at that visit. The school has a pupil roll of 244.">
+<meta name="description" content="St John&#x27;s Primary School is a primary school in South Ayrshire.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <link rel="stylesheet" href="/css/site-header.css?v=10">
 <link rel="stylesheet" href="/css/site-footer.css?v=1">
-<link rel="stylesheet" href="/css/school-page.css?v=2">
+<link rel="stylesheet" href="/css/school-page.css?v=3">
 </head>
 <body>
 
@@ -27,87 +27,34 @@
   <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/map.html?region=glasgow-strathclyde">Glasgow and Strathclyde</a> &rsaquo; <span>South Ayrshire</span> &rsaquo; <span>St John&#x27;s Primary School</span></nav>
 
   <div class="school-hero">
-    <div>
-      <span class="sector-badge sector-badge--primary">Primary school</span>
+    <div class="hero-info">
+      <span class="sector-badge">Primary school</span>
       <h1>St John&#x27;s Primary School</h1>
-      <div class="hero-rating">
-        <span class="rating-dot" style="background:rgb(117, 181, 104)"></span>
-        <strong>Very Good</strong>
-      </div>
-      <p class="summary-text">St John&#x27;s Primary School is a roman catholic primary school in the South Ayrshire local authority area. According to its most recent Education Scotland inspection (2018-09-11), it was rated very good on the quality indicators graded at that visit. The school has a pupil roll of 244.</p>
-      <a class="view-map-link" href="/map.html?region=glasgow-strathclyde&school=8232024">View on interactive map &rarr;</a>
+      <p class="hero-la">South Ayrshire</p>
+      <div class="hero-contact"><div class="contact-row"><span class="contact-icon"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span><span>2A Whitletts Road, Ayr, KA8 0JB</span></div><div class="contact-row"><span class="contact-icon"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><a href="tel:01292 612711">01292 612711</a></div><div class="contact-row"><span class="contact-icon"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10A15.3 15.3 0 0 1 12 2z"/></svg></span><a href="http://blogs.glowscotland.org.uk/sa/stjohnsps/" rel="noopener" target="_blank">Visit website</a></div><div class="contact-row"><span class="contact-icon"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></span><a href="mailto:stjohns.mail@south-ayrshire.gov.uk">Email the school</a></div></div>
     </div>
-    <div id="school-map" data-lat="55.4659148" data-lng="-4.620067"
-         data-name="St John&#x27;s Primary School" data-shape="circle" data-color="rgb(117, 181, 104)"></div>
+    <div class="hero-map-wrap">
+      <div id="school-map" data-lat="55.4659148" data-lng="-4.620067"
+           data-name="St John&#x27;s Primary School" data-shape="circle" data-color="rgb(32, 190, 90)"></div>
+      <a class="map-expand-link" href="/map.html?region=glasgow-strathclyde&school=8232024">View on the interactive map &rarr;</a>
+    </div>
   </div>
 
-  <section>
-    <h2>Overview</h2>
-    <div class="quick-facts-grid"><div class="fact-card"><span class="fact-label">School type</span><span class="fact-value">Primary</span></div><div class="fact-card"><span class="fact-label">Local authority</span><span class="fact-value">South Ayrshire</span></div><div class="fact-card"><span class="fact-label">Denomination</span><span class="fact-value">Roman Catholic</span></div><div class="fact-card"><span class="fact-label">Rating</span><span class="fact-value">Very Good</span></div><div class="fact-card"><span class="fact-label">Pupil roll</span><span class="fact-value">244</span></div><div class="fact-card"><span class="fact-label">Pupil:teacher ratio</span><span class="fact-value">13.8:1</span></div></div>
-  </section>
+  <div class="stat-cards"><div class="stat-card"><div class="stat-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><div class="stat-label">School Rating</div><div class="stat-value" style="color:rgb(32, 190, 90)">Very Good</div><div class="stat-sub">Inspected 2018-09-11</div></div><div class="stat-card"><div class="stat-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg></div><div class="stat-label">Denomination</div><div class="stat-value">Roman Catholic</div></div><div class="stat-card"><div class="stat-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="stat-label">Pupil Roll</div><div class="stat-value">244</div></div><div class="stat-card"><div class="stat-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div><div class="stat-label">Pupil:Teacher Ratio</div><div class="stat-value">13.8:1</div><div class="stat-sub">Scotland avg: 13.8:1</div></div></div>
 
-  <section>
-    <h2>Rating detail</h2>
-    
-          <p class="rating-source">Inspected 2018-09-11 by Education Scotland.
-            Rating is an illustrative average of the quality indicators graded at that inspection,
-            not an official single overall grade.</p>
-          <div class="rating-cards"><div class="rating-card" style="border-top-color: rgb(117, 181, 104)">
-              <span class="rating-card-label">Self-evaluation for self-improvement</span>
-              <span class="rating-card-value">Very Good</span>
-            </div><div class="rating-card" style="border-top-color: rgb(117, 181, 104)">
-              <span class="rating-card-label">Raising attainment and achievement</span>
-              <span class="rating-card-value">Very Good</span>
-            </div></div>
-  </section>
-
-  <div class="two-col">
-    <section>
-      <h2>Contact details</h2>
-      <div class="contact-list"><div class="contact-row"><span>Address</span><span>2A Whitletts Road, Ayr, KA8 0JB</span></div><div class="contact-row"><span>Phone</span><span><a href="tel:01292 612711">01292 612711</a></span></div><div class="contact-row"><span>Email</span><span><a href="mailto:stjohns.mail@south-ayrshire.gov.uk">stjohns.mail@south-ayrshire.gov.uk</a></span></div><div class="contact-row"><span>Website</span><span><a href="http://blogs.glowscotland.org.uk/sa/stjohnsps/" rel="noopener" target="_blank">http://blogs.glowscotland.org.uk/sa/stjohnsps/</a></span></div></div>
-    </section>
-
-    <section>
-      <h2>Nearby schools</h2>
-      <div class="nearby-grid">
-          <a class="nearby-card" href="/schools/south-ayrshire/newton-primary-school.html">
-            <div class="nearby-card-top">
-              <span class="nearby-sector">Primary</span>
-              <span class="nearby-distance">0.3 km</span>
-            </div>
-            <div class="nearby-name">Newton Primary School</div>
-            <div class="nearby-la">South Ayrshire</div>
-            <span class="nearby-rating" style="background: rgb(154, 192, 113)">Very Good</span>
-          </a>
-          <a class="nearby-card" href="/schools/south-ayrshire/braehead-primary-school.html">
-            <div class="nearby-card-top">
-              <span class="nearby-sector">Primary</span>
-              <span class="nearby-distance">0.8 km</span>
-            </div>
-            <div class="nearby-name">Braehead Primary School</div>
-            <div class="nearby-la">South Ayrshire</div>
-            <span class="nearby-rating" style="background: rgb(234, 136, 89)">Weak</span>
-          </a>
-          <a class="nearby-card" href="/schools/south-ayrshire/grammar-primary-school.html">
-            <div class="nearby-card-top">
-              <span class="nearby-sector">Primary</span>
-              <span class="nearby-distance">0.9 km</span>
-            </div>
-            <div class="nearby-name">Grammar Primary School</div>
-            <div class="nearby-la">South Ayrshire</div>
-            <span class="nearby-rating" style="background: rgb(154, 192, 113)">Very Good</span>
-          </a>
-          <a class="nearby-card" href="/schools/south-ayrshire/ayr-academy.html">
-            <div class="nearby-card-top">
-              <span class="nearby-sector">Secondary</span>
-              <span class="nearby-distance">1.0 km</span>
-            </div>
-            <div class="nearby-name">Ayr Academy</div>
-            <div class="nearby-la">South Ayrshire</div>
-            <span class="nearby-rating" style="background: rgb(228, 108, 73)">Weak</span>
-          </a></div>
-    </section>
+  <div class="section-grid">
+    <section class="content-card"><div class="card-header"><h2>Rating &amp; Performance</h2><div class="info-tooltip"><span class="info-icon" tabindex="0" aria-label="Data source information"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg></span><div class="info-tooltip-content"><p>Inspected 2018-09-11 by Education Scotland. Rating is an illustrative average of the quality indicators graded at that inspection, not an official single overall grade.</p></div></div></div><div class="gauge-container"><svg class="rating-gauge" viewBox="0 0 200 125" xmlns="http://www.w3.org/2000/svg"><path d="M 25.0 95.0 A 75 75 0 0 1 39.3 50.9" fill="none" stroke="#EA580C" stroke-width="14" stroke-linecap="butt"/><path d="M 39.3 50.9 A 75 75 0 0 1 76.8 23.7" fill="none" stroke="#FACC15" stroke-width="14" stroke-linecap="butt"/><path d="M 76.8 23.7 A 75 75 0 0 1 123.2 23.7" fill="none" stroke="#4ADE80" stroke-width="14" stroke-linecap="butt"/><path d="M 123.2 23.7 A 75 75 0 0 1 160.7 50.9" fill="none" stroke="#22C55E" stroke-width="14" stroke-linecap="butt"/><path d="M 160.7 50.9 A 75 75 0 0 1 175.0 95.0" fill="none" stroke="#16A34A" stroke-width="14" stroke-linecap="butt"/><line x1="100" y1="95" x2="150.2" y2="58.6" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/><circle cx="100" cy="95" r="6" fill="#1a1a1a"/><circle cx="100" cy="95" r="2.5" fill="#fff"/><text x="100" y="117" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#16A34A">Very Good</text></svg></div><h3 class="comparison-title">Average Inspection Score</h3><div class="comparison-bars"><div class="bar-row"><span class="bar-label" title="St John&#x27;s Primary School">St John&#x27;s Primary School</span><div class="bar-track"><div class="bar-fill" style="width:80.0%;background:rgb(32, 190, 90)"></div></div><span class="bar-value">5.0 / 6</span></div><div class="bar-row"><span class="bar-label" title="South Ayrshire avg">South Ayrshire avg</span><div class="bar-track"><div class="bar-fill" style="width:64.1%;background:#94a3b8"></div></div><span class="bar-value">4.2 / 6</span></div><div class="bar-row"><span class="bar-label" title="Scotland avg">Scotland avg</span><div class="bar-track"><div class="bar-fill" style="width:58.5%;background:#94a3b8"></div></div><span class="bar-value">3.9 / 6</span></div></div></section>
+    <section class="content-card"><h2>Nearby Primary Schools</h2><div class="nearby-list-inner"><a class="nearby-item" href="/schools/south-ayrshire/newton-primary-school.html"><div class="nearby-info"><div class="nearby-name">Newton Primary School</div><div class="nearby-detail">0.3 km &middot; South Ayrshire</div></div><span class="nearby-badge" style="color:rgb(39, 200, 98)">&bull; Very Good</span></a><a class="nearby-item" href="/schools/south-ayrshire/braehead-primary-school.html"><div class="nearby-info"><div class="nearby-name">Braehead Primary School</div><div class="nearby-detail">0.8 km &middot; South Ayrshire</div></div><span class="nearby-badge" style="color:rgb(250, 204, 21)">&bull; Weak</span></a><a class="nearby-item" href="/schools/south-ayrshire/grammar-primary-school.html"><div class="nearby-info"><div class="nearby-name">Grammar Primary School</div><div class="nearby-detail">0.9 km &middot; South Ayrshire</div></div><span class="nearby-badge" style="color:rgb(39, 200, 98)">&bull; Very Good</span></a><a class="nearby-item" href="/schools/south-ayrshire/holmston-primary-school.html"><div class="nearby-info"><div class="nearby-name">Holmston Primary School</div><div class="nearby-detail">1.0 km &middot; South Ayrshire</div></div><span class="nearby-badge" style="color:rgb(58, 212, 114)">&bull; Good</span></a></div></section>
   </div>
+
+  <section class="page-section">
+    <h2>About the local area</h2>
+    <p class="section-sub">Key information about the area surrounding this school.</p>
+    <div class="area-grid">
+      <div class="area-card"><h3>Average Property Prices</h3><p class="area-subtitle">South Ayrshire</p><div class="price-list"><div class="price-row"><span class="price-type">Detached</span><span class="price-value">&pound;300,034</span></div><div class="price-row"><span class="price-type">Semi-detached</span><span class="price-value">&pound;191,913</span></div><div class="price-row"><span class="price-type">Terraced</span><span class="price-value">&pound;146,260</span></div><div class="price-row"><span class="price-type">Flats</span><span class="price-value">&pound;96,906</span></div></div><p class="source-note">UK House Price Index, March 2026. Council-area averages &mdash; prices vary within each authority.</p></div>
+      <div class="area-card"><h3>Crime Rate</h3><p class="area-subtitle">South Ayrshire</p><div class="crime-display"><span class="crime-dot" style="background:#d97706"></span><span class="crime-label" style="color:#d97706">Medium</span></div><p class="crime-desc">460 crimes per 10,000 people (Scotland average: 539).</p><div class="crime-bar-track"><div class="crime-bar-fill" style="left:57%;background:#d97706"></div></div><div class="crime-bar-labels"><span>Low</span><span>High</span></div><p class="source-note">Recorded Crime in Scotland 2024&ndash;25, Scottish Government. All recorded crimes per 10,000 population.</p></div>
+    </div>
+  </section>
 </main>
 
 <footer id="site-footer">

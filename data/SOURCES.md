@@ -92,6 +92,35 @@
   (and `js/regions-data.js`) uses "Na h-Eileanan an Iar" for the same area — both refer to the
   same local authority, reconciled in `scripts/build_regions_geometry.py`.
 
+## Property prices (school pages)
+
+- **Source**: UK House Price Index (UK HPI), HM Land Registry / ONS / Registers of Scotland.
+- **URL**: `https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads`
+  (CSV: "Average prices by property type")
+- **Fetched**: 2026-07-29
+- **Raw file**: `data/raw/uk-hpi-property-type.csv`
+- **Data period**: March 2026 (latest available row per local authority at time of download).
+- **License**: Open Government Licence v3.0
+- **Metric**: average price by property type (detached, semi-detached, terraced, flat) per local
+  authority. These are council-area averages — prices vary significantly within each authority.
+- **Name mapping**: UK HPI uses "City of Aberdeen/Dundee/Glasgow" where this project uses
+  "Aberdeen City", "Dundee City", "Glasgow City"; mapped at build time in
+  `scripts/build_school_pages.py`.
+
+## Crime rate (school pages)
+
+- **Source**: Recorded Crime in Scotland, Scottish Government (statistics.gov.scot linked-data cube).
+- **URL**: `https://statistics.gov.scot/data/recorded-crime` (full dataset CSV download)
+- **Fetched**: 2026-07-29
+- **Raw file**: `data/raw/recorded-crime-scotland.csv`
+- **Data period**: 2024/2025 (most recent full financial year).
+- **License**: Open Government Licence v3.0
+- **Metric**: all recorded crimes per 10,000 population (the "Ratio" measurement for "All Crimes").
+  Categorised at build time as Low (< 70% of Scotland average), Medium, or High (> 115% of
+  Scotland average). Scotland average for 2024-25: 539 per 10,000.
+- **Name mapping**: statistics.gov.scot uses "Na h-Eileanan Siar" where this project uses
+  "Na h-Eileanan an Iar"; mapped at build time.
+
 ## Refreshing the data
 
 Re-run `python3 scripts/build_schools_json.py` after replacing the files in `data/raw/` with

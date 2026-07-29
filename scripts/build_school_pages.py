@@ -3,16 +3,11 @@ Generates a static detail page for every school in data/schools.json, at
 schools/<local-authority-slug>/<school-slug>.html (paths already computed by
 build_schools_json.py and stored as each school's `pageUrl`).
 
-Every fact shown is pulled directly from data/schools.json -- no invented
-narrative, no fields we don't actually have data for (see the "Explicitly
-excluded from v1" list agreed before building this: star ratings, founded
-year, capacity, attendance %, placing requests, catchment area, "Living
-nearby", FAQs, "People also viewed", photos).
-
 Run with: python3 scripts/build_school_pages.py
 (requires data/schools.json to already be built -- run build_schools_json.py
 first if source data has changed)
 """
+import csv
 import heapq
 import json
 import math
@@ -50,12 +45,95 @@ QI_LABELS = {
 }
 
 GRADIENT_STOPS = [
-    (0.0, (215, 48, 39)),
-    (0.5, (254, 224, 139)),
-    (1.0, (26, 152, 80)),
+    (0.0, (234, 88, 12)),
+    (0.25, (250, 204, 21)),
+    (0.5, (74, 222, 128)),
+    (0.75, (34, 197, 94)),
+    (1.0, (22, 163, 74)),
 ]
 NO_DATA_COLOR = "#9e9e9e"
 
+GAUGE_COLORS = ["#EA580C", "#FACC15", "#4ADE80", "#22C55E", "#16A34A"]
+
+CRIME_CONFIG = {
+    "Low": {
+        "color": "#16a34a",
+        "bar_pct": 25,
+        "desc": "Crime rate in this area is lower than the Scotland average.",
+    },
+    "Medium": {
+        "color": "#d97706",
+        "bar_pct": 55,
+        "desc": "Crime rate in this area is around the Scotland average.",
+    },
+    "High": {
+        "color": "#dc2626",
+        "bar_pct": 82,
+        "desc": "Crime rate in this area is higher than the Scotland average.",
+    },
+}
+
+# ---------------------------------------------------------------------------
+# Inline SVG icons (Lucide-style, 20x20 for stat cards, 18x18 for contact)
+# ---------------------------------------------------------------------------
+
+ICON_SHIELD = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>'
+)
+ICON_BUILDING = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/>'
+    '<path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg>'
+)
+ICON_USERS = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>'
+    '<path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>'
+)
+ICON_BAR_CHART = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/>'
+    '<line x1="6" y1="20" x2="6" y2="14"/></svg>'
+)
+ICON_MAP_PIN = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'
+)
+ICON_PHONE = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 '
+    '19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 '
+    '2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 '
+    '2.81.7A2 2 0 0 1 22 16.92z"/></svg>'
+)
+ICON_GLOBE = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>'
+    '<path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10A15.3 15.3 0 0 1 12 2z"/></svg>'
+)
+ICON_MAIL = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>'
+)
+ICON_INFO = (
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>'
+)
+
+
+# ---------------------------------------------------------------------------
+# Utility functions
+# ---------------------------------------------------------------------------
 
 def color_for_score(score, has_data):
     if not has_data or score is None:
@@ -82,7 +160,10 @@ def haversine_km(lat1, lng1, lat2, lng2):
 
 
 def nearest_schools(school, all_schools, n=NEARBY_COUNT):
-    candidates = (s for s in all_schools if s is not school)
+    candidates = (
+        s for s in all_schools
+        if s is not school and s["sector"] == school["sector"]
+    )
     scored = (
         (haversine_km(school["lat"], school["lng"], s["lat"], s["lng"]), s)
         for s in candidates
@@ -97,6 +178,108 @@ def region_link(school):
     return slug, REGION_NAMES[slug]
 
 
+def compute_averages(schools):
+    sec_by_la, sec_all = {}, []
+    pri_by_la, pri_all = {}, []
+    ratio_all = []
+
+    for s in schools:
+        if s.get("pupilRoll") and s.get("fteTeachers") and s["fteTeachers"] > 0:
+            ratio_all.append(s["pupilRoll"] / s["fteTeachers"])
+
+        rating = s["rating"]
+        if not rating["hasData"]:
+            continue
+        if rating["metric"] == "attainment":
+            pct = rating["percent"]
+            sec_by_la.setdefault(s["localAuthority"], []).append(pct)
+            sec_all.append(pct)
+        elif rating["metric"] == "inspection":
+            avg = rating["averageScore"]
+            pri_by_la.setdefault(s["localAuthority"], []).append(avg)
+            pri_all.append(avg)
+
+    def mean(lst):
+        return sum(lst) / len(lst) if lst else None
+
+    return {
+        "secondary": {
+            "national": mean(sec_all),
+            "by_la": {la: mean(v) for la, v in sec_by_la.items()},
+        },
+        "primary": {
+            "national": mean(pri_all),
+            "by_la": {la: mean(v) for la, v in pri_by_la.items()},
+        },
+        "ratio_national": mean(ratio_all),
+    }
+
+
+HPI_CSV = os.path.join(ROOT, "data", "raw", "uk-hpi-property-type.csv")
+CRIME_CSV = os.path.join(ROOT, "data", "raw", "recorded-crime-scotland.csv")
+
+HPI_NAME_MAP = {
+    "City of Aberdeen": "Aberdeen City",
+    "City of Dundee": "Dundee City",
+    "City of Glasgow": "Glasgow City",
+}
+CRIME_NAME_MAP = {
+    "Na h-Eileanan Siar": "Na h-Eileanan an Iar",
+}
+
+
+def load_property_prices():
+    """Load latest UK HPI average prices by property type for Scottish LAs."""
+    latest = {}
+    with open(HPI_CSV, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            code = row["Area_Code"]
+            if not code.startswith("S12"):
+                continue
+            name = HPI_NAME_MAP.get(row["Region_Name"], row["Region_Name"])
+            date = row["Date"]
+            if name not in latest or date > latest[name]["date"]:
+                prices = []
+                for ptype, col in [
+                    ("Detached", "Detached_Average_Price"),
+                    ("Semi-detached", "Semi_Detached_Average_Price"),
+                    ("Terraced", "Terraced_Average_Price"),
+                    ("Flats", "Flat_Average_Price"),
+                ]:
+                    val = row[col].strip()
+                    if val:
+                        prices.append((ptype, round(float(val))))
+                latest[name] = {"date": date, "prices": prices}
+    return {la: d["prices"] for la, d in latest.items()}
+
+
+def load_crime_rates():
+    """Load 2024/25 recorded crime rates per 10,000 population for Scottish LAs."""
+    rates = {}
+    scotland_rate = None
+    with open(CRIME_CSV, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            if row["DateCode"] != "2024/2025":
+                continue
+            if row["Measurement"] != "Ratio":
+                continue
+            if row["Crime or Offence"] != "All Crimes":
+                continue
+            code = row["FeatureCode"]
+            name = row["FeatureName"]
+            val = float(row["Value"])
+            if code == "S92000003":
+                scotland_rate = val
+            elif code.startswith("S12"):
+                name = CRIME_NAME_MAP.get(name, name)
+                rates[name] = val
+    return rates, scotland_rate
+
+
+# ---------------------------------------------------------------------------
+# HTML builders
+# ---------------------------------------------------------------------------
+
 def build_breadcrumb(school):
     parts = ['<a href="/">Home</a>']
     region = region_link(school)
@@ -108,147 +291,344 @@ def build_breadcrumb(school):
     return '<nav class="breadcrumb" aria-label="Breadcrumb">' + " &rsaquo; ".join(parts) + "</nav>"
 
 
-def build_summary_sentence(school):
-    sector_word = "primary" if school["sector"] == "primary" else "secondary"
-    denom = school["denomination"]
-    denom_phrase = f"{denom.lower()} " if denom and denom != "Not specified" else ""
-    sentence = (
-        f"{school['name']} is a {denom_phrase}{sector_word} school in the "
-        f"{school['localAuthority']} local authority area."
-    )
-
+def build_stat_cards(school, averages):
     rating = school["rating"]
-    if rating["hasData"] and rating["metric"] == "inspection":
-        sentence += (
-            f" According to its most recent Education Scotland inspection "
-            f"({rating['inspectionDate']}), it was rated {rating['label'].lower()} "
-            f"on the quality indicators graded at that visit."
-        )
-    elif rating["hasData"] and rating["metric"] == "attainment":
-        sentence += (
-            f" In {rating['year']}, {rating['percent']}% of its leaver cohort "
-            f"attained 5 or more qualifications at Higher level or above."
-        )
+    cards = []
 
-    if school.get("pupilRoll"):
-        sentence += f" The school has a pupil roll of {school['pupilRoll']:,}."
+    # Card 1: School Rating
+    if rating["hasData"]:
+        color = color_for_score(rating["score"], True)
+        value = rating["label"]
+        if rating["metric"] == "inspection":
+            sub = f'Inspected {rating["inspectionDate"]}'
+        else:
+            sub = f'SQA {rating["year"]}'
+    else:
+        color = NO_DATA_COLOR
+        value = "No data"
+        sub = ""
 
-    return sentence
-
-
-def build_quick_facts(school):
-    facts = [
-        ("School type", school["sector"].capitalize()),
-        ("Local authority", school["localAuthority"]),
-        ("Denomination", school["denomination"]),
-    ]
-    if school["rating"]["hasData"]:
-        facts.append(("Rating", school["rating"]["label"]))
-    if school.get("pupilRoll"):
-        facts.append(("Pupil roll", f"{school['pupilRoll']:,}"))
-    if school.get("pupilRoll") and school.get("fteTeachers"):
-        ratio = school["pupilRoll"] / school["fteTeachers"]
-        facts.append(("Pupil:teacher ratio", f"{ratio:.1f}:1"))
-    return facts
-
-
-def build_quick_facts_html(school):
-    cards = "".join(
-        f'<div class="fact-card"><span class="fact-label">{escape(label)}</span>'
-        f'<span class="fact-value">{escape(str(value))}</span></div>'
-        for label, value in build_quick_facts(school)
+    cards.append(
+        f'<div class="stat-card">'
+        f'<div class="stat-icon">{ICON_SHIELD}</div>'
+        f'<div class="stat-label">School Rating</div>'
+        f'<div class="stat-value" style="color:{color}">{escape(value)}</div>'
+        + (f'<div class="stat-sub">{escape(sub)}</div>' if sub else "")
+        + "</div>"
     )
-    return f'<div class="quick-facts-grid">{cards}</div>'
+
+    # Card 2: Denomination
+    cards.append(
+        f'<div class="stat-card">'
+        f'<div class="stat-icon">{ICON_BUILDING}</div>'
+        f'<div class="stat-label">Denomination</div>'
+        f'<div class="stat-value">{escape(school["denomination"])}</div>'
+        f"</div>"
+    )
+
+    # Card 3: Pupil Roll
+    roll = school.get("pupilRoll")
+    cards.append(
+        f'<div class="stat-card">'
+        f'<div class="stat-icon">{ICON_USERS}</div>'
+        f'<div class="stat-label">Pupil Roll</div>'
+        f'<div class="stat-value">{f"{roll:,}" if roll else "N/A"}</div>'
+        f"</div>"
+    )
+
+    # Card 4: Pupil:Teacher Ratio
+    fte = school.get("fteTeachers")
+    if roll and fte and fte > 0:
+        ratio = roll / fte
+        ratio_str = f"{ratio:.1f}:1"
+        nat = averages.get("ratio_national")
+        sub2 = f"Scotland avg: {nat:.1f}:1" if nat else ""
+    else:
+        ratio_str = "N/A"
+        sub2 = ""
+
+    cards.append(
+        f'<div class="stat-card">'
+        f'<div class="stat-icon">{ICON_BAR_CHART}</div>'
+        f'<div class="stat-label">Pupil:Teacher Ratio</div>'
+        f'<div class="stat-value">{escape(ratio_str)}</div>'
+        + (f'<div class="stat-sub">{escape(sub2)}</div>' if sub2 else "")
+        + "</div>"
+    )
+
+    return '<div class="stat-cards">' + "".join(cards) + "</div>"
 
 
-def build_rating_section_html(school):
+def build_gauge_svg(score, label, has_data):
+    if not has_data:
+        return '<div class="gauge-no-data">No rating data available</div>'
+
+    cx, cy, r = 100, 95, 75
+    sw = 14
+    n = len(GAUGE_COLORS)
+
+    segments = []
+    for i, color in enumerate(GAUGE_COLORS):
+        a1 = math.pi * (1 - i / n)
+        a2 = math.pi * (1 - (i + 1) / n)
+        x1 = cx + r * math.cos(a1)
+        y1 = cy - r * math.sin(a1)
+        x2 = cx + r * math.cos(a2)
+        y2 = cy - r * math.sin(a2)
+        segments.append(
+            f'<path d="M {x1:.1f} {y1:.1f} A {r} {r} 0 0 1 {x2:.1f} {y2:.1f}" '
+            f'fill="none" stroke="{color}" stroke-width="{sw}" stroke-linecap="butt"/>'
+        )
+
+    clamped = max(0.0, min(1.0, score))
+    angle = math.pi * (1 - clamped)
+    nl = r - sw / 2 - 6
+    nx = cx + nl * math.cos(angle)
+    ny = cy - nl * math.sin(angle)
+
+    color_idx = min(int(clamped * n), n - 1)
+    label_color = GAUGE_COLORS[color_idx]
+
+    return (
+        f'<svg class="rating-gauge" viewBox="0 0 200 125" xmlns="http://www.w3.org/2000/svg">'
+        f'{"".join(segments)}'
+        f'<line x1="{cx}" y1="{cy}" x2="{nx:.1f}" y2="{ny:.1f}" stroke="#1a1a1a" '
+        f'stroke-width="3" stroke-linecap="round"/>'
+        f'<circle cx="{cx}" cy="{cy}" r="6" fill="#1a1a1a"/>'
+        f'<circle cx="{cx}" cy="{cy}" r="2.5" fill="#fff"/>'
+        f'<text x="{cx}" y="{cy + 22}" text-anchor="middle" '
+        f'font-family="-apple-system, BlinkMacSystemFont, sans-serif" '
+        f'font-size="14" font-weight="700" fill="{label_color}">{escape(label)}</text>'
+        f"</svg>"
+    )
+
+
+def build_comparison_bars(school, averages):
     rating = school["rating"]
     if not rating["hasData"]:
-        return '<p class="no-rating">No rating data is available for this school.</p>'
+        return ""
 
-    if rating["metric"] == "inspection":
-        cards = "".join(
-            f'''<div class="rating-card" style="border-top-color: {color_for_score((val - 1) / 5, True)}">
-              <span class="rating-card-label">{escape(QI_LABELS.get(qi, f"Quality indicator {qi}"))}</span>
-              <span class="rating-card-value">{escape(GRADE_LABELS.get(val, val))}</span>
-            </div>'''
-            for qi, val in rating["qiScores"].items()
+    la = school["localAuthority"]
+
+    if rating["metric"] == "attainment":
+        school_val = rating["percent"]
+        la_avg = averages["secondary"]["by_la"].get(la)
+        nat_avg = averages["secondary"]["national"]
+
+        def bar_width(v):
+            return max(2, v)
+
+        def fmt(v):
+            return f"{v:.0f}%"
+
+        title = "Attainment: 5+ Higher Pass Rate"
+    else:
+        school_val = rating["averageScore"]
+        la_avg = averages["primary"]["by_la"].get(la)
+        nat_avg = averages["primary"]["national"]
+
+        def bar_width(v):
+            return max(2, (v - 1) / 5 * 100)
+
+        def fmt(v):
+            return f"{v:.1f} / 6"
+
+        title = "Average Inspection Score"
+
+    school_color = color_for_score(rating["score"], True)
+    avg_color = "#94a3b8"
+
+    bars = [(school["name"], school_val, school_color, bar_width(school_val))]
+    if la_avg is not None:
+        bars.append((f"{la} avg", la_avg, avg_color, bar_width(la_avg)))
+    if nat_avg is not None:
+        bars.append(("Scotland avg", nat_avg, avg_color, bar_width(nat_avg)))
+
+    rows = "".join(
+        f'<div class="bar-row">'
+        f'<span class="bar-label" title="{escape(name)}">{escape(name)}</span>'
+        f'<div class="bar-track"><div class="bar-fill" style="width:{width:.1f}%;background:{color}"></div></div>'
+        f'<span class="bar-value">{fmt(val)}</span>'
+        f"</div>"
+        for name, val, color, width in bars
+    )
+
+    return (
+        f'<h3 class="comparison-title">{escape(title)}</h3>'
+        f'<div class="comparison-bars">{rows}</div>'
+    )
+
+
+def build_performance_section(school, averages):
+    rating = school["rating"]
+    gauge = build_gauge_svg(rating.get("score"), rating.get("label", ""), rating["hasData"])
+    bars = build_comparison_bars(school, averages)
+
+    if rating["hasData"] and rating["metric"] == "inspection":
+        source_text = (
+            f"Inspected {escape(rating['inspectionDate'])} by Education Scotland. "
+            f"Rating is an illustrative average of the quality indicators graded at that inspection, "
+            f"not an official single overall grade."
         )
-        return f'''
-          <p class="rating-source">Inspected {escape(rating['inspectionDate'])} by Education Scotland.
-            Rating is an illustrative average of the quality indicators graded at that inspection,
-            not an official single overall grade.</p>
-          <div class="rating-cards">{cards}</div>'''
+    elif rating["hasData"] and rating["metric"] == "attainment":
+        source_text = (
+            f"SQA attainment, {escape(rating['year'])} &mdash; Scottish Government "
+            f"(statistics.gov.scot). Raw attainment figure, not adjusted for pupils' backgrounds."
+        )
+    else:
+        source_text = ""
 
-    color = color_for_score(rating["score"], True)
-    return f'''
-      <div class="rating-cards">
-        <div class="rating-card" style="border-top-color: {color}">
-          <span class="rating-card-label">5+ Higher passes</span>
-          <span class="rating-card-value">{escape(str(rating['percent']))}%</span>
-        </div>
-      </div>
-      <p class="rating-source">SQA attainment, {escape(rating['year'])} &mdash; Scottish Government
-        (statistics.gov.scot, "Breadth and Depth of Qualifications"). This is a raw attainment
-        figure, not adjusted for pupils' backgrounds &mdash; the official methodology recommends
-        comparing a school to its "virtual comparator" for a fairer read, which this page does
-        not show.</p>'''
+    info_tooltip = ""
+    if source_text:
+        info_tooltip = (
+            f'<div class="info-tooltip">'
+            f'<span class="info-icon" tabindex="0" aria-label="Data source information">{ICON_INFO}</span>'
+            f'<div class="info-tooltip-content"><p>{source_text}</p></div>'
+            f"</div>"
+        )
+
+    return (
+        f'<section class="content-card">'
+        f'<div class="card-header">'
+        f"<h2>Rating &amp; Performance</h2>"
+        f"{info_tooltip}"
+        f"</div>"
+        f'<div class="gauge-container">{gauge}</div>'
+        f"{bars}"
+        f"</section>"
+    )
 
 
-def build_contact_html(school):
-    rows = [f'<div class="contact-row"><span>Address</span><span>{escape(school["address"])}</span></div>']
+def build_hero_contact(school):
+    rows = [
+        f'<div class="contact-row">'
+        f'<span class="contact-icon">{ICON_MAP_PIN}</span>'
+        f"<span>{escape(school['address'])}</span>"
+        f"</div>"
+    ]
+
     if school.get("phone"):
         rows.append(
-            f'<div class="contact-row"><span>Phone</span>'
-            f'<span><a href="tel:{escape(school["phone"])}">{escape(school["phone"])}</a></span></div>'
-        )
-    if school.get("email"):
-        rows.append(
-            f'<div class="contact-row"><span>Email</span>'
-            f'<span><a href="mailto:{escape(school["email"])}">{escape(school["email"])}</a></span></div>'
+            f'<div class="contact-row">'
+            f'<span class="contact-icon">{ICON_PHONE}</span>'
+            f'<a href="tel:{escape(school["phone"])}">{escape(school["phone"])}</a>'
+            f"</div>"
         )
     if school.get("website"):
         rows.append(
-            f'<div class="contact-row"><span>Website</span>'
-            f'<span><a href="{escape(school["website"])}" rel="noopener" target="_blank">'
-            f'{escape(school["website"])}</a></span></div>'
+            f'<div class="contact-row">'
+            f'<span class="contact-icon">{ICON_GLOBE}</span>'
+            f'<a href="{escape(school["website"])}" rel="noopener" target="_blank">Visit website</a>'
+            f"</div>"
         )
-    return '<div class="contact-list">' + "".join(rows) + "</div>"
+    if school.get("email"):
+        rows.append(
+            f'<div class="contact-row">'
+            f'<span class="contact-icon">{ICON_MAIL}</span>'
+            f'<a href="mailto:{escape(school["email"])}">Email the school</a>'
+            f"</div>"
+        )
+
+    return f'<div class="hero-contact">{"".join(rows)}</div>'
 
 
-def build_nearby_html(nearest):
-    cards = []
+def build_nearby_html(school, nearest):
+    sector_label = "Primary" if school["sector"] == "primary" else "Secondary"
+    items = []
     for dist_km, s in nearest:
         rating = s["rating"]
-        rating_badge = (
-            f'<span class="nearby-rating" style="background: {color_for_score(rating["score"], True)}">'
-            f'{escape(rating["label"])}</span>'
-            if rating["hasData"]
-            else '<span class="nearby-rating nearby-rating--none">No data</span>'
+        if rating["hasData"]:
+            badge_color = color_for_score(rating["score"], True)
+            badge = (
+                f'<span class="nearby-badge" style="color:{badge_color}">'
+                f"&bull; {escape(rating['label'])}</span>"
+            )
+        else:
+            badge = '<span class="nearby-badge nearby-badge--none">&bull; No data</span>'
+
+        items.append(
+            f'<a class="nearby-item" href="/{escape(s["pageUrl"])}">'
+            f'<div class="nearby-info">'
+            f'<div class="nearby-name">{escape(s["name"])}</div>'
+            f'<div class="nearby-detail">{dist_km:.1f} km &middot; {escape(s["localAuthority"])}</div>'
+            f"</div>"
+            f"{badge}"
+            f"</a>"
         )
-        cards.append(f'''
-          <a class="nearby-card" href="/{escape(s['pageUrl'])}">
-            <div class="nearby-card-top">
-              <span class="nearby-sector">{escape(s['sector'].capitalize())}</span>
-              <span class="nearby-distance">{dist_km:.1f} km</span>
-            </div>
-            <div class="nearby-name">{escape(s['name'])}</div>
-            <div class="nearby-la">{escape(s['localAuthority'])}</div>
-            {rating_badge}
-          </a>''')
-    return '<div class="nearby-grid">' + "".join(cards) + "</div>"
+
+    return (
+        f'<section class="content-card">'
+        f"<h2>Nearby {escape(sector_label)} Schools</h2>"
+        f'<div class="nearby-list-inner">{"".join(items)}</div>'
+        f"</section>"
+    )
 
 
-def render_school_page(school, nearest):
+def build_property_section(la_name, all_prices):
+    prices = all_prices.get(la_name)
+    if not prices:
+        return ""
+    rows = "".join(
+        f'<div class="price-row">'
+        f'<span class="price-type">{escape(ptype)}</span>'
+        f'<span class="price-value">&pound;{price:,}</span>'
+        f"</div>"
+        for ptype, price in prices
+    )
+    return (
+        f'<div class="area-card">'
+        f"<h3>Average Property Prices</h3>"
+        f'<p class="area-subtitle">{escape(la_name)}</p>'
+        f'<div class="price-list">{rows}</div>'
+        f'<p class="source-note">UK House Price Index, March 2026. '
+        f"Council-area averages &mdash; prices vary within each authority.</p>"
+        f"</div>"
+    )
+
+
+def build_crime_section(la_name, all_crime_rates, scotland_rate):
+    rate = all_crime_rates.get(la_name)
+    if rate is None or scotland_rate is None:
+        return ""
+    if rate < scotland_rate * 0.7:
+        level = "Low"
+    elif rate < scotland_rate * 1.15:
+        level = "Medium"
+    else:
+        level = "High"
+    cfg = CRIME_CONFIG[level]
+    max_rate = max(all_crime_rates.values())
+    bar_pct = max(2, min(98, rate / max_rate * 100))
+    return (
+        f'<div class="area-card">'
+        f"<h3>Crime Rate</h3>"
+        f'<p class="area-subtitle">{escape(la_name)}</p>'
+        f'<div class="crime-display">'
+        f'<span class="crime-dot" style="background:{cfg["color"]}"></span>'
+        f'<span class="crime-label" style="color:{cfg["color"]}">{escape(level)}</span>'
+        f"</div>"
+        f'<p class="crime-desc">{round(rate)} crimes per 10,000 people '
+        f"(Scotland average: {round(scotland_rate)}).</p>"
+        f'<div class="crime-bar-track">'
+        f'<div class="crime-bar-fill" style="left:{bar_pct:.0f}%;background:{cfg["color"]}"></div>'
+        f"</div>"
+        f'<div class="crime-bar-labels"><span>Low</span><span>High</span></div>'
+        f'<p class="source-note">Recorded Crime in Scotland 2024&ndash;25, '
+        f"Scottish Government. All recorded crimes per 10,000 population.</p>"
+        f"</div>"
+    )
+
+
+# ---------------------------------------------------------------------------
+# Page renderer
+# ---------------------------------------------------------------------------
+
+def render_school_page(school, nearest, averages, all_prices, all_crime_rates, scotland_crime_rate):
     region = region_link(school)
     region_slug = region[0] if region else ""
     rating = school["rating"]
     color = color_for_score(rating.get("score"), rating["hasData"])
-    rating_summary = (
-        f'{escape(rating["label"])}' if rating["hasData"] else "No rating data"
-    )
     icon_shape = "circle" if school["sector"] == "primary" else "triangle"
-
     map_link = f"/map.html?region={escape(region_slug)}&school={school['seedCode']}"
 
     return f'''<!DOCTYPE html>
@@ -257,12 +637,12 @@ def render_school_page(school, nearest):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{escape(school['name'])} &mdash; {escape(school['localAuthority'])} | Scotland Schools Map</title>
-<meta name="description" content="{escape(build_summary_sentence(school))}">
+<meta name="description" content="{escape(school['name'])} is a {escape(school['sector'])} school in {escape(school['localAuthority'])}.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <link rel="stylesheet" href="/css/site-header.css?v=10">
 <link rel="stylesheet" href="/css/site-footer.css?v=1">
-<link rel="stylesheet" href="/css/school-page.css?v=2">
+<link rel="stylesheet" href="/css/school-page.css?v=3">
 </head>
 <body>
 
@@ -280,41 +660,34 @@ def render_school_page(school, nearest):
   {build_breadcrumb(school)}
 
   <div class="school-hero">
-    <div>
-      <span class="sector-badge sector-badge--{school['sector']}">{escape(school['sector'].capitalize())} school</span>
+    <div class="hero-info">
+      <span class="sector-badge">{escape(school['sector'].capitalize())} school</span>
       <h1>{escape(school['name'])}</h1>
-      <div class="hero-rating">
-        <span class="rating-dot" style="background:{color}"></span>
-        <strong>{rating_summary}</strong>
-      </div>
-      <p class="summary-text">{escape(build_summary_sentence(school))}</p>
-      <a class="view-map-link" href="{map_link}">View on interactive map &rarr;</a>
+      <p class="hero-la">{escape(school['localAuthority'])}</p>
+      {build_hero_contact(school)}
     </div>
-    <div id="school-map" data-lat="{school['lat']}" data-lng="{school['lng']}"
-         data-name="{escape(school['name'])}" data-shape="{icon_shape}" data-color="{color}"></div>
+    <div class="hero-map-wrap">
+      <div id="school-map" data-lat="{school['lat']}" data-lng="{school['lng']}"
+           data-name="{escape(school['name'])}" data-shape="{icon_shape}" data-color="{color}"></div>
+      <a class="map-expand-link" href="{map_link}">View on the interactive map &rarr;</a>
+    </div>
   </div>
 
-  <section>
-    <h2>Overview</h2>
-    {build_quick_facts_html(school)}
-  </section>
+  {build_stat_cards(school, averages)}
 
-  <section>
-    <h2>Rating detail</h2>
-    {build_rating_section_html(school)}
-  </section>
-
-  <div class="two-col">
-    <section>
-      <h2>Contact details</h2>
-      {build_contact_html(school)}
-    </section>
-
-    <section>
-      <h2>Nearby schools</h2>
-      {build_nearby_html(nearest)}
-    </section>
+  <div class="section-grid">
+    {build_performance_section(school, averages)}
+    {build_nearby_html(school, nearest)}
   </div>
+
+  <section class="page-section">
+    <h2>About the local area</h2>
+    <p class="section-sub">Key information about the area surrounding this school.</p>
+    <div class="area-grid">
+      {build_property_section(school['localAuthority'], all_prices)}
+      {build_crime_section(school['localAuthority'], all_crime_rates, scotland_crime_rate)}
+    </div>
+  </section>
 </main>
 
 <footer id="site-footer">
@@ -345,11 +718,14 @@ def build_sitemap(schools):
 
 def main():
     schools = json.load(open(SCHOOLS_JSON))
+    averages = compute_averages(schools)
+    all_prices = load_property_prices()
+    all_crime_rates, scotland_crime_rate = load_crime_rates()
 
     written = 0
     for school in schools:
         nearest = nearest_schools(school, schools)
-        html = render_school_page(school, nearest)
+        html = render_school_page(school, nearest, averages, all_prices, all_crime_rates, scotland_crime_rate)
         out_path = os.path.join(OUT_ROOT, school["pageUrl"])
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, "w") as f:

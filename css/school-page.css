@@ -44,59 +44,48 @@ html, body {
   display: grid;
   grid-template-columns: 1.3fr 1fr;
   gap: 1.5rem;
-  align-items: start;
-  margin-bottom: 2rem;
+  align-items: stretch;
+  margin-bottom: 1.5rem;
 }
 
 .sector-badge {
   display: inline-block;
-  padding: 0.2rem 0.6rem;
+  padding: 0.2rem 0.65rem;
   border-radius: 999px;
   font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  margin-bottom: 0.6rem;
-}
-
-.sector-badge--primary {
+  margin-bottom: 0.5rem;
   background: #eaf3fb;
   color: #0065bd;
 }
 
-.sector-badge--secondary {
-  background: #fdeeea;
-  color: #b83c1e;
-}
-
 .school-hero h1 {
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.3rem 0;
   font-size: 1.9rem;
   color: #1a1a1a;
 }
 
-.hero-rating {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  font-size: 1.05rem;
+.hero-la {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0 0 1.25rem 0;
+}
+
+/* Hero contact (inside hero, not a separate card) */
+
+.hero-contact {
   margin-bottom: 0.75rem;
 }
 
-.rating-dot {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  border-radius: 50%;
-  border: 1px solid rgba(0, 0, 0, 0.25);
-  flex: none;
+.hero-contact .contact-row {
+  padding: 0.45rem 0;
+  font-size: 0.85rem;
 }
 
-.summary-text {
-  font-size: 0.95rem;
-  line-height: 1.55;
-  color: #444;
-  margin: 0 0 1rem 0;
+.hero-contact .contact-row:first-child {
+  padding-top: 0;
 }
 
 .view-map-link {
@@ -111,8 +100,15 @@ html, body {
   text-decoration: underline;
 }
 
+.hero-map-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
 #school-map {
-  height: 260px;
+  flex: 1;
+  min-height: 220px;
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
@@ -120,129 +116,38 @@ html, body {
   border: 1px solid #ddd;
 }
 
-/* Sections */
-
-#school-page section {
-  margin-bottom: 2rem;
-}
-
-#school-page h2 {
-  font-size: 1.1rem;
-  color: #1a1a1a;
-  margin: 0 0 0.9rem 0;
-}
-
-.two-col {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-}
-
-/* Quick facts */
-
-.quick-facts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 0.75rem;
-}
-
-.fact-card {
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  border-radius: 8px;
-  padding: 0.7rem 0.9rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-
-.fact-label {
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  color: #777;
-}
-
-.fact-value {
-  font-size: 1rem;
-  font-weight: 600;
-  color: #1a1a1a;
-}
-
-/* Rating cards */
-
-.rating-source {
-  font-size: 0.82rem;
-  color: #666;
-  line-height: 1.5;
-  margin: 0 0 0.9rem 0;
-}
-
-.rating-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 0.75rem;
-}
-
-.rating-card {
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  border-top: 4px solid #ccc;
-  border-radius: 8px;
-  padding: 0.75rem 0.9rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-
-.rating-card-label {
+.map-expand-link {
   font-size: 0.78rem;
-  color: #555;
+  color: #0065bd;
+  text-decoration: none;
+  text-align: right;
 }
 
-.rating-card-value {
-  font-size: 1.05rem;
-  font-weight: 700;
-  color: #1a1a1a;
+.map-expand-link:hover {
+  text-decoration: underline;
 }
 
-.no-rating {
-  color: #777;
-  font-style: italic;
-  font-size: 0.9rem;
-}
-
-/* Contact */
-
-.contact-list {
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  border-radius: 8px;
-  padding: 0.4rem 1rem;
-}
+/* Contact rows (shared between hero-contact and any future use) */
 
 .contact-row {
   display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  padding: 0.6rem 0;
-  border-bottom: 1px solid #eee;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid #f0f0f0;
   font-size: 0.88rem;
+  color: #333;
 }
 
 .contact-row:last-child {
   border-bottom: none;
+  padding-bottom: 0;
 }
 
-.contact-row > span:first-child {
-  color: #777;
+.contact-icon {
   flex: none;
-}
-
-.contact-row > span:last-child {
-  text-align: right;
-  color: #222;
-  overflow-wrap: anywhere;
+  color: #0065bd;
+  margin-top: 1px;
 }
 
 .contact-row a {
@@ -254,74 +159,424 @@ html, body {
   text-decoration: underline;
 }
 
-/* Nearby schools */
+/* Stat cards */
 
-.nearby-grid {
+.stat-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 0.75rem;
+  margin-bottom: 1.75rem;
 }
 
-.nearby-card {
-  display: block;
+.stat-card {
   background: #fff;
   border: 1px solid #e5e5e5;
-  border-radius: 8px;
-  padding: 0.75rem 0.9rem;
-  text-decoration: none;
-  color: inherit;
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
-}
-
-.nearby-card:hover {
-  border-color: #0065bd;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-}
-
-.nearby-card-top {
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
   display: flex;
-  justify-content: space-between;
-  font-size: 0.72rem;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.stat-icon {
+  color: #0065bd;
+  margin-bottom: 0.2rem;
+}
+
+.stat-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
   color: #777;
-  margin-bottom: 0.4rem;
 }
 
-.nearby-name {
-  font-weight: 600;
-  font-size: 0.92rem;
-  color: #1a1a1a;
-  margin-bottom: 0.15rem;
-}
-
-.nearby-la {
-  font-size: 0.78rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
-
-.nearby-rating {
-  display: inline-block;
-  padding: 0.15rem 0.55rem;
-  border-radius: 999px;
-  font-size: 0.72rem;
+.stat-value {
+  font-size: 1.05rem;
   font-weight: 700;
   color: #1a1a1a;
 }
 
-.nearby-rating--none {
-  background: #e5e5e5 !important;
-  color: #666;
+.stat-sub {
+  font-size: 0.72rem;
+  color: #888;
 }
 
-/* Site footer styles live in css/site-footer.css, shared across pages. */
+/* Section grid (performance + nearby side by side) */
+
+.section-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.75rem;
+}
+
+/* Content cards (white card sections) */
+
+.content-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  padding: 1.25rem 1.25rem 1rem;
+}
+
+.content-card h2 {
+  font-size: 1rem;
+  color: #1a1a1a;
+  margin: 0 0 1rem 0;
+}
+
+/* Card header (h2 + info icon) */
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.card-header h2 {
+  margin: 0 0 1rem 0;
+}
+
+/* Info tooltip */
+
+.info-tooltip {
+  position: relative;
+}
+
+.info-icon {
+  cursor: help;
+  color: #aaa;
+  transition: color 0.15s ease;
+}
+
+.info-icon:hover,
+.info-icon:focus {
+  color: #555;
+}
+
+.info-tooltip-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  background: #1a1a1a;
+  color: #e5e5e5;
+  padding: 0.75rem 0.9rem;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  width: 280px;
+  z-index: 10;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.info-tooltip-content p {
+  margin: 0;
+}
+
+.info-tooltip:hover .info-tooltip-content,
+.info-tooltip:focus-within .info-tooltip-content {
+  display: block;
+}
+
+/* Gauge */
+
+.gauge-container {
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+.rating-gauge {
+  max-width: 180px;
+  height: auto;
+}
+
+.gauge-no-data {
+  color: #888;
+  font-style: italic;
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+/* Comparison bars */
+
+.comparison-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #555;
+  margin: 0 0 0.6rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.comparison-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.bar-label {
+  flex: 0 0 120px;
+  font-size: 0.78rem;
+  color: #555;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bar-track {
+  flex: 1;
+  height: 20px;
+  background: #f1f5f9;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  min-width: 3px;
+}
+
+.bar-value {
+  flex: 0 0 48px;
+  text-align: right;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.source-note {
+  font-size: 0.75rem;
+  color: #888;
+  line-height: 1.45;
+  margin: 0;
+}
+
+/* Nearby schools (inside content-card) */
+
+.nearby-list-inner {
+  margin: 0 -1.25rem -1rem;
+  overflow: hidden;
+  border-radius: 0 0 10px 10px;
+}
+
+.nearby-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1.25rem;
+  border-top: 1px solid #f0f0f0;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.12s ease;
+}
+
+.nearby-item:hover {
+  background: #f8fafc;
+}
+
+.nearby-name {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #1a1a1a;
+  margin-bottom: 0.15rem;
+}
+
+.nearby-detail {
+  font-size: 0.76rem;
+  color: #777;
+}
+
+.nearby-badge {
+  flex: none;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.nearby-badge--none {
+  color: #999 !important;
+}
+
+/* Page sections */
+
+.page-section {
+  margin-bottom: 1.75rem;
+}
+
+.page-section > h2 {
+  font-size: 1.1rem;
+  color: #1a1a1a;
+  margin: 0 0 0.3rem 0;
+}
+
+.section-sub {
+  font-size: 0.82rem;
+  color: #888;
+  margin: 0 0 1rem 0;
+}
+
+/* About the local area */
+
+.area-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.area-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.area-card h3 {
+  font-size: 0.95rem;
+  color: #1a1a1a;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.area-subtitle {
+  font-size: 0.8rem;
+  color: #777;
+  margin: 0.15rem 0 0.85rem 0;
+}
+
+/* Property prices */
+
+.price-list {
+  margin-bottom: 0.75rem;
+}
+
+.price-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.88rem;
+}
+
+.price-row:last-child {
+  border-bottom: none;
+}
+
+.price-type {
+  color: #555;
+}
+
+.price-value {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+/* Crime rate */
+
+.crime-display {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.crime-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex: none;
+}
+
+.crime-label {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.crime-desc {
+  font-size: 0.82rem;
+  color: #666;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.45;
+}
+
+.crime-bar-track {
+  height: 8px;
+  background: linear-gradient(to right, #bbf7d0, #fde68a, #fca5a5);
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 0.25rem;
+}
+
+.crime-bar-fill {
+  position: absolute;
+  top: -3px;
+  height: 14px;
+  width: 4px;
+  border-radius: 2px;
+  left: 0;
+  transform: translateX(-50%);
+}
+
+.crime-bar-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.68rem;
+  color: #999;
+  margin-bottom: 0.5rem;
+}
+
+/* Site footer styles live in css/site-footer.css */
+
+/* Responsive */
 
 @media (max-width: 720px) {
   .school-hero {
     grid-template-columns: 1fr;
   }
 
-  .two-col {
+  #school-map {
+    min-height: 200px;
+  }
+
+  .stat-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .section-grid {
     grid-template-columns: 1fr;
-    gap: 1.5rem;
+  }
+
+  .area-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bar-label {
+    flex: 0 0 90px;
+  }
+}
+
+@media (max-width: 480px) {
+  #school-page {
+    padding: 1rem;
+  }
+
+  .school-hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .stat-cards {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
   }
 }
