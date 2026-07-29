@@ -381,10 +381,9 @@ def build_gauge_svg(label, has_data):
     fill_angle = math.pi * (1 - pos)
     fx = cx + r * math.cos(fill_angle)
     fy = cy - r * math.sin(fill_angle)
-    large_arc = 1 if pos > 0.5 else 0
     fill_color = RATING_COLORS.get(label, GAUGE_COLORS[2])
     fill_arc = (
-        f'<path d="M {bg_x1:.1f} {bg_y1:.1f} A {r} {r} 0 {large_arc} 1 {fx:.1f} {fy:.1f}" '
+        f'<path d="M {bg_x1:.1f} {bg_y1:.1f} A {r} {r} 0 0 1 {fx:.1f} {fy:.1f}" '
         f'fill="none" stroke="{fill_color}" stroke-width="{sw}" stroke-linecap="round"/>'
     )
 
