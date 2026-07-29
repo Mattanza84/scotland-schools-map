@@ -44,16 +44,27 @@ QI_LABELS = {
     "5.9": "Improvement through self-evaluation",
 }
 
-GRADIENT_STOPS = [
-    (0.0, (234, 88, 12)),
-    (0.25, (250, 204, 21)),
-    (0.5, (74, 222, 128)),
-    (0.75, (34, 197, 94)),
-    (1.0, (22, 163, 74)),
-]
 NO_DATA_COLOR = "#9e9e9e"
 
 GAUGE_COLORS = ["#EA580C", "#FACC15", "#4ADE80", "#22C55E", "#16A34A"]
+
+RATING_COLORS = {
+    "Excellent": "#16A34A",
+    "Very Good": "#22C55E",
+    "Good": "#4ADE80",
+    "Satisfactory": "#FACC15",
+    "Weak": "#FACC15",
+    "Unsatisfactory": "#EA580C",
+}
+
+GAUGE_POSITIONS = {
+    "Excellent": 0.9,
+    "Very Good": 0.7,
+    "Good": 0.5,
+    "Satisfactory": 0.35,
+    "Weak": 0.25,
+    "Unsatisfactory": 0.1,
+}
 
 CRIME_CONFIG = {
     "Low": {
@@ -135,19 +146,10 @@ ICON_INFO = (
 # Utility functions
 # ---------------------------------------------------------------------------
 
-def color_for_score(score, has_data):
-    if not has_data or score is None:
+def color_for_label(label, has_data):
+    if not has_data or not label:
         return NO_DATA_COLOR
-    clamped = max(0.0, min(1.0, score))
-    lower, upper = GRADIENT_STOPS[0], GRADIENT_STOPS[-1]
-    for i in range(len(GRADIENT_STOPS) - 1):
-        if GRADIENT_STOPS[i][0] <= clamped <= GRADIENT_STOPS[i + 1][0]:
-            lower, upper = GRADIENT_STOPS[i], GRADIENT_STOPS[i + 1]
-            break
-    span = upper[0] - lower[0]
-    t = 0 if span == 0 else (clamped - lower[0]) / span
-    rgb = tuple(round(lower[1][c] + t * (upper[1][c] - lower[1][c])) for c in range(3))
-    return f"rgb({rgb[0]}, {rgb[1]}, {rgb[2]})"
+    return RATING_COLORS.get(label, NO_DATA_COLOR)
 
 
 def haversine_km(lat1, lng1, lat2, lng2):
@@ -297,7 +299,7 @@ def build_stat_cards(school, averages):
 
     # Card 1: School Rating
     if rating["hasData"]:
-        color = color_for_score(rating["score"], True)
+        color = color_for_label(rating["label"], True)
         value = rating["label"]
         if rating["metric"] == "inspection":
             sub = f'Inspected {rating["inspectionDate"]}'
@@ -359,46 +361,39 @@ def build_stat_cards(school, averages):
     return '<div class="stat-cards">' + "".join(cards) + "</div>"
 
 
-def build_gauge_svg(score, label, has_data):
+def build_gauge_svg(label, has_data):
     if not has_data:
         return '<div class="gauge-no-data">No rating data available</div>'
 
     cx, cy, r = 100, 95, 75
-    sw = 14
-    n = len(GAUGE_COLORS)
+    sw = 18
 
-    segments = []
-    for i, color in enumerate(GAUGE_COLORS):
-        a1 = math.pi * (1 - i / n)
-        a2 = math.pi * (1 - (i + 1) / n)
-        x1 = cx + r * math.cos(a1)
-        y1 = cy - r * math.sin(a1)
-        x2 = cx + r * math.cos(a2)
-        y2 = cy - r * math.sin(a2)
-        segments.append(
-            f'<path d="M {x1:.1f} {y1:.1f} A {r} {r} 0 0 1 {x2:.1f} {y2:.1f}" '
-            f'fill="none" stroke="{color}" stroke-width="{sw}" stroke-linecap="butt"/>'
-        )
+    bg_x1 = cx + r * math.cos(math.pi)
+    bg_y1 = cy - r * math.sin(math.pi)
+    bg_x2 = cx + r * math.cos(0)
+    bg_y2 = cy - r * math.sin(0)
+    bg_arc = (
+        f'<path d="M {bg_x1:.1f} {bg_y1:.1f} A {r} {r} 0 1 1 {bg_x2:.1f} {bg_y2:.1f}" '
+        f'fill="none" stroke="#EFF6FF" stroke-width="{sw}" stroke-linecap="round"/>'
+    )
 
-    clamped = max(0.0, min(1.0, score))
-    angle = math.pi * (1 - clamped)
-    nl = r - sw / 2 - 6
-    nx = cx + nl * math.cos(angle)
-    ny = cy - nl * math.sin(angle)
-
-    color_idx = min(int(clamped * n), n - 1)
-    label_color = GAUGE_COLORS[color_idx]
+    pos = GAUGE_POSITIONS.get(label, 0.5)
+    fill_angle = math.pi * (1 - pos)
+    fx = cx + r * math.cos(fill_angle)
+    fy = cy - r * math.sin(fill_angle)
+    large_arc = 1 if pos > 0.5 else 0
+    fill_color = RATING_COLORS.get(label, GAUGE_COLORS[2])
+    fill_arc = (
+        f'<path d="M {bg_x1:.1f} {bg_y1:.1f} A {r} {r} 0 {large_arc} 1 {fx:.1f} {fy:.1f}" '
+        f'fill="none" stroke="{fill_color}" stroke-width="{sw}" stroke-linecap="round"/>'
+    )
 
     return (
         f'<svg class="rating-gauge" viewBox="0 0 200 125" xmlns="http://www.w3.org/2000/svg">'
-        f'{"".join(segments)}'
-        f'<line x1="{cx}" y1="{cy}" x2="{nx:.1f}" y2="{ny:.1f}" stroke="#1a1a1a" '
-        f'stroke-width="3" stroke-linecap="round"/>'
-        f'<circle cx="{cx}" cy="{cy}" r="6" fill="#1a1a1a"/>'
-        f'<circle cx="{cx}" cy="{cy}" r="2.5" fill="#fff"/>'
+        f'{bg_arc}{fill_arc}'
         f'<text x="{cx}" y="{cy + 22}" text-anchor="middle" '
         f'font-family="-apple-system, BlinkMacSystemFont, sans-serif" '
-        f'font-size="14" font-weight="700" fill="{label_color}">{escape(label)}</text>'
+        f'font-size="14" font-weight="700" fill="{fill_color}">{escape(label)}</text>'
         f"</svg>"
     )
 
@@ -435,7 +430,7 @@ def build_comparison_bars(school, averages):
 
         title = "Average Inspection Score"
 
-    school_color = color_for_score(rating["score"], True)
+    school_color = color_for_label(rating["label"], True)
     avg_color = "#94a3b8"
 
     bars = [(school["name"], school_val, school_color, bar_width(school_val))]
@@ -461,7 +456,7 @@ def build_comparison_bars(school, averages):
 
 def build_performance_section(school, averages):
     rating = school["rating"]
-    gauge = build_gauge_svg(rating.get("score"), rating.get("label", ""), rating["hasData"])
+    gauge = build_gauge_svg(rating.get("label", ""), rating["hasData"])
     bars = build_comparison_bars(school, averages)
 
     if rating["hasData"] and rating["metric"] == "inspection":
@@ -538,7 +533,7 @@ def build_nearby_html(school, nearest):
     for dist_km, s in nearest:
         rating = s["rating"]
         if rating["hasData"]:
-            badge_color = color_for_score(rating["score"], True)
+            badge_color = color_for_label(rating["label"], True)
             badge = (
                 f'<span class="nearby-badge" style="color:{badge_color}">'
                 f"&bull; {escape(rating['label'])}</span>"
@@ -627,7 +622,7 @@ def render_school_page(school, nearest, averages, all_prices, all_crime_rates, s
     region = region_link(school)
     region_slug = region[0] if region else ""
     rating = school["rating"]
-    color = color_for_score(rating.get("score"), rating["hasData"])
+    color = color_for_label(rating.get("label"), rating["hasData"])
     icon_shape = "circle" if school["sector"] == "primary" else "triangle"
     map_link = f"/map.html?region={escape(region_slug)}&school={school['seedCode']}"
 
