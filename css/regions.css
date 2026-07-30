@@ -232,7 +232,7 @@ body {
 
 .steps-row {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   justify-content: center;
   gap: 0;
   max-width: 960px;
