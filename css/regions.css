@@ -12,9 +12,7 @@ html, body {
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  display: block;
   background: #fff;
 }
 
@@ -24,9 +22,8 @@ body {
 /* Split layout */
 
 #split-layout {
-  flex: 1 1 auto;
-  min-height: 0;
   display: flex;
+  height: calc(100vh - 52px);
 }
 
 #content-pane {
@@ -413,9 +410,8 @@ body {
     flex-direction: column;
   }
 
-  body {
+  #split-layout {
     height: auto;
-    overflow-y: auto;
   }
 
   #content-pane {
