@@ -106,6 +106,10 @@ html, body {
   gap: 0.4rem;
 }
 
+#radius-controls[hidden] {
+  display: none;
+}
+
 .radius-label {
   font-size: 0.8rem;
   color: #666;
