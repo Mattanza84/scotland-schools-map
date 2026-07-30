@@ -88,26 +88,28 @@ CRIME_CONFIG = {
 # Inline SVG icons (Lucide-style, 20x20 for stat cards, 18x18 for contact)
 # ---------------------------------------------------------------------------
 
+STAT_ICON_COLORS = ["#6A4C93", "#17C3B2", "#FFCA3A", "#EF476F"]
+
 ICON_SHIELD = (
-    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
-    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" '
+    'fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
     '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>'
 )
 ICON_BUILDING = (
-    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
-    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" '
+    'fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
     '<path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/>'
     '<path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg>'
 )
 ICON_USERS = (
-    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
-    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" '
+    'fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
     '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>'
     '<path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>'
 )
 ICON_BAR_CHART = (
-    '<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" '
-    'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" '
+    'fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
     '<line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/>'
     '<line x1="6" y1="20" x2="6" y2="14"/></svg>'
 )
@@ -230,8 +232,20 @@ CRIME_NAME_MAP = {
 }
 
 
+PROPERTY_TYPES = [
+    ("Detached", "Detached_Average_Price"),
+    ("Semi-detached", "Semi_Detached_Average_Price"),
+    ("Terraced", "Terraced_Average_Price"),
+    ("Flats", "Flat_Average_Price"),
+]
+
+
 def load_property_prices():
-    """Load latest UK HPI average prices by property type for Scottish LAs."""
+    """Load latest UK HPI average prices by property type for Scottish LAs.
+
+    Returns (la_prices, scotland_avg) where scotland_avg is the mean of all
+    LA prices per property type.
+    """
     latest = {}
     with open(HPI_CSV, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
@@ -242,17 +256,23 @@ def load_property_prices():
             date = row["Date"]
             if name not in latest or date > latest[name]["date"]:
                 prices = []
-                for ptype, col in [
-                    ("Detached", "Detached_Average_Price"),
-                    ("Semi-detached", "Semi_Detached_Average_Price"),
-                    ("Terraced", "Terraced_Average_Price"),
-                    ("Flats", "Flat_Average_Price"),
-                ]:
+                for ptype, col in PROPERTY_TYPES:
                     val = row[col].strip()
                     if val:
                         prices.append((ptype, round(float(val))))
                 latest[name] = {"date": date, "prices": prices}
-    return {la: d["prices"] for la, d in latest.items()}
+    la_prices = {la: d["prices"] for la, d in latest.items()}
+
+    sums = {}
+    counts = {}
+    for prices in la_prices.values():
+        for ptype, price in prices:
+            sums[ptype] = sums.get(ptype, 0) + price
+            counts[ptype] = counts.get(ptype, 0) + 1
+    scotland_avg = {
+        ptype: round(sums[ptype] / counts[ptype]) for ptype in sums
+    }
+    return la_prices, scotland_avg
 
 
 def load_crime_rates():
@@ -293,6 +313,13 @@ def build_breadcrumb(school):
     return '<nav class="breadcrumb" aria-label="Breadcrumb">' + " &rsaquo; ".join(parts) + "</nav>"
 
 
+def stat_icon_html(icon_svg, color):
+    return (
+        f'<div class="stat-icon-circle" style="background:{color}">'
+        f'{icon_svg}</div>'
+    )
+
+
 def build_stat_cards(school, averages):
     rating = school["rating"]
     cards = []
@@ -312,7 +339,7 @@ def build_stat_cards(school, averages):
 
     cards.append(
         f'<div class="stat-card">'
-        f'<div class="stat-icon">{ICON_SHIELD}</div>'
+        f'{stat_icon_html(ICON_SHIELD, STAT_ICON_COLORS[0])}'
         f'<div class="stat-label">School Rating</div>'
         f'<div class="stat-value" style="color:{color}">{escape(value)}</div>'
         + (f'<div class="stat-sub">{escape(sub)}</div>' if sub else "")
@@ -322,7 +349,7 @@ def build_stat_cards(school, averages):
     # Card 2: Denomination
     cards.append(
         f'<div class="stat-card">'
-        f'<div class="stat-icon">{ICON_BUILDING}</div>'
+        f'{stat_icon_html(ICON_BUILDING, STAT_ICON_COLORS[1])}'
         f'<div class="stat-label">Denomination</div>'
         f'<div class="stat-value">{escape(school["denomination"])}</div>'
         f"</div>"
@@ -332,7 +359,7 @@ def build_stat_cards(school, averages):
     roll = school.get("pupilRoll")
     cards.append(
         f'<div class="stat-card">'
-        f'<div class="stat-icon">{ICON_USERS}</div>'
+        f'{stat_icon_html(ICON_USERS, STAT_ICON_COLORS[2])}'
         f'<div class="stat-label">Pupil Roll</div>'
         f'<div class="stat-value">{f"{roll:,}" if roll else "N/A"}</div>'
         f"</div>"
@@ -351,7 +378,7 @@ def build_stat_cards(school, averages):
 
     cards.append(
         f'<div class="stat-card">'
-        f'<div class="stat-icon">{ICON_BAR_CHART}</div>'
+        f'{stat_icon_html(ICON_BAR_CHART, STAT_ICON_COLORS[3])}'
         f'<div class="stat-label">Pupil:Teacher Ratio</div>'
         f'<div class="stat-value">{escape(ratio_str)}</div>'
         + (f'<div class="stat-sub">{escape(sub2)}</div>' if sub2 else "")
@@ -558,22 +585,40 @@ def build_nearby_html(school, nearest):
     )
 
 
-def build_property_section(la_name, all_prices):
+def build_property_section(la_name, all_prices, scotland_avg):
     prices = all_prices.get(la_name)
     if not prices:
         return ""
-    rows = "".join(
-        f'<div class="price-row">'
-        f'<span class="price-type">{escape(ptype)}</span>'
-        f'<span class="price-value">&pound;{price:,}</span>'
-        f"</div>"
-        for ptype, price in prices
-    )
+    rows = []
+    for ptype, price in prices:
+        nat = scotland_avg.get(ptype)
+        if nat and price < nat * 0.97:
+            diff_color = "#16a34a"
+        elif nat and price > nat * 1.03:
+            diff_color = "#dc2626"
+        else:
+            diff_color = "#888"
+        nat_str = f"&pound;{nat:,}" if nat else "N/A"
+        rows.append(
+            f'<div class="price-row">'
+            f'<span class="price-type">{escape(ptype)}</span>'
+            f'<span class="price-values">'
+            f'<span class="price-value">&pound;{price:,}</span>'
+            f'<span class="price-nat" style="color:{diff_color}">{nat_str}</span>'
+            f'</span>'
+            f"</div>"
+        )
     return (
         f'<div class="area-card">'
         f"<h3>Average Property Prices</h3>"
         f'<p class="area-subtitle">{escape(la_name)}</p>'
-        f'<div class="price-list">{rows}</div>'
+        f'<div class="price-header">'
+        f'<span>Type</span>'
+        f'<span class="price-header-right">'
+        f'<span>Local</span><span>Scotland</span>'
+        f'</span>'
+        f'</div>'
+        f'<div class="price-list">{"".join(rows)}</div>'
         f'<p class="source-note">UK House Price Index, March 2026. '
         f"Council-area averages &mdash; prices vary within each authority.</p>"
         f"</div>"
@@ -617,7 +662,7 @@ def build_crime_section(la_name, all_crime_rates, scotland_rate):
 # Page renderer
 # ---------------------------------------------------------------------------
 
-def render_school_page(school, nearest, averages, all_prices, all_crime_rates, scotland_crime_rate):
+def render_school_page(school, nearest, averages, all_prices, scotland_avg_prices, all_crime_rates, scotland_crime_rate):
     region = region_link(school)
     region_slug = region[0] if region else ""
     rating = school["rating"]
@@ -675,10 +720,10 @@ def render_school_page(school, nearest, averages, all_prices, all_crime_rates, s
   </div>
 
   <section class="page-section">
-    <h2>About the local area</h2>
+    <h2>Local Area Insights</h2>
     <p class="section-sub">Key information about the area surrounding this school.</p>
     <div class="area-grid">
-      {build_property_section(school['localAuthority'], all_prices)}
+      {build_property_section(school['localAuthority'], all_prices, scotland_avg_prices)}
       {build_crime_section(school['localAuthority'], all_crime_rates, scotland_crime_rate)}
     </div>
   </section>
@@ -713,13 +758,13 @@ def build_sitemap(schools):
 def main():
     schools = json.load(open(SCHOOLS_JSON))
     averages = compute_averages(schools)
-    all_prices = load_property_prices()
+    all_prices, scotland_avg_prices = load_property_prices()
     all_crime_rates, scotland_crime_rate = load_crime_rates()
 
     written = 0
     for school in schools:
         nearest = nearest_schools(school, schools)
-        html = render_school_page(school, nearest, averages, all_prices, all_crime_rates, scotland_crime_rate)
+        html = render_school_page(school, nearest, averages, all_prices, scotland_avg_prices, all_crime_rates, scotland_crime_rate)
         out_path = os.path.join(OUT_ROOT, school["pageUrl"])
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, "w") as f:

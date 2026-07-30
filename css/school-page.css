@@ -178,9 +178,14 @@ html, body {
   gap: 0.15rem;
 }
 
-.stat-icon {
-  color: #0065bd;
-  margin-bottom: 0.2rem;
+.stat-icon-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.35rem;
 }
 
 .stat-label {
@@ -455,6 +460,23 @@ html, body {
 
 /* Property prices */
 
+.price-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #999;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.price-header-right {
+  display: flex;
+  gap: 1rem;
+}
+
 .price-list {
   margin-bottom: 0.75rem;
 }
@@ -476,9 +498,24 @@ html, body {
   color: #555;
 }
 
+.price-values {
+  display: flex;
+  gap: 1rem;
+  text-align: right;
+}
+
 .price-value {
   font-weight: 700;
   color: #1a1a1a;
+  min-width: 80px;
+  text-align: right;
+}
+
+.price-nat {
+  font-weight: 600;
+  font-size: 0.82rem;
+  min-width: 80px;
+  text-align: right;
 }
 
 /* Crime rate */
