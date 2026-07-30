@@ -686,12 +686,14 @@ def render_school_page(school, nearest, averages, all_prices, scotland_avg_price
 <body>
 
 <header id="site-header">
-  <a class="site-title" href="/" style="color:inherit;text-decoration:none;">Scotland Schools Map</a>
-  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
-    <span></span><span></span><span></span>
-  </button>
-  <nav id="site-menu" hidden>
-    <p class="site-menu-placeholder">More sections coming soon.</p>
+  <div style="display: flex; align-items: center;">
+    <a href="/" class="site-logo">
+      <img src="/assets/logo.svg" alt="Scotland Schools Map logo">
+    </a>
+    <a href="/" class="site-title" style="color: inherit; text-decoration: none;">Scotland Schools Map</a>
+  </div>
+  <nav id="site-menu">
+    <a href="/search.html" class="site-menu-item">Find a school</a>
   </nav>
 </header>
 
