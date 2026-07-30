@@ -8,12 +8,14 @@ html, body {
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   color: #222;
+  background: #fff;
 }
 
 body {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
+  background: #fff;
 }
 
 /* Site header + hamburger menu styles live in css/site-header.css, shared
@@ -198,6 +200,212 @@ body {
   color: #0065bd;
 }
 
+/* How it works */
+
+#how-it-works {
+  background: #f7f9fb;
+  padding: 4rem 2.5rem;
+  text-align: center;
+}
+
+#how-it-works .section-eyebrow {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #0065bd;
+  margin-bottom: 0.75rem;
+}
+
+#how-it-works h2 {
+  font-size: 1.75rem;
+  color: #1a1a1a;
+  margin: 0 0 0.75rem 0;
+}
+
+.hiw-subtitle {
+  font-size: 0.92rem;
+  color: #555;
+  line-height: 1.5;
+  margin: 0 auto 2.5rem;
+  max-width: 38em;
+}
+
+.steps-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0;
+  max-width: 960px;
+  margin: 0 auto 2.5rem;
+}
+
+.step-card {
+  flex: 1;
+  max-width: 280px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 14px;
+  padding: 1.5rem 1.25rem 1.75rem;
+  position: relative;
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #eaf3fb;
+  color: #0065bd;
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.step-connector {
+  width: 40px;
+  min-width: 40px;
+  border-top: 2px dashed #bcdcf5;
+  margin-top: 80px;
+}
+
+.step-illustration {
+  margin-bottom: 1rem;
+}
+
+.step-illustration svg {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+}
+
+.step-card h3 {
+  font-size: 1.05rem;
+  color: #1a1a1a;
+  margin: 0 0 0.5rem 0;
+}
+
+.step-card p {
+  font-size: 0.82rem;
+  color: #666;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.trust-banner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 700px;
+  margin: 0 auto;
+  background: #f0f4f8;
+  border: 1px solid #e0e7ee;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  text-align: left;
+}
+
+.trust-banner-icon {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #17C3B2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trust-banner strong {
+  font-size: 0.95rem;
+  color: #1a1a1a;
+}
+
+.trust-banner p {
+  font-size: 0.82rem;
+  color: #555;
+  line-height: 1.45;
+  margin: 0.25rem 0 0;
+}
+
+/* FAQ */
+
+#faq-section {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 4rem 2.5rem;
+}
+
+#faq-section h2 {
+  font-size: 1.5rem;
+  color: #1a1a1a;
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+
+.faq-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.faq-item {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.faq-item:first-child {
+  border-top: 1px solid #e5e5e5;
+}
+
+.faq-question {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1.1rem 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: left;
+  font-family: inherit;
+}
+
+.faq-question:hover {
+  color: #0065bd;
+}
+
+.faq-chevron {
+  flex: none;
+  color: #999;
+  transition: transform 0.2s ease;
+}
+
+.faq-item.open .faq-chevron {
+  transform: rotate(180deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.faq-item.open .faq-answer {
+  max-height: 200px;
+}
+
+.faq-answer p {
+  margin: 0 0 1.1rem 0;
+  font-size: 0.88rem;
+  color: #555;
+  line-height: 1.55;
+}
+
 /* Site footer styles live in css/site-footer.css, shared across pages. */
 
 @media (max-width: 900px) {
@@ -227,6 +435,26 @@ body {
 
   #map-pane {
     height: 70vh;
+  }
+
+  .steps-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .step-connector {
+    width: 2px;
+    min-width: 2px;
+    height: 30px;
+    border-top: none;
+    border-left: 2px dashed #bcdcf5;
+    margin-top: 0;
+  }
+
+  .step-card {
+    max-width: 400px;
+    width: 100%;
   }
 }
 
