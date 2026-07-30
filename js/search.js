@@ -100,7 +100,7 @@ function renderPopular() {
   }).filter(Boolean);
   var sec = POPULAR_SECONDARY.map(function (name) {
     return allSchools.find(function (s) {
-      return s.name === name && (s.sector === "secondary" || s.name === "Jordanhill School");
+      return s.name === name && s.sector === "secondary";
     });
   }).filter(Boolean);
   renderCards(priContainer, pri, false);

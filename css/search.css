@@ -106,7 +106,8 @@ html, body {
   gap: 0.4rem;
 }
 
-#radius-controls[hidden] {
+#radius-controls[hidden],
+.school-cards[hidden] {
   display: none;
 }
 
