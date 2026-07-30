@@ -474,7 +474,7 @@ html, body {
 
 .price-header-right {
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .price-list {
@@ -500,7 +500,7 @@ html, body {
 
 .price-values {
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   text-align: right;
 }
 

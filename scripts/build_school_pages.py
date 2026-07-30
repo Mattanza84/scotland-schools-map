@@ -615,7 +615,7 @@ def build_property_section(la_name, all_prices, scotland_avg):
         f'<div class="price-header">'
         f'<span>Type</span>'
         f'<span class="price-header-right">'
-        f'<span>Local</span><span>Scotland</span>'
+        f'<span>Local</span><span>Scotland avg</span>'
         f'</span>'
         f'</div>'
         f'<div class="price-list">{"".join(rows)}</div>'
