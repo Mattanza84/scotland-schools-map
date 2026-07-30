@@ -14,12 +14,22 @@
 <body>
 
 <header id="site-header">
-  <div class="site-title">Scotland Schools Map</div>
-  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
-    <span></span><span></span><span></span>
-  </button>
-  <nav id="site-menu" hidden>
-    <p class="site-menu-placeholder">More sections coming soon.</p>
+  <div style="display: flex; align-items: center;">
+    <a href="index.html" class="site-logo">
+      <img src="assets/logo.svg" alt="Scotland Schools Map logo">
+    </a>
+    <a href="index.html" class="site-title" style="color: inherit; text-decoration: none;">Scotland Schools Map</a>
+  </div>
+  <nav id="site-menu">
+    <a href="search.html" class="site-menu-item">
+      <span class="site-menu-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="10" cy="10" r="6"></circle>
+          <path d="m15 15 6 6"></path>
+        </svg>
+      </span>
+      Find a school
+    </a>
   </nav>
 </header>
 

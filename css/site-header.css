@@ -1,4 +1,4 @@
-/* Shared site header + hamburger menu, used by every page for a consistent
+/* Shared site header + navigation, used by every page for a consistent
    top bar (regions.html, index.html, ...). Keep this the single source of
    truth for header styling rather than duplicating rules per page. */
 
@@ -8,59 +8,67 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #0065bd;
+  background: #2563EB;
   color: #fff;
   padding: 0.75rem 1.5rem;
+  gap: 1rem;
+}
+
+.site-logo {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  flex-shrink: 0;
+}
+
+.site-logo img {
+  height: 100%;
+  width: auto;
 }
 
 .site-title {
   font-size: 1.15rem;
   font-weight: 700;
-}
-
-#menu-toggle {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 5px;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  border: none;
-  background: transparent;
-  cursor: pointer;
-}
-
-#menu-toggle span {
-  display: block;
-  width: 24px;
-  height: 3px;
-  background: #fff;
-  border-radius: 2px;
-}
-
-#menu-toggle:hover span {
-  background: #e5f0fa;
+  text-decoration: none;
+  color: inherit;
+  margin-left: 0.5rem;
 }
 
 #site-menu {
-  position: absolute;
-  top: 100%;
-  right: 1.5rem;
-  z-index: 20;
-  background: #fff;
-  color: #222;
-  border: 1px solid #ddd;
-  border-radius: 0 0 8px 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  padding: 1rem 1.25rem;
-  min-width: 220px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.site-menu-placeholder {
-  margin: 0;
-  font-size: 0.85rem;
-  color: #777;
+.site-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.95rem;
+  transition: opacity 0.2s;
+}
+
+.site-menu-item:hover {
+  opacity: 0.8;
+}
+
+.site-menu-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+
+.site-menu-icon svg {
+  width: 100%;
+  height: 100%;
+  fill: white;
 }
 
 @media (max-width: 600px) {
@@ -69,18 +77,18 @@
   }
 
   .site-title {
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
 
-  #menu-toggle {
-    width: 36px;
-    height: 36px;
+  .site-logo {
+    height: 32px;
   }
 
   #site-menu {
-    right: 0.5rem;
-    left: 0.5rem;
-    min-width: 0;
-    width: auto;
+    gap: 1rem;
+  }
+
+  .site-menu-item {
+    font-size: 0.85rem;
   }
 }
