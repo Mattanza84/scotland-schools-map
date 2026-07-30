@@ -462,7 +462,6 @@ html, body {
 
 .price-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   font-size: 0.72rem;
   text-transform: uppercase;
@@ -474,7 +473,11 @@ html, body {
 
 .price-header-right {
   display: flex;
-  gap: 0.5rem;
+}
+
+.price-header-right span {
+  width: 82px;
+  text-align: center;
 }
 
 .price-list {
@@ -483,7 +486,6 @@ html, body {
 
 .price-row {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 0.5rem 0;
   border-bottom: 1px solid #f0f0f0;
@@ -495,27 +497,26 @@ html, body {
 }
 
 .price-type {
+  flex: 1;
   color: #555;
 }
 
 .price-values {
   display: flex;
-  gap: 0.5rem;
-  text-align: right;
 }
 
 .price-value {
   font-weight: 700;
   color: #1a1a1a;
-  min-width: 80px;
-  text-align: right;
+  width: 82px;
+  text-align: center;
 }
 
 .price-nat {
   font-weight: 600;
   font-size: 0.82rem;
-  min-width: 80px;
-  text-align: right;
+  width: 82px;
+  text-align: center;
 }
 
 /* Crime rate */

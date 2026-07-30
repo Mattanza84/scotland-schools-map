@@ -613,7 +613,7 @@ def build_property_section(la_name, all_prices, scotland_avg):
         f"<h3>Average Property Prices</h3>"
         f'<p class="area-subtitle">{escape(la_name)}</p>'
         f'<div class="price-header">'
-        f'<span>Type</span>'
+        f'<span class="price-type">Type</span>'
         f'<span class="price-header-right">'
         f'<span>Local</span><span>Scotland avg</span>'
         f'</span>'
