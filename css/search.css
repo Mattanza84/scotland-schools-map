@@ -1,0 +1,299 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #222;
+  background: #fff;
+}
+
+#search-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 2rem 3rem;
+}
+
+#search-page h1 {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.5rem;
+  color: #0065bd;
+}
+
+.search-lead {
+  margin: 0 0 1.5rem 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+/* Search box */
+
+.search-box {
+  position: relative;
+  max-width: 420px;
+  margin-bottom: 2.5rem;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.75rem 3rem 0.75rem 1.1rem;
+  font-size: 0.92rem;
+  border: 1.5px solid #ccc;
+  border-radius: 999px;
+  outline: none;
+  font-family: inherit;
+  color: #222;
+  background: #fff;
+  transition: border-color 0.15s ease;
+}
+
+.search-box input:focus {
+  border-color: #0065bd;
+}
+
+.search-box input::placeholder {
+  color: #999;
+}
+
+#search-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#search-btn:hover {
+  color: #0065bd;
+}
+
+/* Results heading */
+
+.results-heading {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.75rem 0;
+}
+
+/* Results header with radius controls */
+
+#results-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+#results-header .results-heading {
+  margin: 0;
+}
+
+#radius-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.radius-label {
+  font-size: 0.8rem;
+  color: #666;
+  margin-right: 0.2rem;
+}
+
+.radius-btn {
+  padding: 0.3rem 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  background: #fff;
+  color: #555;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.12s ease;
+}
+
+.radius-btn:hover {
+  border-color: #0065bd;
+  color: #0065bd;
+}
+
+.radius-btn.active {
+  background: #0065bd;
+  color: #fff;
+  border-color: #0065bd;
+}
+
+/* Tabs */
+
+.tab-bar {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid #e5e5e5;
+  margin-bottom: 1.25rem;
+}
+
+.tab-btn {
+  padding: 0.6rem 1.25rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #888;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: color 0.12s ease;
+}
+
+.tab-btn:hover {
+  color: #444;
+}
+
+.tab-btn.active {
+  color: #1a1a1a;
+  border-bottom-color: #1a1a1a;
+}
+
+/* School cards grid */
+
+.school-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.75rem;
+}
+
+/* Individual card */
+
+.school-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.12s ease, box-shadow 0.12s ease;
+  position: relative;
+}
+
+.school-card:hover {
+  border-color: #bbb;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.school-card-name {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.6rem 0;
+  padding-right: 1.5rem;
+  line-height: 1.3;
+}
+
+.school-card-la {
+  font-size: 0.82rem;
+  color: #555;
+  margin: 0 0 0.1rem 0;
+}
+
+.school-card-sector {
+  font-size: 0.75rem;
+  color: #999;
+  margin: 0 0 0.5rem 0;
+}
+
+.school-card-arrow {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ccc;
+}
+
+.school-card:hover .school-card-arrow {
+  color: #888;
+}
+
+.school-card-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #fff;
+}
+
+.school-card-badge--none {
+  background: #9e9e9e;
+}
+
+.school-card-distance {
+  font-size: 0.72rem;
+  color: #888;
+  margin: 0 0 0.1rem 0;
+}
+
+/* No results */
+
+.no-results-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  max-width: 420px;
+  border: 1px solid #fca5a5;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  background: #fef2f2;
+}
+
+.no-results-icon {
+  flex: none;
+  margin-top: 2px;
+}
+
+.no-results-card p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* Responsive */
+
+@media (max-width: 600px) {
+  #search-page {
+    padding: 1.25rem;
+  }
+
+  .school-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #results-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 400px) {
+  .school-cards {
+    grid-template-columns: 1fr;
+  }
+}
