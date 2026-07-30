@@ -19,31 +19,37 @@
 
 ## Primary school ratings (inspection quality indicator grades)
 
-- **Source**: Scottish Government FOI response FOI-202000044014, Annex A spreadsheet.
-- **URL**: `https://www.gov.scot/publications/foi-202000044014/` (spreadsheet linked from that page)
-- **Fetched**: 2026-07-07
-- **Raw file**: `data/raw/foi_inspection_annex_a.xlsx`
-- **Coverage**: inspections from April 2008 to June 2020, across three inspection framework
+- **Source**: Scottish Government FOI response FOI-202500457731, Annex A spreadsheet.
+- **URL**: `https://www.gov.scot/publications/foi-202500457731/` (spreadsheet linked from that page)
+- **Fetched**: 2026-07-30
+- **Raw file**: `data/raw/foi_inspections_2025.xlsx`
+- **Coverage**: all inspections from April 2008 to 1 April 2025, across three inspection framework
   periods each grading a different set of quality indicators (QIs) on a 1 (weakest) to 6
   (strongest) scale:
   - 2008-2016: QI 1.1, 2.1, 5.3, 5.1, 5.9
-  - 2016-2020: QI 1.3, 2.3, 3.2, 3.1
+  - 2016-2025: QI 1.3, 2.3, 3.2, 3.1
   - 2017-2020: QI 1.1, 2.3, 3.2
-- **Known limitation**: no confirmed bulk source was found for inspections after June 2020.
-  Scotland's inspection model is light-touch (only a fraction of schools inspected in any given
-  period), so schools with no rating in the map may simply not have been inspected recently, and
-  schools that do have a rating may be reflecting an inspection from as far back as 2008. The
-  `inspectionDate` shown in each popup is the actual date of the most recent inspection Annex A
-  contains for that school (deduplicated by SEED code, keeping the latest date where a school
-  appears in more than one framework period) — always check it rather than assuming the rating
-  is current.
+- **Note**: routine school inspections were paused from March 2020 due to COVID-19 and resumed
+  in August 2022. No inspections were carried out in 2020/21 or 2021/22 academic years.
 - **What "rating" means here**: Education Scotland does not publish a single official overall
   grade per school (unlike Ofsted's England-only "Outstanding/Good/..." scale). The `label` and
   `averageScore` fields in `data/schools.json` are an illustrative average computed across
   whichever quality indicators were graded at that school's inspection — not an official
-  Education Scotland score.
+  Education Scotland score. The `inspectionDate` shows the date of the most recent inspection.
 - **Usage**: this is the sole rating source for primary schools, and the fallback for any
   secondary school with no attainment data available (see below).
+- **Previous version**: the old `data/raw/foi_inspection_annex_a.xlsx` (FOI-202000044014, covering
+  only up to June 2020) is retained for reference but no longer used in the build.
+
+## School pupil rolls and teacher FTE
+
+- **Source**: Scottish Government "School Level Summary Statistics 2025"
+- **URL**: `https://www.gov.scot/publications/school-level-summary-statistics/`
+- **Fetched**: 2026-07-30
+- **Raw file**: `data/raw/school_level_stats_2025.xlsx`
+- **License**: Open Government Licence v3.0
+- **Notes**: provides per-school pupil roll and teacher FTE as of September 2024 census.
+  Overwrites the pupil roll / FTE values originally sourced from the 2022 ArcGIS layer.
 
 ## Secondary school ratings (SQA attainment)
 
@@ -125,6 +131,12 @@
 
 Re-run `python3 scripts/build_schools_json.py` after replacing the files in `data/raw/` with
 newer downloads from the same sources (or newer equivalents) to regenerate `data/schools.json`.
+
+**Every ~3 months** the following files should be refreshed:
+- `foi_inspections_2025.xlsx` → download the latest FOI release from
+  `https://www.gov.scot/publications/foi-202500457731/` (or a newer FOI if one is published).
+- `school_level_stats_2025.xlsx` → download the latest from
+  `https://www.gov.scot/publications/school-level-summary-statistics/`.
 Re-run `python3 scripts/build_regions_geometry.py` after replacing
 `data/raw/scotland_la_boundaries.geojson` to regenerate `js/scotland-geometry.js`.
 

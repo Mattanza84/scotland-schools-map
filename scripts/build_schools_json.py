@@ -5,11 +5,14 @@ Sources (see data/SOURCES.md for full provenance):
   - data/raw/schools_scotland_page{1,2}.geojson
       School locations, sector, denomination, address. Fetched from the
       "Schools_Scotland__2022" ArcGIS FeatureServer layer (WGS84).
-  - data/raw/foi_inspection_annex_a.xlsx
+  - data/raw/foi_inspections_2025.xlsx
       Education Scotland inspection quality-indicator (QI) grades, 1 (weakest)
-      to 6 (strongest), covering inspections from April 2008 to June 2020.
-      Response to FOI-202000044014. Used as the rating for primary schools,
+      to 6 (strongest), covering all inspections up to 1 April 2025.
+      Response to FOI-202500457731. Used as the rating for primary schools,
       and as a fallback for secondary schools with no attainment data.
+  - data/raw/school_level_stats_2025.xlsx
+      Scottish Government school-level summary statistics 2025, providing
+      up-to-date pupil rolls and teacher FTE per school.
   - data/raw/breadth_and_depth_2023-24.json, breadth_and_depth_2024-25.json
       SQA attainment (% of leavers with 5+ awards at Higher level or above),
       from the Scottish Government "Schools - Breadth and Depth of
@@ -157,67 +160,98 @@ def assign_page_urls(schools):
             school["pageUrl"] = f"schools/{la_slug}/{final_slug}.html"
 
 
-def read_inspection_sheet(ws, header_name="Seed No."):
-    header_row_idx = None
-    header = None
-    for i, row in enumerate(ws.iter_rows(min_row=1, max_row=5, values_only=True), start=1):
-        if row and row[0] == header_name:
-            header_row_idx = i
-            header = row
-            break
-    if header_row_idx is None:
-        raise ValueError(f"Could not find header row in sheet {ws.title}")
+def load_ratings():
+    """Loads inspection QI grades from the 2025 FOI release (all inspections
+    up to 1 April 2025). Keeps only the most recent inspection per school.
+    QI columns with value 0 mean "not graded under this framework" and are
+    excluded from scoring."""
+    wb = openpyxl.load_workbook(
+        os.path.join(RAW, "foi_inspections_2025.xlsx"), data_only=True
+    )
+    ws = wb["Public and Grant aided schools"]
+    rows = list(ws.iter_rows(values_only=True))
 
+    # Row 0 is a title, row 1 is headers. QI columns are indices 5–13.
+    headers = rows[1]
     qi_columns = [
-        (idx, name)
-        for idx, name in enumerate(header)
-        if name and str(name).startswith("QI")
+        (idx, str(name).strip())
+        for idx, name in enumerate(headers)
+        if name and str(name).strip().startswith("QI")
     ]
 
-    records = []
-    for row in ws.iter_rows(min_row=header_row_idx + 1, values_only=True):
+    latest_by_seed = {}
+    for row in rows[2:]:
         seed_raw = row[0]
         if not isinstance(seed_raw, (int, float)):
             continue
         seed = int(seed_raw)
-        inspection_date = row[2]
+        inspection_date_raw = row[3]
+        # Skip rows with no valid inspection date (e.g. "not since opened ...")
+        if not inspection_date_raw or not hasattr(inspection_date_raw, "date"):
+            if not isinstance(inspection_date_raw, str) or not inspection_date_raw[:4].isdigit():
+                continue
+
         qi_scores = {}
         for idx, qi_name in qi_columns:
             val = row[idx]
-            if isinstance(val, (int, float)):
+            if isinstance(val, (int, float)) and int(val) != 0:
                 qi_number = qi_name.replace("QI", "").strip()
-                qi_scores[qi_number] = val
+                qi_scores[qi_number] = int(val)
+
         if not qi_scores:
             continue
-        records.append(
-            {
+
+        existing = latest_by_seed.get(seed)
+        if existing is None or inspection_date_raw > existing["inspectionDate"]:
+            latest_by_seed[seed] = {
                 "seedCode": seed,
-                "inspectionDate": inspection_date,
+                "inspectionDate": inspection_date_raw,
                 "qiScores": qi_scores,
             }
-        )
-    return records
 
-
-def load_ratings():
-    wb = openpyxl.load_workbook(
-        os.path.join(RAW, "foi_inspection_annex_a.xlsx"), data_only=True
-    )
-    all_records = []
-    for sheet_name in wb.sheetnames:
-        if sheet_name == "QI definitions":
-            continue
-        all_records.extend(read_inspection_sheet(wb[sheet_name]))
-
-    # A school can appear in more than one sheet if it was inspected more than
-    # once (e.g. once under an older framework, again under a newer one).
-    # Keep only the most recent inspection per SEED code.
-    latest_by_seed = {}
-    for rec in all_records:
-        existing = latest_by_seed.get(rec["seedCode"])
-        if existing is None or rec["inspectionDate"] > existing["inspectionDate"]:
-            latest_by_seed[rec["seedCode"]] = rec
     return latest_by_seed
+
+
+def load_school_stats_2025():
+    """Loads fresh pupil roll and teacher FTE from School Level Summary
+    Statistics 2025. Returns dict keyed by SEED code (int)."""
+    wb = openpyxl.load_workbook(
+        os.path.join(RAW, "school_level_stats_2025.xlsx"), data_only=True
+    )
+    ws = wb["2025 School Level Statistics"]
+    rows = list(ws.iter_rows(values_only=True))
+    # Row 0 is a title, row 1 is headers.
+    by_seed = {}
+    for row in rows[2:]:
+        seed_raw = row[1]
+        if not seed_raw:
+            continue
+        try:
+            seed = int(seed_raw)
+        except (ValueError, TypeError):
+            continue
+        fte = row[4]
+        roll = row[5]
+        by_seed[seed] = {
+            "pupilRoll": int(roll) if isinstance(roll, (int, float)) and roll else None,
+            "fteTeachers": round(float(fte), 1) if isinstance(fte, (int, float)) and fte else None,
+        }
+    return by_seed
+
+
+def apply_school_stats(schools, stats_by_seed):
+    """Overwrites pupilRoll and fteTeachers with 2025 values where available."""
+    matched = 0
+    for school in schools.values():
+        rec = stats_by_seed.get(school["seedCode"])
+        if rec is None:
+            continue
+        if rec["pupilRoll"] is not None:
+            school["pupilRoll"] = rec["pupilRoll"]
+        if rec["fteTeachers"] is not None:
+            school["fteTeachers"] = rec["fteTeachers"]
+        matched += 1
+    return matched
 
 
 def apply_ratings(schools, ratings_by_seed):
@@ -231,12 +265,16 @@ def apply_ratings(schools, ratings_by_seed):
         score = (average - 1) / (6 - 1)
         label = GRADE_LABELS[round(average)]
         inspection_date = rec["inspectionDate"]
+        if hasattr(inspection_date, "date"):
+            date_str = inspection_date.date().isoformat()
+        elif isinstance(inspection_date, str):
+            date_str = inspection_date[:10]
+        else:
+            date_str = str(inspection_date)
         school["rating"] = {
             "hasData": True,
             "metric": "inspection",
-            "inspectionDate": inspection_date.date().isoformat()
-            if hasattr(inspection_date, "date")
-            else str(inspection_date),
+            "inspectionDate": date_str,
             "qiScores": qi_scores,
             "averageScore": round(average, 2),
             "score": round(score, 3),
@@ -291,8 +329,13 @@ def apply_attainment(schools, attainment_by_seed):
 
 def main():
     schools = load_locations()
+
+    stats_2025 = load_school_stats_2025()
+    stats_matched = apply_school_stats(schools, stats_2025)
+    print(f"Updated pupil roll / teacher FTE from 2025 stats for {stats_matched} schools")
+
     ratings_by_seed = load_ratings()
-    apply_ratings(schools, ratings_by_seed)
+    inspection_matched = apply_ratings(schools, ratings_by_seed)
 
     attainment_by_seed = load_attainment()
     attainment_matched = apply_attainment(schools, attainment_by_seed)

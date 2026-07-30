@@ -7,21 +7,19 @@
 <meta name="description" content="St Francis RC Primary School is a primary school in Dundee City.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<link rel="stylesheet" href="/css/site-header.css?v=11">
+<link rel="stylesheet" href="/css/site-header.css?v=10">
 <link rel="stylesheet" href="/css/site-footer.css?v=1">
 <link rel="stylesheet" href="/css/school-page.css?v=3">
 </head>
 <body>
 
 <header id="site-header">
-  <div style="display: flex; align-items: center;">
-    <a href="/" class="site-logo">
-      <img src="/assets/logo.svg" alt="Scotland Schools Map logo">
-    </a>
-    <a href="/" class="site-title" style="color: inherit; text-decoration: none;">Scotland Schools Map</a>
-  </div>
-  <nav id="site-menu">
-    <a href="/search.html" class="site-menu-item">Find a school</a>
+  <a class="site-title" href="/" style="color:inherit;text-decoration:none;">Scotland Schools Map</a>
+  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="site-menu" hidden>
+    <p class="site-menu-placeholder">More sections coming soon.</p>
   </nav>
 </header>
 
@@ -42,7 +40,7 @@
     </div>
   </div>
 
-  <div class="stat-cards"><div class="stat-card"><div class="stat-icon-circle" style="background:#6A4C93"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><div class="stat-label">School Rating</div><div class="stat-value" style="color:#9e9e9e">No data</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#17C3B2"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg></div><div class="stat-label">Denomination</div><div class="stat-value">Roman Catholic</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#FFCA3A"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="stat-label">Pupil Roll</div><div class="stat-value">312</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#EF476F"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div><div class="stat-label">Pupil:Teacher Ratio</div><div class="stat-value">14.8:1</div><div class="stat-sub">Scotland avg: 13.8:1</div></div></div>
+  <div class="stat-cards"><div class="stat-card"><div class="stat-icon-circle" style="background:#6A4C93"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><div class="stat-label">School Rating</div><div class="stat-value" style="color:#9e9e9e">No data</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#17C3B2"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/><path d="M9 9h1"/><path d="M9 13h1"/><path d="M9 17h1"/></svg></div><div class="stat-label">Denomination</div><div class="stat-value">Roman Catholic</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#FFCA3A"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="stat-label">Pupil Roll</div><div class="stat-value">296</div></div><div class="stat-card"><div class="stat-icon-circle" style="background:#EF476F"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div><div class="stat-label">Pupil:Teacher Ratio</div><div class="stat-value">14.4:1</div><div class="stat-sub">Scotland avg: 13.7:1</div></div></div>
 
   <div class="section-grid">
     <section class="content-card"><div class="card-header"><h2>Rating &amp; Performance</h2></div><div class="gauge-container"><div class="gauge-no-data">No rating data available</div></div></section>
@@ -71,6 +69,7 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
   integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="/js/site-header.js?v=10"></script>
 <script src="/js/school-page.js?v=1"></script>
 </body>
 </html>
