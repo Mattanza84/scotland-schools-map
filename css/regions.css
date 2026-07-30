@@ -23,7 +23,8 @@ body {
 
 #split-layout {
   display: flex;
-  height: calc(100vh - 52px);
+  height: 75vh;
+  max-height: 620px;
 }
 
 #content-pane {
