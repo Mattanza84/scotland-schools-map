@@ -52,7 +52,7 @@ RATING_COLORS = {
     "Excellent": "#16A34A",
     "Very Good": "#22C55E",
     "Good": "#4ADE80",
-    "Satisfactory": "#FACC15",
+    "Satisfactory": "#A3E635",
     "Weak": "#FACC15",
     "Unsatisfactory": "#EA580C",
 }

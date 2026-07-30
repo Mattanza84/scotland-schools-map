@@ -50,7 +50,7 @@ function scoreForRatingLabel(label) {
 }
 
 function createMarkerForSchool(school) {
-  const colorHex = colorForScore(school.rating.score, school.rating.hasData);
+  const colorHex = colorForScore(school.rating.score, school.rating.hasData, school.rating.label);
   const icon = buildIcon(school.sector, colorHex);
   const marker = L.marker([school.lat, school.lng], { icon });
   marker.on("click", () => openSchoolModal(school));
@@ -185,7 +185,7 @@ function buildRatingCheckboxes(schools) {
 
   orderedKeys.forEach((key) => {
     activeRatings.add(key);
-    const swatchColor = key === NO_DATA_LABEL ? colorForScore(null, false) : colorForScore(scoreForRatingLabel(key), true);
+    const swatchColor = key === NO_DATA_LABEL ? colorForScore(null, false) : colorForScore(null, true, key);
 
     const label = document.createElement("label");
     const checkbox = document.createElement("input");

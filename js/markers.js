@@ -2,33 +2,19 @@
 
 const NO_DATA_COLOR = "#9e9e9e";
 
-// Red -> yellow -> green, matching the rating-panel swatch colours.
-const GRADIENT_STOPS = [
-  { stop: 0.0, rgb: [215, 48, 39] },   // #d73027
-  { stop: 0.5, rgb: [254, 224, 139] }, // #fee08b
-  { stop: 1.0, rgb: [26, 152, 80] },   // #1a9850
-];
+const RATING_COLORS = {
+  "Excellent": "#16A34A",
+  "Very Good": "#22C55E",
+  "Good": "#4ADE80",
+  "Satisfactory": "#A3E635",
+  "Weak": "#FACC15",
+  "Unsatisfactory": "#EA580C",
+};
 
-function colorForScore(score, hasData) {
-  if (!hasData || score === null || score === undefined) {
-    return NO_DATA_COLOR;
-  }
-  const clamped = Math.max(0, Math.min(1, score));
-
-  let lower = GRADIENT_STOPS[0];
-  let upper = GRADIENT_STOPS[GRADIENT_STOPS.length - 1];
-  for (let i = 0; i < GRADIENT_STOPS.length - 1; i++) {
-    if (clamped >= GRADIENT_STOPS[i].stop && clamped <= GRADIENT_STOPS[i + 1].stop) {
-      lower = GRADIENT_STOPS[i];
-      upper = GRADIENT_STOPS[i + 1];
-      break;
-    }
-  }
-
-  const range = upper.stop - lower.stop;
-  const t = range === 0 ? 0 : (clamped - lower.stop) / range;
-  const rgb = lower.rgb.map((channel, i) => Math.round(channel + t * (upper.rgb[i] - channel)));
-  return `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
+function colorForScore(score, hasData, label) {
+  if (!hasData) return NO_DATA_COLOR;
+  if (label && RATING_COLORS[label]) return RATING_COLORS[label];
+  return NO_DATA_COLOR;
 }
 
 function buildIcon(sector, colorHex) {
@@ -80,14 +66,14 @@ function buildPopupHtml(school) {
   let ratingBlock;
 
   if (school.rating.hasData && school.rating.metric === "attainment") {
-    const colorHex = colorForScore(school.rating.score, true);
+    const colorHex = colorForScore(school.rating.score, true, school.rating.label);
     ratingBlock = `
       <div class="popup-rating" style="border-left: 4px solid ${colorHex}">
         <strong>${escapeHtml(school.rating.label)}</strong> &mdash; ${escapeHtml(school.rating.percent)}% of the leaver cohort attained 5+ awards at Higher level or above
         <div class="popup-source">SQA attainment, ${escapeHtml(school.rating.year)} &mdash; Scottish Government (statistics.gov.scot, "Breadth and Depth of Qualifications"). This is a raw attainment figure, not adjusted for pupils' backgrounds &mdash; the official methodology recommends comparing a school to its "virtual comparator" for a fairer read, which this map does not show.</div>
       </div>`;
   } else if (school.rating.hasData) {
-    const colorHex = colorForScore(school.rating.score, true);
+    const colorHex = colorForScore(school.rating.score, true, school.rating.label);
     const qiItems = Object.entries(school.rating.qiScores)
       .map(([qi, val]) => {
         const label = QI_LABELS[qi] || `Quality indicator ${qi}`;
