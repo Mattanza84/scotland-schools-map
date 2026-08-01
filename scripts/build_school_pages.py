@@ -694,6 +694,7 @@ def render_school_page(school, nearest, averages, all_prices, scotland_avg_price
   </div>
   <nav id="site-menu">
     <a href="/search.html" class="site-menu-item">Find a school</a>
+    <a href="/explore.html" class="site-menu-item">Explore areas</a>
   </nav>
 </header>
 
