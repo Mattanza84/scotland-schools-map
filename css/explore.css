@@ -1,0 +1,359 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #222;
+  background: #fff;
+}
+
+/* ── Hero ── */
+
+.hero-wrap {
+  background: #f0f6ff;
+  border-bottom: 1px solid #dce8f5;
+}
+
+#explore-hero {
+  padding: 2.5rem 2.5rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#explore-hero-text {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+#explore-hero-text h1 {
+  margin: 0 0 0.75rem 0;
+  font-size: 2rem;
+  color: #1a4fa0;
+  font-weight: 800;
+}
+
+#explore-hero-text p {
+  margin: 0;
+  font-size: 1rem;
+  color: #444;
+  max-width: 36em;
+  line-height: 1.55;
+}
+
+#explore-hero-map {
+  flex: 0 0 180px;
+  width: 180px;
+  max-height: 260px;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+}
+
+#explore-hero-map svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  opacity: 0.22;
+}
+
+/* ── Discover section ── */
+
+#discover-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2.5rem 2rem;
+}
+
+#discover-section h2 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #1a1a1a;
+  margin: 0 0 0.4rem 0;
+}
+
+#discover-section .section-lead {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0 0 1.75rem 0;
+}
+
+/* ── Region card grid ── */
+
+.region-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+.region-card {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+  background-size: cover;
+  background-position: center;
+}
+
+.region-card:focus-visible {
+  outline: 3px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Gradient overlay for text legibility */
+.region-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 35%,
+    rgba(0, 0, 0, 0.18) 55%,
+    rgba(0, 0, 0, 0.72) 100%
+  );
+}
+
+.region-card-body {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 1rem 1rem 1.1rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.region-card-text {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.region-card-text h3 {
+  margin: 0 0 0.3rem 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.25;
+}
+
+.region-card-text p {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.88);
+  line-height: 1.35;
+}
+
+.region-card-count {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 500;
+}
+
+.region-card-count svg {
+  width: 13px;
+  height: 13px;
+  opacity: 0.75;
+}
+
+.region-card-btn {
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: #2563eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  transition: background 0.2s, transform 0.15s;
+}
+
+.region-card:hover .region-card-btn {
+  background: #1d4ed8;
+  transform: scale(1.07);
+}
+
+.region-card-btn svg {
+  width: 18px;
+  height: 18px;
+  color: #fff;
+}
+
+/* ── Region card photo backgrounds ── */
+/* Photos via Unsplash (free licence). To go live: download and serve locally. */
+
+.region-card--glasgow {
+  background-color: #1e3a5f;
+  background-image: url('https://images.unsplash.com/photo-1704322624412-84ca3103ecfa?auto=format&fit=crop&w=1200&q=80');
+}
+
+.region-card--edinburgh {
+  background-color: #2d3748;
+  background-image: url('https://images.unsplash.com/photo-1751922090004-6386496669c8?auto=format&fit=crop&w=1200&q=80');
+}
+
+.region-card--tayside {
+  background-color: #2a3a1a;
+  background-image: url('https://images.unsplash.com/photo-1692876292380-d9ad8c0f2f84?auto=format&fit=crop&w=1200&q=80');
+}
+
+.region-card--highland {
+  background-color: #1a3320;
+  background-image: url('https://images.unsplash.com/photo-1611422111224-bde09221f95b?auto=format&fit=crop&w=1200&q=80');
+}
+
+.region-card--aberdeen {
+  background-color: #1a2a3a;
+  background-image: url('https://images.unsplash.com/photo-1579723251184-cb96c6bcac33?auto=format&fit=crop&w=1200&q=80');
+}
+
+.region-card--south {
+  background-color: #1a3a1a;
+  background-image: url('https://images.unsplash.com/photo-1729495761596-ace93589a8e7?auto=format&fit=crop&w=1200&q=80');
+}
+
+/* ── Browse all council areas ── */
+
+#browse-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 2.5rem 4rem;
+}
+
+#browse-section h2 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #1a1a1a;
+  margin: 0 0 0.4rem 0;
+}
+
+#browse-section .section-lead {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0 0 1.5rem 0;
+}
+
+.council-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0;
+}
+
+.council-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 0.4rem;
+  text-decoration: none;
+  color: #222;
+  border-radius: 6px;
+  transition: background 0.15s;
+  cursor: pointer;
+}
+
+.council-item:hover {
+  background: #f0f4f8;
+}
+
+.council-icon {
+  display: none;
+}
+
+.council-name {
+  flex: 1 1 0;
+  min-width: 0;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #222;
+  line-height: 1.25;
+}
+
+.council-arrow {
+  flex: 0 0 auto;
+  color: #aaa;
+  font-size: 0.7rem;
+  padding-right: 0.2rem;
+}
+
+/* Council icon region colors */
+.council-icon--glasgow    { background: #2980b9; }
+.council-icon--edinburgh  { background: #d63fa0; }
+.council-icon--tayside    { background: #27ae60; }
+.council-icon--highland   { background: #c0392b; }
+.council-icon--aberdeen   { background: #d4900a; }
+.council-icon--south      { background: #8e44ad; }
+
+/* ── Responsive ── */
+
+@media (max-width: 900px) {
+  #explore-hero {
+    padding: 2rem 1.5rem;
+    gap: 1.5rem;
+  }
+
+  #explore-hero-text h1 {
+    font-size: 1.6rem;
+  }
+
+  #explore-hero-map {
+    flex: 0 0 160px;
+    width: 160px;
+  }
+
+  .region-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .council-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  #discover-section,
+  #browse-section {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  #explore-hero {
+    padding: 1.5rem 1.25rem;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  #explore-hero-map {
+    display: none;
+  }
+
+  #explore-hero-text h1 {
+    font-size: 1.4rem;
+  }
+
+  .region-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .council-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  #discover-section,
+  #browse-section {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
