@@ -119,6 +119,25 @@ html, body {
   padding: 0 14px 14px;
 }
 
+.filter-toggle-row {
+  padding: 6px 0 4px;
+}
+
+.filter-toggle-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.78rem;
+  color: #0065bd;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.filter-toggle-btn:hover {
+  color: #004a99;
+}
+
 .accordion-item.open .accordion-body {
   display: block;
 }

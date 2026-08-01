@@ -106,6 +106,16 @@ function hideFilterActions() {
 function onFilterChanged() {
   updateCountLine();
   showFilterActions();
+  syncToggleBtn("la-toggle", "#la-checkboxes input[type=checkbox]:not(:disabled)");
+  syncToggleBtn("rating-toggle", "#rating-checkboxes input[type=checkbox]:not(:disabled)");
+}
+
+function syncToggleBtn(btnId, cbSelector) {
+  const btn = document.getElementById(btnId);
+  if (!btn) return;
+  const cbs = document.querySelectorAll(cbSelector);
+  const allChecked = Array.from(cbs).every(cb => cb.checked);
+  btn.textContent = allChecked ? "Deselect all" : "Select all";
 }
 
 function applyMarkerVisibility() {
@@ -305,6 +315,30 @@ async function init() {
       activeSectors.delete("secondary");
     }
     onFilterChanged();
+  });
+
+  document.getElementById("la-toggle").addEventListener("click", () => {
+    const cbs = document.querySelectorAll("#la-checkboxes input[type=checkbox]:not(:disabled)");
+    const allChecked = Array.from(cbs).every(cb => cb.checked);
+    cbs.forEach(cb => {
+      cb.checked = !allChecked;
+      if (!allChecked) activeLocalAuthorities.add(cb.dataset.la);
+      else activeLocalAuthorities.delete(cb.dataset.la);
+    });
+    applyMarkerVisibility();
+    syncToggleBtn("la-toggle", "#la-checkboxes input[type=checkbox]:not(:disabled)");
+  });
+
+  document.getElementById("rating-toggle").addEventListener("click", () => {
+    const cbs = document.querySelectorAll("#rating-checkboxes input[type=checkbox]:not(:disabled)");
+    const allChecked = Array.from(cbs).every(cb => cb.checked);
+    cbs.forEach(cb => {
+      cb.checked = !allChecked;
+      if (!allChecked) activeRatings.add(cb.dataset.rating);
+      else activeRatings.delete(cb.dataset.rating);
+    });
+    applyMarkerVisibility();
+    syncToggleBtn("rating-toggle", "#rating-checkboxes input[type=checkbox]:not(:disabled)");
   });
 
   document.getElementById("apply-filters-btn").addEventListener("click", () => {
