@@ -559,13 +559,13 @@ def build_nearby_html(school, nearest):
     for dist_km, s in nearest:
         rating = s["rating"]
         if rating["hasData"]:
-            badge_color = color_for_label(rating["label"], True)
+            badge_slug = rating["label"].lower().replace(" ", "-")
             badge = (
-                f'<span class="nearby-badge" style="color:{badge_color}">'
-                f"&bull; {escape(rating['label'])}</span>"
+                f'<span class="nearby-badge nearby-badge--{badge_slug}">'
+                f"{escape(rating['label'])}</span>"
             )
         else:
-            badge = '<span class="nearby-badge nearby-badge--none">&bull; No data</span>'
+            badge = '<span class="nearby-badge nearby-badge--none">No data</span>'
 
         items.append(
             f'<a class="nearby-item" href="/{escape(s["pageUrl"])}">'
