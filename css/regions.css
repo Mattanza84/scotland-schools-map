@@ -48,23 +48,41 @@ body {
   color: #222;
 }
 
-.trust-badge {
-  display: inline-flex;
+.gov-data-badge {
+  display: flex;
   align-items: center;
-  gap: 0.4rem;
-  margin: 0 0 0.9rem 0;
-  padding: 0.3rem 0.65rem;
-  background: #eaf3fb;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+  padding: 0.7rem 1rem;
+  background: #f0f6ff;
   border: 1px solid #bcdcf5;
-  border-radius: 999px;
-  font-size: 0.74rem;
-  font-weight: 600;
-  color: #004a8c;
+  border-left: 3px solid #2563eb;
+  border-radius: 8px;
+  max-width: 36em;
 }
 
-.trust-badge-check {
-  color: #1a7f37;
+.gov-data-badge__icon {
+  flex: 0 0 auto;
+  color: #2563eb;
+  display: flex;
+  align-items: center;
+}
+
+.gov-data-badge__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.gov-data-badge__title {
+  font-size: 0.82rem;
   font-weight: 700;
+  color: #1a3a6e;
+}
+
+.gov-data-badge__source {
+  font-size: 0.73rem;
+  color: #4a6fa5;
 }
 
 #content-pane p {
