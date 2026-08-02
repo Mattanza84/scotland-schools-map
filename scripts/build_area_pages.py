@@ -54,8 +54,8 @@ REGIONS = {
                     "icon": "train",
                     "title": "Excellent Connections",
                     "body": "One of the best-connected regions in Scotland, with an extensive rail network, the Subway and easy road links across central Scotland.",
-                    "photo": "https://images.unsplash.com/photo-1685702149672-af779c937876?auto=format&fit=crop&w=800&q=80",
-                    "photo_alt": "Train at a station platform",
+                    "photo": "https://images.unsplash.com/photo-1598476959236-fd5b8e15e64c?auto=format&fit=crop&w=800&q=80",
+                    "photo_alt": "Glasgow Subway station with distinctive orange columns",
                 },
                 {
                     "icon": "tree",
