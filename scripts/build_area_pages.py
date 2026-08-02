@@ -239,8 +239,8 @@ REGIONS = {
                     "icon": "train",
                     "title": "Scenic Connections",
                     "body": "Some of Britain's most scenic rail routes, ferry links to the islands and improving road connections keep communities well connected.",
-                    "photo": "https://images.unsplash.com/photo-1685702149672-af779c937876?auto=format&fit=crop&w=800&q=80",
-                    "photo_alt": "Train at a station platform",
+                    "photo": "https://images.unsplash.com/photo-1733336650115-65565c0adae6?auto=format&fit=crop&w=800&q=80",
+                    "photo_alt": "Ferry crossing a Scottish sea loch",
                 },
                 {
                     "icon": "tree",
