@@ -225,8 +225,8 @@ REGIONS = {
                     "icon": "school",
                     "title": "Committed Schools",
                     "body": "From large secondaries in Inverness to small rural primaries serving island communities, schools here are known for their strong community values and dedicated staff.",
-                    "photo": "https://images.unsplash.com/photo-1636202339022-7d67f7447e3a?auto=format&fit=crop&w=800&q=80",
-                    "photo_alt": "Children sitting at desks in a classroom",
+                    "photo": "https://images.unsplash.com/photo-1519226135464-df5a9dbcd2a5?auto=format&fit=crop&w=800&q=80",
+                    "photo_alt": "Boy holding on a swing outdoors",
                 },
                 {
                     "icon": "home",
