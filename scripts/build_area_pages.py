@@ -115,8 +115,8 @@ REGIONS = {
                     "icon": "train",
                     "title": "Excellent Connections",
                     "body": "Great transport links by road, rail and air make commuting and travelling easy.",
-                    "photo": "https://images.unsplash.com/photo-1685702149672-af779c937876?auto=format&fit=crop&w=800&q=80",
-                    "photo_alt": "Train at a station platform",
+                    "photo": "https://images.unsplash.com/photo-1525943421222-633f69ca9078?auto=format&fit=crop&w=800&q=80",
+                    "photo_alt": "Timelapse of Edinburgh street traffic",
                 },
                 {
                     "icon": "tree",
