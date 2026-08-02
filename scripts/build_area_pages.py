@@ -40,7 +40,7 @@ REGIONS = {
                     "icon": "school",
                     "title": "Excellent Schools",
                     "body": "A wide range of primary and secondary schools across eleven local authorities, with many achieving strong inspection results.",
-                    "photo": "https://images.unsplash.com/photo-1636202339022-7d67f7447e3a?auto=format&fit=crop&w=800&q=80",
+                    "photo": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=800&q=80",
                     "photo_alt": "Children sitting at desks in a classroom",
                 },
                 {
