@@ -23,61 +23,35 @@
   </nav>
 </header>
 
-<div id="split-layout">
-  <div id="content-pane">
-    <h1>Discover Scotland's Schools</h1>
-    <p class="lead">Explore schools, neighbourhoods and local information across Scotland.</p>
+<div id="hero">
+  <h1>Discover Scotland's Schools</h1>
+  <p class="lead">Explore schools, neighbourhoods and local information across Scotland.</p>
 
-    <p class="hook">
-      Choosing where to live is one of the biggest decisions families make, and school quality
-      is often top of the list. Scotland Schools Map brings together real inspection data so you
-      can explore that decision with confidence.
-    </p>
-    <p>
-      Find every primary and secondary school on an interactive map, compare inspection ratings
-      and discover the information that matters when choosing where to live.
-    </p>
-    <p>
-      Using official Scottish Government data, Scotland Schools Map helps parents and home
-      buyers explore schools by region and make more informed decisions.
-    </p>
+  <p class="hook">
+    Choosing where to live is one of the biggest decisions families make, and school quality
+    is often top of the list. Scotland Schools Map brings together real inspection data so you
+    can explore that decision with confidence.
+  </p>
+  <p>
+    Find every primary and secondary school on an interactive map, compare inspection ratings
+    and discover the information that matters when choosing where to live.
+  </p>
 
-    <div class="feature-groups">
-      <div class="feature-group">
-        <h2>Explore</h2>
-        <ul class="feature-list feature-list--available">
-          <li>Primary and secondary schools</li>
-          <li>School inspection ratings</li>
-          <li>Interactive regional maps</li>
-          <li>Official government data</li>
-          <li>House prices</li>
-          <li>Crime statistics</li>
-          <li>School comparisons</li>
-          <li>Local area insights</li>
-        </ul>
-      </div>
-    </div>
+  <ul class="feature-list feature-list--available">
+    <li>Primary and secondary schools</li>
+    <li>School inspection ratings</li>
+    <li>Interactive regional maps</li>
+    <li>Official government data</li>
+    <li>House prices</li>
+    <li>Crime statistics</li>
+    <li>School comparisons</li>
+    <li>Local area insights</li>
+  </ul>
 
-    <div class="gov-data-badge">
-      <div class="gov-data-badge__icon">
-        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-          <path d="M9 12l2 2 4-4"/>
-        </svg>
-      </div>
-      <div class="gov-data-badge__body">
-        <span class="gov-data-badge__title">Official Scottish Government data</span>
-        <span class="gov-data-badge__source">Education Scotland &middot; statistics.gov.scot</span>
-      </div>
-    </div>
-
+  <div class="hero-actions">
+    <a href="map.html" class="hero-cta">Explore the map</a>
   </div>
 
-  <div id="map-pane">
-    <svg id="scotland-map" role="group" aria-label="Map of Scotland divided into six regions"></svg>
-
-    <p id="map-hint">&#128071; <strong>Select a region to explore schools</strong></p>
-  </div>
 </div>
 
 <section id="how-it-works">
@@ -256,8 +230,5 @@ document.querySelectorAll('.faq-question').forEach(function(btn) {
   });
 });
 </script>
-<script src="js/regions-data.js?v=7"></script>
-<script src="js/scotland-geometry.js?v=7"></script>
-<script src="js/regions-page.js?v=7"></script>
 </body>
 </html>

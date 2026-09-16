@@ -19,46 +19,96 @@ body {
 /* Site header + hamburger menu styles live in css/site-header.css, shared
    across pages. */
 
-/* Split layout */
+/* Hero */
 
-#split-layout {
-  display: flex;
-  height: 75vh;
-  max-height: 620px;
+#hero {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 4rem 2rem 3rem;
+  text-align: center;
 }
 
-#content-pane {
-  flex: 1 1 50%;
-  min-width: 0;
-  background: #fff;
-  padding: 1.75rem 2.5rem;
-  overflow-y: auto;
-}
-
-#content-pane h1 {
-  margin: 0 0 0.4rem 0;
-  font-size: 1.5rem;
+#hero h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2.4rem;
   color: #0065bd;
+  line-height: 1.15;
 }
 
-#content-pane .lead {
-  margin: 0 0 0.7rem 0;
-  font-size: 0.95rem;
+#hero .lead {
+  margin: 0 0 1rem 0;
+  font-size: 1.05rem;
   font-weight: 600;
   color: #222;
 }
 
+#hero p {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: #444;
+}
+
+#hero p.hook {
+  font-size: 0.95rem;
+  color: #222;
+}
+
+#hero .feature-list {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.3rem 2rem;
+  text-align: left;
+  margin: 1.25rem auto 0;
+  padding: 0;
+  list-style: none;
+}
+
+#hero .feature-list li {
+  position: relative;
+  padding-left: 1.4rem;
+  font-size: 0.88rem;
+  color: #222;
+}
+
+#hero .feature-list--available li::before {
+  content: "\2713";
+  position: absolute;
+  left: 0;
+  color: #0065bd;
+  font-weight: 700;
+}
+
+.hero-actions {
+  margin: 1.75rem 0 1.5rem;
+}
+
+.hero-cta {
+  display: inline-block;
+  padding: 0.9rem 2.5rem;
+  background: #0065bd;
+  color: #fff;
+  font-size: 1.05rem;
+  font-weight: 700;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.hero-cta:hover {
+  background: #004f99;
+}
+
 .gov-data-badge {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.75rem;
-  margin-top: 1.25rem;
   padding: 0.7rem 1rem;
   background: #f0f6ff;
   border: 1px solid #bcdcf5;
   border-left: 3px solid #2563eb;
   border-radius: 8px;
-  max-width: 36em;
+  text-align: left;
 }
 
 .gov-data-badge__icon {
@@ -83,137 +133,6 @@ body {
 .gov-data-badge__source {
   font-size: 0.73rem;
   color: #4a6fa5;
-}
-
-#content-pane p {
-  margin: 0 0 0.6rem 0;
-  font-size: 0.85rem;
-  line-height: 1.45;
-  color: #444;
-  max-width: 42em;
-}
-
-#content-pane p.hook {
-  font-size: 0.88rem;
-  color: #222;
-}
-
-.feature-groups {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  margin-top: 1.1rem;
-}
-
-.feature-group h2 {
-  margin: 0 0 0.5rem 0;
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #666;
-}
-
-.feature-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.feature-list li {
-  position: relative;
-  padding-left: 1.5rem;
-  margin: 0 0 0.4rem 0;
-  font-size: 0.82rem;
-}
-
-.feature-list--available li {
-  color: #222;
-}
-
-.feature-list--available li::before {
-  content: "\2713";
-  position: absolute;
-  left: 0;
-  color: #0065bd;
-  font-weight: 700;
-}
-
-.feature-list--soon li {
-  padding-left: 0;
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  color: #444;
-  font-weight: 500;
-}
-
-.feature-icon {
-  display: inline-flex;
-  font-size: 0.95rem;
-  line-height: 1;
-}
-
-/* Map pane */
-
-#map-pane {
-  flex: 1 1 50%;
-  min-width: 0;
-  position: relative;
-  background: #dbeeff;
-}
-
-#scotland-map {
-  width: 100%;
-  height: 100%;
-  display: block;
-  background: #dbeeff;
-}
-
-.region-shape {
-  stroke: #1a3a5c;
-  stroke-width: 0.6;
-  stroke-linejoin: round;
-  cursor: pointer;
-  transition: filter 0.15s ease, opacity 0.15s ease;
-}
-
-.region-shape:focus-visible {
-  outline: none;
-}
-
-.region-shape.hovered {
-  filter: brightness(1.25);
-}
-
-.region-labels text {
-  font-size: 12px;
-  font-weight: 600;
-  fill: #fff;
-  text-anchor: middle;
-  paint-order: stroke;
-  stroke: rgba(0, 0, 0, 0.45);
-  stroke-width: 3px;
-  pointer-events: none;
-}
-
-#map-hint {
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  z-index: 10;
-  margin: 0;
-  background: #fff;
-  border: 1px solid #bcdcf5;
-  border-left: 4px solid #0065bd;
-  border-radius: 8px;
-  padding: 0.7rem 1rem;
-  font-size: 0.95rem;
-  color: #0065bd;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
-}
-
-#map-hint strong {
-  color: #0065bd;
 }
 
 /* How it works */
@@ -350,7 +269,7 @@ body {
 /* FAQ */
 
 #faq-section {
-  max-width: 720px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 4rem 2.5rem;
 }
@@ -425,31 +344,16 @@ body {
 /* Site footer styles live in css/site-footer.css, shared across pages. */
 
 @media (max-width: 900px) {
-  #split-layout {
-    flex-direction: column;
-  }
-
-  #split-layout {
+  html, body {
     height: auto;
   }
 
-  #content-pane {
-    padding: 1.5rem;
-    overflow-y: visible;
+  #hero {
+    padding: 2.5rem 1.5rem 2rem;
   }
 
-  #content-pane h1 {
-    font-size: 1.6rem;
-  }
-
-  .feature-groups {
-    flex-direction: column;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
-  }
-
-  #map-pane {
-    height: 70vh;
+  #hero h1 {
+    font-size: 1.9rem;
   }
 
   .steps-row {
@@ -474,35 +378,24 @@ body {
 }
 
 @media (max-width: 600px) {
-  #content-pane {
-    padding: 1.25rem;
+  #hero {
+    padding: 2rem 1.25rem 1.5rem;
   }
 
-  #content-pane h1 {
-    font-size: 1.4rem;
+  #hero h1 {
+    font-size: 1.6rem;
   }
 
-  #content-pane .lead {
+  #hero .lead {
     font-size: 1rem;
   }
 
-  #content-pane p {
+  #hero p {
     font-size: 0.9rem;
   }
 
-  .trust-badge {
-    font-size: 0.76rem;
-    padding: 0.3rem 0.6rem;
-  }
-
-  #map-pane {
-    height: 60vh;
-  }
-
-  #map-hint {
-    top: 10px;
-    left: 10px;
-    padding: 0.5rem 0.7rem;
-    font-size: 0.78rem;
+  .hero-cta {
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
   }
 }
