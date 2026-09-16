@@ -351,6 +351,11 @@ def _range_midpoint(value_label):
     val = value_label.strip().rstrip("%")
     if not val or val.lower() in ("n/a", "na", "*", "#", "c", ""):
         return None
+    if val.endswith("+"):
+        try:
+            return (int(val.rstrip("+")) + 100) / 2
+        except ValueError:
+            return None
     m = re.match(r"(\d+)\s*[-–]\s*(\d+)", val)
     if m:
         return (int(m.group(1)) + int(m.group(2))) / 2
