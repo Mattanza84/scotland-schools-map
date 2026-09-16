@@ -5,16 +5,25 @@ function initMenuToggle() {
   const menu = document.getElementById("site-menu");
   if (!toggle || !menu) return;
 
-  toggle.addEventListener("click", () => {
+  function closeMenu() {
+    menu.hidden = true;
+    toggle.setAttribute("aria-expanded", "false");
+  }
+
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
     const open = menu.hidden;
     menu.hidden = !open;
     toggle.setAttribute("aria-expanded", String(open));
   });
 
+  menu.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", closeMenu);
+  });
+
   document.addEventListener("click", (e) => {
     if (!menu.hidden && !menu.contains(e.target) && e.target !== toggle) {
-      menu.hidden = true;
-      toggle.setAttribute("aria-expanded", "false");
+      closeMenu();
     }
   });
 }

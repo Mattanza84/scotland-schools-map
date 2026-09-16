@@ -12,6 +12,7 @@
   color: #fff;
   padding: 0.75rem 1.5rem;
   gap: 1rem;
+  z-index: 200;
 }
 
 .site-logo {
@@ -71,6 +72,25 @@
   fill: white;
 }
 
+/* Hamburger button — hidden on desktop, shown on mobile */
+#menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 0;
+  flex-shrink: 0;
+}
+
+@media (min-width: 601px) {
+  /* On desktop, always show nav regardless of hidden attribute */
+  #site-menu {
+    display: flex !important;
+  }
+}
+
 @media (max-width: 600px) {
   #site-header {
     padding: 0.6rem 1rem;
@@ -84,11 +104,38 @@
     height: 32px;
   }
 
-  #site-menu {
-    gap: 1rem;
+  #menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
-  .site-menu-item {
-    font-size: 0.85rem;
+  /* Nav hidden by default on mobile (hidden attribute set in HTML) */
+  #site-menu[hidden] {
+    display: none;
+  }
+
+  /* Dropdown when open */
+  #site-menu:not([hidden]) {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    background: #1d4ed8;
+    padding: 0.5rem 0;
+    gap: 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  #site-menu:not([hidden]) .site-menu-item {
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+
+  #site-menu:not([hidden]) .site-menu-item:first-child {
+    border-top: none;
   }
 }

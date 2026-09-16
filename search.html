@@ -18,7 +18,12 @@
     </a>
     <a href="index.html" class="site-title" style="color: inherit; text-decoration: none;">Scotland Schools Map</a>
   </div>
-  <nav id="site-menu">
+  <button id="menu-toggle" aria-label="Open menu" aria-expanded="false">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+  <nav id="site-menu" hidden>
     <a href="search.html" class="site-menu-item">Find a school</a>
     <a href="explore.html" class="site-menu-item">Explore areas</a>
   </nav>
@@ -85,5 +90,6 @@
 </footer>
 
 <script src="/js/search.js?v=1"></script>
+<script src="js/site-header.js?v=1"></script>
 </body>
 </html>
