@@ -2,7 +2,7 @@
 Build the 6 macro-area pages under /areas/.
 Each page covers one of Scotland's six regions with:
   - Hero photo + CTA to the interactive map
-  - Top 10 primary schools (by inspection score)
+  - Top 10 primary schools (by ACEL 2024/25 attainment %)
   - Top 10 secondary schools (by SQA Higher pass rate)
   - Property prices (averaged across the region's LAs)
   - Crime breakdown (Overall, Violent, Housebreaking, Car crime, Anti-social)
@@ -550,11 +550,15 @@ def region_prices(las, hpi_data):
 
 
 def top_schools(schools, las, sector, n=10):
-    subset = [s for s in schools if s["localAuthority"] in las
-              and s["sector"] == sector and s["rating"]["hasData"]]
     if sector == "primary":
-        subset.sort(key=lambda s: -s["rating"].get("score", 0))
+        subset = [s for s in schools if s["localAuthority"] in las
+                  and s["sector"] == sector
+                  and s["rating"]["hasData"]
+                  and s["rating"].get("metric") == "acel"]
+        subset.sort(key=lambda s: -s["rating"].get("percent", 0))
     else:
+        subset = [s for s in schools if s["localAuthority"] in las
+                  and s["sector"] == sector and s["rating"]["hasData"]]
         subset.sort(key=lambda s: (-s["rating"].get("percent", 0),
                                    rating_sort_key(s["rating"].get("label", ""))))
     return subset[:n]
@@ -636,9 +640,7 @@ def schools_table_html(schools_list, sector):
     for i, s in enumerate(schools_list, 1):
         label = s["rating"].get("label", "")
         pill = f'<span class="{pill_class(label)}">{escape(label)}</span>'
-        if sector == "secondary":
-            metric = f"{s['rating'].get('percent', '—')}%"
-        elif s["rating"].get("metric") == "acel":
+        if sector in ("secondary", "primary"):
             metric = f"{s['rating'].get('percent', '—')}%"
         else:
             score = s["rating"].get("averageScore")
@@ -657,7 +659,7 @@ def schools_table_html(schools_list, sector):
           <td>{pill}</td>
           <td>{metric}</td>
         </tr>"""
-    metric_head = "Pass rate" if sector == "secondary" else "Score / %"
+    metric_head = "Pass rate" if sector == "secondary" else "ACEL %"
     return f"""<table class="schools-table">
   <thead><tr>
     <th style="width:2rem">#</th>
