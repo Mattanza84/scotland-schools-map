@@ -9,6 +9,7 @@ const SVG_NS = "http://www.w3.org/2000/svg";
 const shapesByRegion = {};
 
 function goToRegion(slug) {
+  try { sessionStorage.setItem("selectedRegion", slug); } catch (e) {}
   window.location.href = `map.html?region=${encodeURIComponent(slug)}`;
 }
 

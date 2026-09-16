@@ -7,7 +7,11 @@
 // checkbox click.
 
 function getSelectedRegion() {
-  const slug = new URLSearchParams(window.location.search).get("region");
+  let slug = new URLSearchParams(window.location.search).get("region");
+  if (!slug) {
+    try { slug = sessionStorage.getItem("selectedRegion"); } catch (e) {}
+  }
+  try { sessionStorage.removeItem("selectedRegion"); } catch (e) {}
   return slug && typeof REGIONS !== "undefined" && REGIONS[slug]
     ? { slug, ...REGIONS[slug] }
     : null;
