@@ -553,7 +553,7 @@ def top_schools(schools, las, sector, n=10):
     subset = [s for s in schools if s["localAuthority"] in las
               and s["sector"] == sector and s["rating"]["hasData"]]
     if sector == "primary":
-        subset.sort(key=lambda s: -s["rating"].get("averageScore", 0))
+        subset.sort(key=lambda s: -s["rating"].get("score", 0))
     else:
         subset.sort(key=lambda s: (-s["rating"].get("percent", 0),
                                    rating_sort_key(s["rating"].get("label", ""))))
@@ -638,6 +638,8 @@ def schools_table_html(schools_list, sector):
         pill = f'<span class="{pill_class(label)}">{escape(label)}</span>'
         if sector == "secondary":
             metric = f"{s['rating'].get('percent', '—')}%"
+        elif s["rating"].get("metric") == "acel":
+            metric = f"{s['rating'].get('percent', '—')}%"
         else:
             score = s["rating"].get("averageScore")
             metric = f"{score:.1f}/6" if score else "—"
@@ -655,7 +657,7 @@ def schools_table_html(schools_list, sector):
           <td>{pill}</td>
           <td>{metric}</td>
         </tr>"""
-    metric_head = "Pass rate" if sector == "secondary" else "Score"
+    metric_head = "Pass rate" if sector == "secondary" else "Score / %"
     return f"""<table class="schools-table">
   <thead><tr>
     <th style="width:2rem">#</th>
