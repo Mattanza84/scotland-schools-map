@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Choose a Region – Scotland Schools Map</title>
+<link rel="stylesheet" href="css/site-header.css?v=11">
+<link rel="stylesheet" href="css/site-footer.css?v=1">
+<style>
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #fff;
+  color: #222;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+#region-picker {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.5rem 1.5rem 2rem;
+}
+#region-picker h1 {
+  margin: 0 0 0.4rem;
+  font-size: 1.6rem;
+  color: #0065bd;
+  text-align: center;
+}
+#region-picker p {
+  margin: 0 0 1.75rem;
+  font-size: 0.92rem;
+  color: #555;
+  text-align: center;
+}
+#map-wrap {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+#scotland-map {
+  width: auto;
+  height: calc(100vh - 220px);
+  max-height: 680px;
+  min-height: 320px;
+  display: block;
+  background: #dbeeff;
+  border-radius: 12px;
+}
+.region-shape {
+  stroke: #1a3a5c;
+  stroke-width: 0.6;
+  stroke-linejoin: round;
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+.region-shape:focus-visible { outline: none; }
+.region-shape.hovered { filter: brightness(1.2); }
+.region-labels text {
+  font-size: 12px;
+  font-weight: 600;
+  fill: #fff;
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: rgba(0,0,0,0.45);
+  stroke-width: 3px;
+  pointer-events: none;
+}
+
+@media (max-width: 600px) {
+  #region-picker h1 { font-size: 1.3rem; }
+  #scotland-map { min-height: 320px; }
+}
+</style>
+</head>
+<body>
+
+<header id="site-header">
+  <div style="display: flex; align-items: center;">
+    <div class="site-logo">
+      <img src="assets/logo.svg" alt="Scotland Schools Map logo">
+    </div>
+    <div class="site-title">Scotland Schools Map</div>
+  </div>
+  <nav id="site-menu">
+    <a href="search.html" class="site-menu-item">Find a school</a>
+    <a href="explore.html" class="site-menu-item">Explore areas</a>
+  </nav>
+</header>
+
+<div id="region-picker">
+  <h1>Choose a region</h1>
+  <p>Select a region of Scotland to explore its schools.</p>
+  <div id="map-wrap">
+    <svg id="scotland-map" role="group" aria-label="Map of Scotland divided into six regions"></svg>
+  </div>
+</div>
+
+<script src="js/regions-data.js?v=7"></script>
+<script src="js/scotland-geometry.js?v=7"></script>
+<script src="js/regions-page.js?v=7"></script>
+</body>
+</html>
