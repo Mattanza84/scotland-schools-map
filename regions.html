@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Choose a Region – Scotland Schools Map</title>
 <link rel="stylesheet" href="css/site-header.css?v=11">
-<link rel="stylesheet" href="css/site-footer.css?v=1">
 <style>
 * { box-sizing: border-box; }
 html, body {
@@ -13,45 +12,46 @@ html, body {
   padding: 0;
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background: #fff;
+  background: #dbeeff;
   color: #222;
 }
 body {
   display: flex;
   flex-direction: column;
 }
-#region-picker {
+#map-container {
   flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2.5rem 1.5rem 2rem;
-}
-#region-picker h1 {
-  margin: 0 0 0.4rem;
-  font-size: 1.6rem;
-  color: #0065bd;
-  text-align: center;
-}
-#region-picker p {
-  margin: 0 0 1.75rem;
-  font-size: 0.92rem;
-  color: #555;
-  text-align: center;
-}
-#map-wrap {
-  display: flex;
-  justify-content: center;
-  width: 100%;
+  position: relative;
+  overflow: hidden;
 }
 #scotland-map {
-  width: auto;
-  height: calc(100vh - 220px);
-  max-height: 680px;
-  min-height: 320px;
+  width: 100%;
+  height: 100%;
   display: block;
   background: #dbeeff;
-  border-radius: 12px;
+}
+#map-overlay {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: rgba(255,255,255,0.92);
+  border: 1px solid #bcdcf5;
+  border-left: 4px solid #0065bd;
+  border-radius: 10px;
+  padding: 0.85rem 1.1rem;
+  max-width: 280px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+}
+#map-overlay h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  color: #0065bd;
+}
+#map-overlay p {
+  margin: 0;
+  font-size: 0.82rem;
+  color: #444;
+  line-height: 1.4;
 }
 .region-shape {
   stroke: #1a3a5c;
@@ -74,8 +74,9 @@ body {
 }
 
 @media (max-width: 600px) {
-  #region-picker h1 { font-size: 1.3rem; }
-  #scotland-map { min-height: 320px; }
+  #map-overlay { max-width: 200px; }
+  #map-overlay h1 { font-size: 0.95rem; }
+  #map-overlay p { font-size: 0.76rem; }
 }
 </style>
 </head>
@@ -94,11 +95,11 @@ body {
   </nav>
 </header>
 
-<div id="region-picker">
-  <h1>Choose a region</h1>
-  <p>Select a region of Scotland to explore its schools.</p>
-  <div id="map-wrap">
-    <svg id="scotland-map" role="group" aria-label="Map of Scotland divided into six regions"></svg>
+<div id="map-container">
+  <svg id="scotland-map" role="group" aria-label="Map of Scotland divided into six regions"></svg>
+  <div id="map-overlay">
+    <h1>Choose a region</h1>
+    <p>Select a region of Scotland to explore its schools.</p>
   </div>
 </div>
 
