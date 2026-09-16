@@ -1,0 +1,401 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Shetland Islands,All publicly funded schools,P1,Listening & Talking - % Meeting Level,87.1%
+2024/25,Shetland Islands,All publicly funded schools,P1,Numeracy - % Meeting Level,86.2%
+2024/25,Shetland Islands,All publicly funded schools,P1,Reading - % Meeting Level,83.8%
+2024/25,Shetland Islands,All publicly funded schools,P1,Writing - % Meeting Level,82.9%
+2024/25,Shetland Islands,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,84.4%
+2024/25,Shetland Islands,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,76.8%
+2024/25,Shetland Islands,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,79.4%
+2024/25,Shetland Islands,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,75.9%
+2024/25,Shetland Islands,All publicly funded schools,P4,Listening & Talking - % Meeting Level,81.8%
+2024/25,Shetland Islands,All publicly funded schools,P4,Numeracy - % Meeting Level,68.4%
+2024/25,Shetland Islands,All publicly funded schools,P4,Reading - % Meeting Level,74.7%
+2024/25,Shetland Islands,All publicly funded schools,P4,Writing - % Meeting Level,70.3%
+2024/25,Shetland Islands,All publicly funded schools,P7,Listening & Talking - % Meeting Level,84.9%
+2024/25,Shetland Islands,All publicly funded schools,P7,Numeracy - % Meeting Level,78%
+2024/25,Shetland Islands,All publicly funded schools,P7,Reading - % Meeting Level,80.7%
+2024/25,Shetland Islands,All publicly funded schools,P7,Writing - % Meeting Level,76.1%
+2024/25,Shetland Islands,Aith Junior High School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Aith Junior High School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Aith Junior High School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Aith Junior High School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Aith Junior High School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Aith Junior High School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Shetland Islands,Baltasound Junior High School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Baltasound Junior High School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Shetland Islands,Baltasound Junior High School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Shetland Islands,Baltasound Junior High School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Baltasound Junior High School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Bell's Brae Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Bell's Brae Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Bell's Brae Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Bell's Brae Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Bell's Brae Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Bell's Brae Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Bell's Brae Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Bell's Brae Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Brae High School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Brae High School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Brae High School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Shetland Islands,Brae High School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Brae High School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Brae High School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Brae High School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Brae High School,P7,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Brae High School,P7,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Burravoe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Burravoe Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cullivoe Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Cunningsburgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Cunningsburgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Cunningsburgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Cunningsburgh Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Cunningsburgh Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Dunrossness Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Shetland Islands,Dunrossness Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Shetland Islands,Dunrossness Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Shetland Islands,Dunrossness Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Dunrossness Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Foula Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Shetland Islands,Hamnavoe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Hamnavoe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Shetland Islands,Hamnavoe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Hamnavoe Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Hamnavoe Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Happyhansel Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Lunnasting Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mid Yell Junior High School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Shetland Islands,Mossbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Shetland Islands,Mossbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Shetland Islands,Mossbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Shetland Islands,Mossbank Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Mossbank Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Nesting Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,North Roe Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Ollaberry Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandness Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sandwick Junior High School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Shetland Islands,Sandwick Junior High School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Shetland Islands,Sandwick Junior High School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Shetland Islands,Sandwick Junior High School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Sandwick Junior High School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Scalloway Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Scalloway Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Scalloway Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Scalloway Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Scalloway Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Scalloway Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Shetland Islands,Scalloway Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Shetland Islands,Scalloway Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Shetland Islands,Scalloway Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Shetland Islands,Scalloway Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Shetland Islands,Scalloway Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Sound Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Shetland Islands,Sound Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Sound Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Sound Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Shetland Islands,Sound Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Sound Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Shetland Islands,Tingwall Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Shetland Islands,Tingwall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Shetland Islands,Tingwall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Shetland Islands,Tingwall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Tingwall Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Tingwall Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Urafirth Primary School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Shetland Islands,Whalsay School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Shetland Islands,Whalsay School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Shetland Islands,Whalsay School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Shetland Islands,Whalsay School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whalsay School,P7,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P1,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P1,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Shetland Islands,Whiteness Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Shetland Islands,Whiteness Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Shetland Islands,Whiteness Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Shetland Islands,Whiteness Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P4,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P4,Writing - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P7,Reading - % Meeting Level,c
+2024/25,Shetland Islands,Whiteness Primary School,P7,Writing - % Meeting Level,c

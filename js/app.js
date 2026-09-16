@@ -276,9 +276,9 @@ async function init() {
     document.getElementById("page-title").textContent = `${selectedRegion.name} Schools Map`;
     document.getElementById("page-subtitle").textContent =
       `Primary and secondary schools in ${selectedRegion.name}. Primary schools are coloured by ` +
-      "Education Scotland inspection grades (coverage is partial, some inspections are over a " +
-      "decade old). Secondary schools are coloured by recent SQA Highers attainment. Always " +
-      "check the date/year shown in each popup.";
+      "2024/25 ACEL attainment (% of P1/P4/P7 pupils meeting the expected CfE level) where " +
+      "available, falling back to Education Scotland inspection grades. Secondary schools are " +
+      "coloured by recent SQA Highers attainment. Always check the date/year shown in each popup.";
   }
   buildLocalAuthorityCheckboxes(schools, selectedRegion);
   buildRatingCheckboxes(schools);

@@ -184,7 +184,8 @@ def region_link(school):
 
 def compute_averages(schools):
     sec_by_la, sec_all = {}, []
-    pri_by_la, pri_all = {}, []
+    acel_by_la, acel_all = {}, []
+    insp_by_la, insp_all = {}, []
     ratio_all = []
 
     for s in schools:
@@ -198,10 +199,14 @@ def compute_averages(schools):
             pct = rating["percent"]
             sec_by_la.setdefault(s["localAuthority"], []).append(pct)
             sec_all.append(pct)
+        elif rating["metric"] == "acel":
+            pct = rating["percent"]
+            acel_by_la.setdefault(s["localAuthority"], []).append(pct)
+            acel_all.append(pct)
         elif rating["metric"] == "inspection":
             avg = rating["averageScore"]
-            pri_by_la.setdefault(s["localAuthority"], []).append(avg)
-            pri_all.append(avg)
+            insp_by_la.setdefault(s["localAuthority"], []).append(avg)
+            insp_all.append(avg)
 
     def mean(lst):
         return sum(lst) / len(lst) if lst else None
@@ -211,9 +216,13 @@ def compute_averages(schools):
             "national": mean(sec_all),
             "by_la": {la: mean(v) for la, v in sec_by_la.items()},
         },
-        "primary": {
-            "national": mean(pri_all),
-            "by_la": {la: mean(v) for la, v in pri_by_la.items()},
+        "primary_acel": {
+            "national": mean(acel_all),
+            "by_la": {la: mean(v) for la, v in acel_by_la.items()},
+        },
+        "primary_inspection": {
+            "national": mean(insp_all),
+            "by_la": {la: mean(v) for la, v in insp_by_la.items()},
         },
         "ratio_national": mean(ratio_all),
     }
@@ -330,6 +339,8 @@ def build_stat_cards(school, averages):
         value = rating["label"]
         if rating["metric"] == "inspection":
             sub = f'Inspected {rating["inspectionDate"]}'
+        elif rating["metric"] == "acel":
+            sub = f'ACEL {rating["year"]}'
         else:
             sub = f'SQA {rating["year"]}'
     else:
@@ -443,10 +454,22 @@ def build_comparison_bars(school, averages):
             return f"{v:.0f}%"
 
         title = "Attainment: 5+ Higher Pass Rate"
+    elif rating["metric"] == "acel":
+        school_val = rating["percent"]
+        la_avg = averages["primary_acel"]["by_la"].get(la)
+        nat_avg = averages["primary_acel"]["national"]
+
+        def bar_width(v):
+            return max(2, v)
+
+        def fmt(v):
+            return f"{v:.0f}%"
+
+        title = "ACEL Attainment: % Pupils Meeting Expected Level"
     else:
         school_val = rating["averageScore"]
-        la_avg = averages["primary"]["by_la"].get(la)
-        nat_avg = averages["primary"]["national"]
+        la_avg = averages["primary_inspection"]["by_la"].get(la)
+        nat_avg = averages["primary_inspection"]["national"]
 
         def bar_width(v):
             return max(2, (v - 1) / 5 * 100)
@@ -485,7 +508,14 @@ def build_performance_section(school, averages):
     gauge = build_gauge_svg(rating.get("label", ""), rating["hasData"])
     bars = build_comparison_bars(school, averages)
 
-    if rating["hasData"] and rating["metric"] == "inspection":
+    if rating["hasData"] and rating["metric"] == "acel":
+        source_text = (
+            f"ACEL attainment, {escape(rating['year'])} &mdash; Scottish Government data "
+            f"(via datamap-scotland.co.uk FOI request). Average of P1/P4/P7 combined results "
+            f"across reading, writing, numeracy and listening &amp; talking. "
+            f"Not adjusted for deprivation."
+        )
+    elif rating["hasData"] and rating["metric"] == "inspection":
         source_text = (
             f"Inspected {escape(rating['inspectionDate'])} by Education Scotland. "
             f"Rating is an illustrative average of the quality indicators graded at that inspection, "
@@ -508,6 +538,21 @@ def build_performance_section(school, averages):
             f"</div>"
         )
 
+    inspection_note = ""
+    insp = school.get("inspectionData")
+    if insp and insp.get("hasData") and rating.get("metric") == "acel":
+        qi_items = "".join(
+            f"<li>{escape(QI_LABELS.get(qi, f'QI {qi}'))} (QI {escape(qi)}): {escape(str(val))}/6</li>"
+            for qi, val in insp["qiScores"].items()
+        )
+        inspection_note = (
+            f'<div class="inspection-note">'
+            f"<strong>Education Scotland inspection</strong> ({escape(insp['inspectionDate'])}): "
+            f"{escape(insp['label'])} &mdash; average score {escape(str(insp['averageScore']))}/6"
+            f"<ul>{qi_items}</ul>"
+            f"</div>"
+        )
+
     return (
         f'<section class="content-card">'
         f'<div class="card-header">'
@@ -516,6 +561,7 @@ def build_performance_section(school, averages):
         f"</div>"
         f'<div class="gauge-container">{gauge}</div>'
         f"{bars}"
+        f"{inspection_note}"
         f"</section>"
     )
 

@@ -65,7 +65,19 @@ function buildPopupHtml(school) {
   const sectorLabel = school.sector.charAt(0).toUpperCase() + school.sector.slice(1);
   let ratingBlock;
 
-  if (school.rating.hasData && school.rating.metric === "attainment") {
+  if (school.rating.hasData && school.rating.metric === "acel") {
+    const colorHex = colorForScore(school.rating.score, true, school.rating.label);
+    let inspectionNote = "";
+    if (school.inspectionData && school.inspectionData.hasData) {
+      inspectionNote = `<div class="popup-source popup-source--secondary">Also inspected by Education Scotland on ${escapeHtml(school.inspectionData.inspectionDate)}: <strong>${escapeHtml(school.inspectionData.label)}</strong> (avg ${escapeHtml(String(school.inspectionData.averageScore))}/6).</div>`;
+    }
+    ratingBlock = `
+      <div class="popup-rating" style="border-left: 4px solid ${colorHex}">
+        <strong>${escapeHtml(school.rating.label)}</strong> &mdash; ${escapeHtml(String(school.rating.percent))}% of P1/P4/P7 pupils meeting the expected CfE level
+        <div class="popup-source">ACEL attainment, ${escapeHtml(school.rating.year)} &mdash; Scottish Government data (via datamap-scotland.co.uk FOI). Average across reading, writing, numeracy and listening &amp; talking. Not adjusted for deprivation &mdash; schools in deprived areas will tend to score lower regardless of teaching quality.</div>
+        ${inspectionNote}
+      </div>`;
+  } else if (school.rating.hasData && school.rating.metric === "attainment") {
     const colorHex = colorForScore(school.rating.score, true, school.rating.label);
     ratingBlock = `
       <div class="popup-rating" style="border-left: 4px solid ${colorHex}">

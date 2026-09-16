@@ -1,0 +1,813 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,North Ayrshire,All publicly funded schools,P1,Listening & Talking - % Meeting Level,83.8%
+2024/25,North Ayrshire,All publicly funded schools,P1,Numeracy - % Meeting Level,77.4%
+2024/25,North Ayrshire,All publicly funded schools,P1,Reading - % Meeting Level,74.1%
+2024/25,North Ayrshire,All publicly funded schools,P1,Writing - % Meeting Level,74.4%
+2024/25,North Ayrshire,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,84.5%
+2024/25,North Ayrshire,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,73.9%
+2024/25,North Ayrshire,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,75.7%
+2024/25,North Ayrshire,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,71.5%
+2024/25,North Ayrshire,All publicly funded schools,P4,Listening & Talking - % Meeting Level,83.5%
+2024/25,North Ayrshire,All publicly funded schools,P4,Numeracy - % Meeting Level,70.3%
+2024/25,North Ayrshire,All publicly funded schools,P4,Reading - % Meeting Level,73.8%
+2024/25,North Ayrshire,All publicly funded schools,P4,Writing - % Meeting Level,68.2%
+2024/25,North Ayrshire,All publicly funded schools,P7,Listening & Talking - % Meeting Level,86.1%
+2024/25,North Ayrshire,All publicly funded schools,P7,Numeracy - % Meeting Level,74.3%
+2024/25,North Ayrshire,All publicly funded schools,P7,Reading - % Meeting Level,78.7%
+2024/25,North Ayrshire,All publicly funded schools,P7,Writing - % Meeting Level,72.2%
+2024/25,North Ayrshire,Abbey Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Abbey Primary School,P1,Numeracy - % Meeting Level,30-40%
+2024/25,North Ayrshire,Abbey Primary School,P1,Reading - % Meeting Level,30-40%
+2024/25,North Ayrshire,Abbey Primary School,P1,Writing - % Meeting Level,30-40%
+2024/25,North Ayrshire,Abbey Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Abbey Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,30-40%
+2024/25,North Ayrshire,Abbey Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Abbey Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Abbey Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Abbey Primary School,P4,Numeracy - % Meeting Level,20-30%
+2024/25,North Ayrshire,Abbey Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Abbey Primary School,P4,Writing - % Meeting Level,30-40%
+2024/25,North Ayrshire,Abbey Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Abbey Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Abbey Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Abbey Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Annick Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Annick Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Annick Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Ardeer Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Ardeer Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Ardeer Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Ardeer Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Ardeer Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Ardeer Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Ardeer Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Ardeer Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Ardeer Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Ardeer Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Ardeer Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Ardeer Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Ardeer Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Ardeer Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Ardeer Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Ardeer Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Beith Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Beith Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Beith Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Beith Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Beith Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Beith Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Beith Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Beith Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Blacklands Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Blacklands Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Blacklands Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Blacklands Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Blacklands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Blacklands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Blacklands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Blacklands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Blacklands Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Blacklands Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Blacklands Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Blacklands Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Blacklands Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Blacklands Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Blacklands Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Blacklands Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Brodick Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Brodick Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Brodick Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Brodick Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Brodick Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Brodick Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Caledonia Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Caledonia Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Caledonia Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Caledonia Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Caledonia Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Caledonia Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Castlepark Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Castlepark Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Castlepark Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Castlepark Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Castlepark Primary School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,North Ayrshire,Castlepark Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Castlepark Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Castlepark Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Castlepark Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Castlepark Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Castlepark Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Corrie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Corrie Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Corsehill Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Corsehill Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Corsehill Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Corsehill Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Corsehill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Corsehill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Corsehill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Corsehill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Corsehill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Corsehill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Corsehill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Cumbrae Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Cumbrae Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Cumbrae Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Cumbrae Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Cumbrae Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Cumbrae Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Dalry Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dalry Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dalry Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dreghorn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dreghorn Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dreghorn Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Dreghorn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dreghorn Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dreghorn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dreghorn Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Dykesmains Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Dykesmains Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Dykesmains Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Elderbank Primary School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,P1,Numeracy - % Meeting Level,40-50%
+2024/25,North Ayrshire,Elderbank Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,P1,Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Elderbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Elderbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Elderbank Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Elderbank Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Elderbank Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Elderbank Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Elderbank Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Elderbank Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Fairlie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Fairlie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Fairlie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Fairlie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Fairlie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Fairlie Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Garnock Community Campus,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Garnock Community Campus,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Garnock Community Campus,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Garnock Community Campus,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Garnock Community Campus,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Gateside Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Glebe Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glebe Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Glebe Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glebe Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glencairn Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Glencairn Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glencairn Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glencairn Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glencairn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glencairn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glencairn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glencairn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Glencairn Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glencairn Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Glencairn Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Glencairn Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Glencairn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Glencairn Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Glencairn Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Glencairn Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Hayocks Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Hayocks Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Hayocks Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Hayocks Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Hayocks Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,North Ayrshire,Hayocks Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Hayocks Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Hayocks Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Hayocks Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Hayocks Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Hayocks Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Kilmory Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Kilmory Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Lamlash Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Lamlash Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Lamlash Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Lamlash Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Lamlash Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Largs Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Largs Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Largs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Largs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Largs Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Largs Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Largs Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Largs Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Largs Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Largs Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Lawthorn Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Lawthorn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Lawthorn Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Lawthorn Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Lawthorn Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Lawthorn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Lawthorn Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Loudoun-Montgomery Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Mayfield Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Mayfield Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Mayfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Mayfield Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Mayfield Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Mayfield Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Mayfield Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Mayfield Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Mayfield Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Mayfield Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Montgomerie Park Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Montgomerie Park Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Montgomerie Park Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Montgomerie Park Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Montgomerie Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Montgomerie Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Montgomerie Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Montgomerie Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Montgomerie Park Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Montgomerie Park Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Montgomerie Park Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Montgomerie Park Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Moorpark Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Moorpark Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Moorpark Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Moorpark Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Moorpark Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Moorpark Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Moorpark Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Moorpark Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Moorpark Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Moorpark Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Moorpark Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Moorpark Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Moorpark Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Moorpark Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Moorpark Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Moorpark Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Pennyburn Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Pennyburn Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Pennyburn Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Pennyburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Pennyburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Pennyburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Pennyburn Primary School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,North Ayrshire,Pennyburn Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Pennyburn Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pennyburn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Pennyburn Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Pirnmill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Pirnmill Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Shiskine Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Skelmorlie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Skelmorlie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Skelmorlie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Skelmorlie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Skelmorlie Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Springside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Springside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Springside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Springside Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Springside Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Springside Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,North Ayrshire,Springside Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Springside Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Springside Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Anthony's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,North Ayrshire,St Anthony's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Anthony's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Anthony's Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Anthony's Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Anthony's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Anthony's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Anthony's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Anthony's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Bridget's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Bridget's Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Bridget's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Bridget's Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Bridget's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Bridget's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Bridget's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Bridget's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,St Bridget's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Bridget's Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,North Ayrshire,St Bridget's Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Bridget's Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,St Bridget's Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Bridget's Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Bridget's Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Bridget's Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John Ogilvie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St John's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St John's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St John's Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Luke's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,St Luke's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,St Luke's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,St Luke's Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,North Ayrshire,St Luke's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Luke's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Luke's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Luke's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Luke's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Mark's Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Mark's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mark's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Mark's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mark's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mark's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mark's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,St Mark's Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Mark's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mark's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mary's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mary's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mary's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mary's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Mary's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Mary's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,St Mary's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mary's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Mary's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Palladius' Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Palladius' Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Palladius' Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Palladius' Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Palladius' Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Palladius' Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Peter's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Peter's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Peter's Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Peter's Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Peter's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Peter's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Peter's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Peter's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Peter's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Peter's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Peter's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Peter's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Peter's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,St Peter's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Peter's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Peter's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,St Winning's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,St Winning's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Winning's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Winning's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,St Winning's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,St Winning's Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Stanley Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Stanley Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Stanley Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Stanley Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Stanley Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,West Kilbride Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,West Kilbride Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,West Kilbride Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,West Kilbride Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,West Kilbride Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,West Kilbride Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,West Kilbride Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,West Kilbride Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,West Kilbride Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,West Kilbride Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Whitehirst Park Primary,P1,Reading - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,P1,Writing - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,P4,Numeracy - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,P4,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Whitehirst Park Primary,P4,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Whitehirst Park Primary,P7,Numeracy - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whitehirst Park Primary,P7,Writing - % Meeting Level,80-90%
+2024/25,North Ayrshire,Whiting Bay Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,North Ayrshire,Whiting Bay Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Whiting Bay Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Whiting Bay Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,North Ayrshire,Whiting Bay Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P4,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P4,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P7,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Whiting Bay Primary School,P7,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Winton Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,North Ayrshire,Winton Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,North Ayrshire,Winton Primary School,P1,Reading - % Meeting Level,c
+2024/25,North Ayrshire,Winton Primary School,P1,Writing - % Meeting Level,c
+2024/25,North Ayrshire,Winton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Winton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Winton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Winton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Winton Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Winton Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Winton Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,North Ayrshire,Winton Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,North Ayrshire,Winton Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,North Ayrshire,Winton Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Winton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Winton Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,North Ayrshire,Woodlands Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Woodlands Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,North Ayrshire,Woodlands Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,North Ayrshire,Woodlands Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Woodlands Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,North Ayrshire,Woodlands Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,North Ayrshire,Woodlands Primary School,P7,Writing - % Meeting Level,60-70%

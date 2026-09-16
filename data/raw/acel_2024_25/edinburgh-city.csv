@@ -1,0 +1,1473 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Edinburgh City,All publicly funded schools,P1,Listening & Talking - % Meeting Level,89.4%
+2024/25,Edinburgh City,All publicly funded schools,P1,Numeracy - % Meeting Level,87.9%
+2024/25,Edinburgh City,All publicly funded schools,P1,Reading - % Meeting Level,85%
+2024/25,Edinburgh City,All publicly funded schools,P1,Writing - % Meeting Level,84.1%
+2024/25,Edinburgh City,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90.1%
+2024/25,Edinburgh City,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,84.3%
+2024/25,Edinburgh City,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,84.2%
+2024/25,Edinburgh City,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,81.7%
+2024/25,Edinburgh City,All publicly funded schools,P4,Listening & Talking - % Meeting Level,89.4%
+2024/25,Edinburgh City,All publicly funded schools,P4,Numeracy - % Meeting Level,82.2%
+2024/25,Edinburgh City,All publicly funded schools,P4,Reading - % Meeting Level,83.4%
+2024/25,Edinburgh City,All publicly funded schools,P4,Writing - % Meeting Level,80.1%
+2024/25,Edinburgh City,All publicly funded schools,P7,Listening & Talking - % Meeting Level,91.4%
+2024/25,Edinburgh City,All publicly funded schools,P7,Numeracy - % Meeting Level,83.3%
+2024/25,Edinburgh City,All publicly funded schools,P7,Reading - % Meeting Level,84.2%
+2024/25,Edinburgh City,All publicly funded schools,P7,Writing - % Meeting Level,81.1%
+2024/25,Edinburgh City,Abbeyhill Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Abbeyhill Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Abbeyhill Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Abbeyhill Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Abbeyhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Abbeyhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Abbeyhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Abbeyhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Abbeyhill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Abbeyhill Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Abbeyhill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Abbeyhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Abbeyhill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Abbeyhill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Abbeyhill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Abbeyhill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Balgreen Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Balgreen Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Balgreen Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Balgreen Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Edinburgh City,Balgreen Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Balgreen Primary School,P4,Writing - % Meeting Level,30-40%
+2024/25,Edinburgh City,Balgreen Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Balgreen Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Balgreen Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Balgreen Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Blackhall Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Blackhall Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bonaly Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bonaly Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bonaly Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bonaly Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bonaly Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broomhouse Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Broomhouse Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Broomhouse Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broomhouse Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Broomhouse Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Broomhouse Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broomhouse Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Broomhouse Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Broomhouse Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broomhouse Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broomhouse Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broughton Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broughton Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broughton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Broughton Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Broughton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Broughton Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Broughton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Broughton Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Brunstane Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Brunstane Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Brunstane Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Brunstane Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Brunstane Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Brunstane Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Brunstane Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Brunstane Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Bruntsfield Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bruntsfield Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bruntsfield Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bruntsfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bruntsfield Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Buckstone Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Buckstone Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Bun-sgoil Taobh na Pairce (Parkside Primary),P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Canaan Lane Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Canaan Lane Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Canal View Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Canal View Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Canal View Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Canal View Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Canal View Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Canal View Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Canal View Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Canal View Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Canal View Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Canal View Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Carrick Knowe Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Castleview Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Castleview Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Castleview Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Castleview Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Clermiston Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clermiston Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,Edinburgh City,Clovenstone Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Clovenstone Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Clovenstone Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Clovenstone Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Clovenstone Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Clovenstone Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Clovenstone Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Clovenstone Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Clovenstone Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Clovenstone Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Clovenstone Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Colinton Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Colinton Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Colinton Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Colinton Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Colinton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Colinton Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Colinton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Colinton Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Colinton Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Colinton Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Corstorphine Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Corstorphine Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Corstorphine Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigentinny Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigentinny Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigentinny Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Craigentinny Primary School,P4,Listening & Talking - % Meeting Level,50-60%
+2024/25,Edinburgh City,Craigentinny Primary School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,Edinburgh City,Craigentinny Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Craigentinny Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,Edinburgh City,Craigentinny Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigentinny Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigentinny Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigentinny Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Craiglockhart Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craiglockhart Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craiglockhart Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigour Park Primary,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigour Park Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigour Park Primary,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigour Park Primary,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigroyston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigroyston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigroyston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigroyston Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigroyston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Craigroyston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigroyston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigroyston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigroyston Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigroyston Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Craigroyston Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Craigroyston Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Craigroyston Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Craigroyston Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Craigroyston Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Craigroyston Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Cramond Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Cramond Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Cramond Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Cramond Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Cramond Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Cramond Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Cramond Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Currie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Currie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Currie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Currie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Currie Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalmeny Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Dalmeny Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalmeny Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Dalmeny Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalmeny Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Dalmeny Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Dalry Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalry Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Dalry Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalry Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dalry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Dalry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Dalry Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Dalry Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Edinburgh City,Dalry Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Dalry Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Dalry Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Davidson's Mains Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Davidson's Mains Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Dean Park Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Dean Park Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Duddingston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Duddingston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Duddingston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Duddingston Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Duddingston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Duddingston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Duddingston Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,East Craigs Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,East Craigs Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,East Craigs Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,East Craigs Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,East Craigs Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,East Craigs Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Echline Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Echline Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Echline Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Echline Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Echline Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Echline Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Ferryhill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ferryhill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ferryhill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ferryhill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ferryhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Ferryhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Ferryhill Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Ferryhill Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Flora Stevenson Primary,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Flora Stevenson Primary,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Flora Stevenson Primary,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Flora Stevenson Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Flora Stevenson Primary,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Flora Stevenson Primary,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Forthview Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Forthview Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Forthview Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Forthview Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Forthview Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Forthview Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Forthview Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Fox Covert Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Fox Covert Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Fox Covert Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Frogston Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Frogston Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Frogston Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Frogston Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gilmerton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gilmerton Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gilmerton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gilmerton Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gilmerton Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gilmerton Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Gilmerton Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gilmerton Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gilmerton Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gracemount Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gracemount Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gracemount Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gracemount Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gracemount Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Gracemount Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Gracemount Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gracemount Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gracemount Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gracemount Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Gracemount Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Granton Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Granton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Granton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Granton Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Granton Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Gylemuir Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Gylemuir Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Gylemuir Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Hermitage Park Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Hermitage Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Hermitage Park Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Hermitage Park Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Hermitage Park Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Hermitage Park Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Hermitage Park Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Edinburgh City,Hermitage Park Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hermitage Park Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hillwood Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Hillwood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Hillwood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Hillwood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Hillwood Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Hillwood Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Holy Cross RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Holy Cross RC Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,James Gillespie's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Juniper Green Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Juniper Green Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Kirkliston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Kirkliston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Kirkliston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Kirkliston Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Kirkliston Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Kirkliston Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Leith Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Leith Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Leith Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Leith Walk Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Leith Walk Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Walk Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Leith Walk Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Leith Walk Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Leith Walk Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Leith Walk Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Leith Walk Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Leith Walk Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Liberton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Liberton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Liberton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Liberton Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Liberton Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Liberton Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Liberton Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Longstone Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Longstone Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Longstone Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Longstone Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Longstone Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Longstone Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Longstone Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Longstone Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Lorne Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Lorne Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Lorne Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Lorne Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Maybury Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Maybury Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Maybury Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Maybury Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Maybury Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Maybury Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Maybury Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Maybury Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Murrayburn Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Murrayburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Murrayburn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Murrayburn Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Murrayburn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Murrayburn Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Nether Currie Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Nether Currie Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Newcraighall Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Newcraighall Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Newcraighall Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Newcraighall Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Newcraighall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Newcraighall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Newcraighall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Newcraighall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Newcraighall Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Newcraighall Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Newcraighall Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Newcraighall Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Newcraighall Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Newcraighall Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Newcraighall Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Newcraighall Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Niddrie Mill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Niddrie Mill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Niddrie Mill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Oxgangs Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Oxgangs Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Oxgangs Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Oxgangs Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Oxgangs Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Parsons Green Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Parsons Green Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Parsons Green Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Parsons Green Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Pentland Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Pentland Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Pentland Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pentland Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pirniehall Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pirniehall Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pirniehall Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Pirniehall Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Pirniehall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Pirniehall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Pirniehall Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Edinburgh City,Pirniehall Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Pirniehall Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Edinburgh City,Pirniehall Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Pirniehall Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Preston Street Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Preston Street Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Preston Street Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Preston Street Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Preston Street Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Preston Street Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Prestonfield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Prestonfield Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Prestonfield Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Prestonfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Prestonfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Prestonfield Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Prestonfield Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Prestonfield Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Prestonfield Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Prestonfield Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Prestonfield Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Queensferry Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Queensferry Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Ratho Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Ratho Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Ratho Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Ratho Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Ratho Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Roseburn Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Roseburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Roseburn Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Roseburn Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Roseburn Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Roseburn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Roseburn Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Royal Mile Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Royal Mile Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Royal Mile Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Royal Mile Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,Royal Mile Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,Sciennes Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sciennes Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Sciennes Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Sighthill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sighthill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sighthill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sighthill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sighthill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Edinburgh City,Sighthill Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Sighthill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Sighthill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Sighthill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Sighthill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,South Morningside Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,South Morningside Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Andrew's Fox Covert RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Catherine's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Catherine's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Cuthbert's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St David's RC Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St David's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St David's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St David's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St David's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Francis' RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Francis' RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Francis' RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Francis' RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Francis' RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Francis' RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St John Vianney RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St John's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St John's RC Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St John's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St John's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Joseph's RC Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Margaret's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Margaret's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Margaret's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Margaret's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Margaret's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,St Margaret's RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,St Mark's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mark's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mark's RC Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,St Mark's RC Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,St Mark's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mark's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mark's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,St Mark's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,St Mark's RC Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mark's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mark's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mark's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mark's RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Edinburgh City,St Mark's RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Edinburgh City,St Mark's RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Edinburgh City,St Mark's RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Edinburgh),P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Mary's RC Primary School (Leith),P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Ninian's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,St Peter's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,St Peter's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,St Peter's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stenhouse Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stenhouse Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Edinburgh City,Stenhouse Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Edinburgh City,Stenhouse Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stenhouse Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Stockbridge Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stockbridge Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stockbridge Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Stockbridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Stockbridge Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Stockbridge Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,The Royal High Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,The Royal High Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,The Royal High Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,The Royal High Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,The Royal High Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,The Royal High Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,The Royal High Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,The Royal High Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,The Royal High Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,The Royal High Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Edinburgh City,Tollcross Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Tollcross Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Tollcross Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Tollcross Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Towerbank Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Towerbank Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Trinity Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Trinity Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Trinity Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Trinity Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Trinity Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Trinity Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Victoria Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Victoria Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Victoria Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Victoria Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Victoria Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Victoria Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Edinburgh City,Victoria Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Edinburgh City,Wardie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Edinburgh City,Wardie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Edinburgh City,Wardie Primary School,P7,Writing - % Meeting Level,80-90%

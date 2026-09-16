@@ -613,6 +613,22 @@ html, body {
   }
 }
 
+.inspection-note {
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background: #f8fafc;
+  border-left: 3px solid #94a3b8;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.inspection-note ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.2rem;
+  font-size: 0.82rem;
+}
+
 @media (max-width: 480px) {
   #school-page {
     padding: 1rem;

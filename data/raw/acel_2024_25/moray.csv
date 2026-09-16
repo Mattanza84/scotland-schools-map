@@ -1,0 +1,733 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Moray,All publicly funded schools,P1,Listening & Talking - % Meeting Level,87.3%
+2024/25,Moray,All publicly funded schools,P1,Numeracy - % Meeting Level,80.8%
+2024/25,Moray,All publicly funded schools,P1,Reading - % Meeting Level,79.7%
+2024/25,Moray,All publicly funded schools,P1,Writing - % Meeting Level,75.6%
+2024/25,Moray,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,86.5%
+2024/25,Moray,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,76.9%
+2024/25,Moray,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.5%
+2024/25,Moray,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,75.5%
+2024/25,Moray,All publicly funded schools,P4,Listening & Talking - % Meeting Level,85.6%
+2024/25,Moray,All publicly funded schools,P4,Numeracy - % Meeting Level,71.7%
+2024/25,Moray,All publicly funded schools,P4,Reading - % Meeting Level,77.9%
+2024/25,Moray,All publicly funded schools,P4,Writing - % Meeting Level,73.3%
+2024/25,Moray,All publicly funded schools,P7,Listening & Talking - % Meeting Level,86.6%
+2024/25,Moray,All publicly funded schools,P7,Numeracy - % Meeting Level,78.5%
+2024/25,Moray,All publicly funded schools,P7,Reading - % Meeting Level,83.9%
+2024/25,Moray,All publicly funded schools,P7,Writing - % Meeting Level,77.5%
+2024/25,Moray,Aberlour Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Aberlour Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Aberlour Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Aberlour Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Aberlour Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Aberlour Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Aberlour Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,Aberlour Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,Aberlour Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Aberlour Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Alves Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Alves Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Alves Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Alves Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Alves Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Alves Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Anderson's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Anderson's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Anderson's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Anderson's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,Anderson's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Moray,Anderson's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Anderson's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Moray,Anderson's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Anderson's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Moray,Applegrove Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Applegrove Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Applegrove Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Moray,Applegrove Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Applegrove Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Applegrove Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Applegrove Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Applegrove Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Moray,Applegrove Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Moray,Applegrove Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Moray,Applegrove Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Moray,Bishopmill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Bishopmill Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Moray,Bishopmill Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Moray,Botriphnie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Botriphnie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Burghead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Burghead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Burghead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Burghead Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Burghead Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Cluny Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Cluny Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Cluny Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Cluny Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Moray,Cluny Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Cluny Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Cluny Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Cluny Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Cluny Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Cluny Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Moray,Cluny Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Moray,Cluny Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Moray,Cluny Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Cluny Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Cluny Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Moray,Cluny Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Moray,Craigellachie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Craigellachie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Cullen Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Cullen Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Cullen Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Cullen Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Cullen Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Dallas Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Dyke Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Dyke Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Dyke Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Dyke Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Dyke Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,East End Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,East End Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,East End Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,East End Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,East End Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,East End Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Moray,East End Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,East End Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,East End Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Moray,East End Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Moray,Findochty Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Findochty Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Findochty Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Findochty Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Moray,Findochty Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Findochty Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Glenlivet Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Greenwards Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Greenwards Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Greenwards Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Moray,Greenwards Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Greenwards Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Greenwards Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Greenwards Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Greenwards Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Greenwards Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Greenwards Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Moray,Greenwards Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Moray,Greenwards Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Moray,Greenwards Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Greenwards Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Greenwards Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Greenwards Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Moray,Hopeman Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Hopeman Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Hopeman Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Hopeman Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Hopeman Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Hopeman Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Hopeman Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,Hopeman Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Moray,Hopeman Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Hopeman Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Hythehill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Hythehill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Hythehill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Hythehill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Hythehill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Moray,Keith Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Keith Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Keith Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Keith Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Keith Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,Keith Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Moray,Keith Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Keith Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Keith Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Moray,Keith Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Moray,Kinloss Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Moray,Kinloss Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Moray,Kinloss Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Kinloss Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Moray,Knockando Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Knockando Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Lhanbryde Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Lhanbryde Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Lhanbryde Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Lhanbryde Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Lhanbryde Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Lhanbryde Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Lhanbryde Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Lhanbryde Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Linkwood Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Moray,Linkwood Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Linkwood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Linkwood Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Linkwood Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Moray,Linkwood Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Moray,Linkwood Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Moray,Logie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Logie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Logie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Logie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Logie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Logie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Millbank Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Millbank Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Millbank Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Moray,Millbank Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Millbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Millbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Millbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Millbank Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Millbank Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Moray,Millbank Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Moray,Milne's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Milne's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Milne's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Milne's Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Milne's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Milne's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Milne's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Milne's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Milne's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Milne's Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Moray,Milne's Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Moray,Mortlach Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Mortlach Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Mortlach Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Mortlach Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,Mortlach Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Mortlach Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Mosstodloch Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Mosstodloch Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Mosstodloch Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Mosstodloch Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,Mosstodloch Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Mosstodloch Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mosstodloch Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Mosstodloch Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Mosstodloch Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Mosstodloch Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Moray,Mosstodloch Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Moray,Mosstowie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Mosstowie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Mosstowie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Moray,Mosstowie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Moray,Mosstowie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Mosstowie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,New Elgin Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Moray,New Elgin Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,New Elgin Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,New Elgin Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Moray,New Elgin Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,New Elgin Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,New Elgin Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Moray,New Elgin Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Moray,Newmill Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Newmill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Newmill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Moray,Newmill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Moray,Newmill Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Newmill Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Pilmuir Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Pilmuir Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,Pilmuir Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Pilmuir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Pilmuir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,Pilmuir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,Pilmuir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Pilmuir Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Pilmuir Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Portessie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Portessie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Moray,Portessie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Moray,Portessie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Portessie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Portgordon Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Portknockie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,Rothes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,Rothes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Moray,Rothes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,Rothes Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Rothes Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Rothiemay Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Seafield Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Seafield Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Seafield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Moray,Seafield Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Moray,Seafield Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,Seafield Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Moray,Seafield Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Moray,Seafield Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Moray,St Gerardine Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,St Gerardine Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Moray,St Gerardine Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Moray,St Peter's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,St Peter's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Moray,St Peter's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,St Peter's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Moray,St Peter's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,St Peter's RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Moray,St Sylvester's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,St Sylvester's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Moray,St Sylvester's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,St Sylvester's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,St Sylvester's RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,St Thomas RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P1,Reading - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P1,Writing - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P4,Reading - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P4,Writing - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P7,Reading - % Meeting Level,c
+2024/25,Moray,Tomintoul Primary School,P7,Writing - % Meeting Level,c
+2024/25,Moray,West End Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Moray,West End Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Moray,West End Primary School,P7,Writing - % Meeting Level,90+%

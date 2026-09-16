@@ -1,0 +1,801 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Aberdeen City,All publicly funded schools,P1,Listening & Talking - % Meeting Level,84.9%
+2024/25,Aberdeen City,All publicly funded schools,P1,Numeracy - % Meeting Level,82.7%
+2024/25,Aberdeen City,All publicly funded schools,P1,Reading - % Meeting Level,77.1%
+2024/25,Aberdeen City,All publicly funded schools,P1,Writing - % Meeting Level,75.3%
+2024/25,Aberdeen City,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,86.9%
+2024/25,Aberdeen City,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,78.3%
+2024/25,Aberdeen City,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,77.6%
+2024/25,Aberdeen City,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,74.2%
+2024/25,Aberdeen City,All publicly funded schools,P4,Listening & Talking - % Meeting Level,86.8%
+2024/25,Aberdeen City,All publicly funded schools,P4,Numeracy - % Meeting Level,75.3%
+2024/25,Aberdeen City,All publicly funded schools,P4,Reading - % Meeting Level,75.3%
+2024/25,Aberdeen City,All publicly funded schools,P4,Writing - % Meeting Level,71.2%
+2024/25,Aberdeen City,All publicly funded schools,P7,Listening & Talking - % Meeting Level,89%
+2024/25,Aberdeen City,All publicly funded schools,P7,Numeracy - % Meeting Level,77.2%
+2024/25,Aberdeen City,All publicly funded schools,P7,Reading - % Meeting Level,80.5%
+2024/25,Aberdeen City,All publicly funded schools,P7,Writing - % Meeting Level,76.3%
+2024/25,Aberdeen City,Abbotswell School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Abbotswell School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Abbotswell School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Abbotswell School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Abbotswell School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Abbotswell School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Abbotswell School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Abbotswell School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Abbotswell School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Abbotswell School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Abbotswell School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Abbotswell School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Abbotswell School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Abbotswell School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Abbotswell School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Abbotswell School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Airyhall School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Airyhall School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Airyhall School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Airyhall School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Airyhall School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Airyhall School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Airyhall School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Airyhall School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Airyhall School,P7,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P1,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P1,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ashley Road School,P4,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ashley Road School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ashley Road School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Ashley Road School,P7,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Braehead School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Braehead School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Braehead School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Braehead School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Bramble Brae School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P1,Numeracy - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P1,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P1,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Bramble Brae School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Bramble Brae School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Bramble Brae School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Bramble Brae School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Bramble Brae School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Bramble Brae School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Bramble Brae School,P4,Writing - % Meeting Level,40-50%
+2024/25,Aberdeen City,Bramble Brae School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P7,Numeracy - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P7,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Bramble Brae School,P7,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Brimmond School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Brimmond School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Brimmond School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Brimmond School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Brimmond School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Brimmond School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Brimmond School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Brimmond School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Brimmond School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Brimmond School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Brimmond School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Broomhill School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P1,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P1,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Broomhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Broomhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Broomhill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Broomhill School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Broomhill School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Broomhill School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Broomhill School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Broomhill School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P1,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P1,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Charleston School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Charleston School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Charleston School,P7,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Cornhill School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Cornhill School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Cornhill School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Cornhill School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Cornhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cornhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Cornhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Cornhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Cornhill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cornhill School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Cornhill School,P4,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Cornhill School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Cornhill School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cornhill School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cornhill School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cornhill School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Countesswells School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Countesswells School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Countesswells School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Countesswells School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Countesswells School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Countesswells School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Countesswells School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Countesswells School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Aberdeen City,Countesswells School,P7,Numeracy - % Meeting Level,c
+2024/25,Aberdeen City,Countesswells School,P7,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Countesswells School,P7,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Culter School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,P4,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Culter School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Culter School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Culter School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cults School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cults School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cults School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Cults School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P4,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P4,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Cults School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Danestone School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Danestone School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Danestone School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Danestone School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Danestone School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Danestone School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Danestone School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Danestone School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Danestone School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Danestone School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Dyce School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Dyce School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Dyce School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Dyce School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Dyce School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Dyce School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Dyce School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Dyce School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Dyce School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Dyce School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Dyce School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Fernielea School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Fernielea School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Fernielea School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ferryhill School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ferryhill School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ferryhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ferryhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Ferryhill School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Ferryhill School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Ferryhill School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Forehill School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Forehill School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Forehill School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Forehill School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Forehill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Forehill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Forehill School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Forehill School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Forehill School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Forehill School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Forehill School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Forehill School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Forehill School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Forehill School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Forehill School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Forehill School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Gilcomstoun School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Gilcomstoun School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Gilcomstoun School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Gilcomstoun School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Glashieburn School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Glashieburn School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Glashieburn School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Glashieburn School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Glashieburn School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Glashieburn School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Glashieburn School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Glashieburn School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Greenbrae School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Greenbrae School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greenbrae School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Greenbrae School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greenbrae School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greenbrae School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greenbrae School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greenbrae School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greyhope School & Community Hub,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P7,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Greyhope School & Community Hub,P7,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Hanover Street School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hanover Street School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hanover Street School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hanover Street School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hanover Street School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hanover Street School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,Aberdeen City,Hanover Street School,P4,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Hanover Street School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hanover Street School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Aberdeen City,Hanover Street School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Hanover Street School,P7,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Hazlehead School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Hazlehead School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Hazlehead School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Hazlehead School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hazlehead School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Hazlehead School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Hazlehead School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Hazlehead School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Heathryburn School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Heathryburn School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Heathryburn School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Heathryburn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Heathryburn School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Heathryburn School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Heathryburn School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Heathryburn School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Heathryburn School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Heathryburn School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Heathryburn School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Holy Family RC School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Holy Family RC School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Holy Family RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Holy Family RC School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Holy Family RC School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Holy Family RC School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Holy Family RC School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Holy Family RC School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Holy Family RC School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P1,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kaimhill School,P1,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kaimhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kaimhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kaimhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kaimhill School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kaimhill School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kaimhill School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kaimhill School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kaimhill School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingsford School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingsford School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kingsford School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingsford School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kingsford School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingsford School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,P4,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kingsford School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kingsford School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingsford School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingsford School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingsford School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kingswells School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kingswells School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Kingswells School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kingswells School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kirkhill School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Kirkhill School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kirkhill School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kirkhill School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Kirkhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kirkhill School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kirkhill School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kirkhill School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Kirkhill School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kirkhill School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kirkhill School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,Aberdeen City,Kittybrewster School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Kittybrewster School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kittybrewster School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kittybrewster School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kittybrewster School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Kittybrewster School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Kittybrewster School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Loirston School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Loirston School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Loirston School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Loirston School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Loirston School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Loirston School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Loirston School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Loirston School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Manor Park School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Manor Park School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Manor Park School,P1,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Manor Park School,P1,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Manor Park School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Manor Park School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Manor Park School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Manor Park School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Manor Park School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Aberdeen City,Manor Park School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Manor Park School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Manor Park School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Manor Park School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Manor Park School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Manor Park School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Manor Park School,P7,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Middleton Park School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Middleton Park School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Middleton Park School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Middleton Park School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Middleton Park School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Middleton Park School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Middleton Park School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Middleton Park School,P7,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Mile End School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Mile End School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Mile End School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Mile End School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Mile End School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Milltimber School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Milltimber School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Milltimber School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,P4,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Milltimber School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Milltimber School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Muirfield School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P1,Numeracy - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P1,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P1,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Muirfield School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Muirfield School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Muirfield School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Muirfield School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P4,Numeracy - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P4,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P4,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Muirfield School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Muirfield School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Muirfield School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Muirfield School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Quarryhill School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Quarryhill School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Quarryhill School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Quarryhill School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Quarryhill School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Quarryhill School,P7,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Riverbank School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Riverbank School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Riverbank School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Riverbank School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Riverbank School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Riverbank School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Riverbank School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Riverbank School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Riverbank School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Scotstown School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Scotstown School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Scotstown School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Scotstown School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Scotstown School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Scotstown School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Scotstown School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Scotstown School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Scotstown School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Scotstown School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Scotstown School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Seaton School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,Seaton School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Seaton School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Seaton School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Seaton School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Seaton School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Seaton School,P7,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Skene Square School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Skene Square School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Skene Square School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Skene Square School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Skene Square School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Skene Square School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Skene Square School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Skene Square School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Skene Square School,P7,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,Skene Square School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Joseph's RC School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,St Joseph's RC School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,St Joseph's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Joseph's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,St Joseph's RC School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Joseph's RC School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P4,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,St Joseph's RC School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Joseph's RC School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Peter's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Peter's RC School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P4,Reading - % Meeting Level,90+%
+2024/25,Aberdeen City,St Peter's RC School,P4,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,St Peter's RC School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Aberdeen City,St Peter's RC School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,St Peter's RC School,P7,Writing - % Meeting Level,90+%
+2024/25,Aberdeen City,Stoneywood School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Stoneywood School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Stoneywood School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Stoneywood School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P4,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Stoneywood School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Stoneywood School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Stoneywood School,P7,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Sunnybank School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Sunnybank School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Sunnybank School,P1,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,P1,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Sunnybank School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Sunnybank School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,P4,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Sunnybank School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Sunnybank School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Sunnybank School,P7,Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Sunnybank School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Tullos School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Tullos School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Tullos School,P1,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Tullos School,P1,Writing - % Meeting Level,80-90%
+2024/25,Aberdeen City,Tullos School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Tullos School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Tullos School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Tullos School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Tullos School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Tullos School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Tullos School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Tullos School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Tullos School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Tullos School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Tullos School,P7,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Tullos School,P7,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Westpark School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Westpark School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Westpark School,P1,Reading - % Meeting Level,c
+2024/25,Aberdeen City,Westpark School,P1,Writing - % Meeting Level,c
+2024/25,Aberdeen City,Westpark School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Westpark School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Aberdeen City,Westpark School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Aberdeen City,Westpark School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Westpark School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Westpark School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Westpark School,P4,Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Westpark School,P4,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Westpark School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Aberdeen City,Westpark School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Westpark School,P7,Reading - % Meeting Level,80-90%
+2024/25,Aberdeen City,Westpark School,P7,Writing - % Meeting Level,70-80%
+2024/25,Aberdeen City,Woodside School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Woodside School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Aberdeen City,Woodside School,P1,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Woodside School,P1,Writing - % Meeting Level,60-70%
+2024/25,Aberdeen City,Woodside School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Aberdeen City,Woodside School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Aberdeen City,Woodside School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Aberdeen City,Woodside School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Woodside School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Woodside School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Woodside School,P4,Reading - % Meeting Level,60-70%
+2024/25,Aberdeen City,Woodside School,P4,Writing - % Meeting Level,50-60%
+2024/25,Aberdeen City,Woodside School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Aberdeen City,Woodside School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Aberdeen City,Woodside School,P7,Reading - % Meeting Level,40-50%
+2024/25,Aberdeen City,Woodside School,P7,Writing - % Meeting Level,50-60%

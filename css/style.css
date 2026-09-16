@@ -372,6 +372,12 @@ html, body {
   margin-top: 4px;
 }
 
+.popup-source--secondary {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #e5e7eb;
+}
+
 .popup-rating--none {
   color: #777;
   font-size: 0.85rem;

@@ -8,24 +8,31 @@ Sources (see data/SOURCES.md for full provenance):
   - data/raw/foi_inspections_2025.xlsx
       Education Scotland inspection quality-indicator (QI) grades, 1 (weakest)
       to 6 (strongest), covering all inspections up to 1 April 2025.
-      Response to FOI-202500457731. Used as the rating for primary schools,
-      and as a fallback for secondary schools with no attainment data.
+      Response to FOI-202500457731. Stored as inspectionData on all schools;
+      also used as rating fallback for schools with no attainment data.
   - data/raw/school_level_stats_2025.xlsx
       Scottish Government school-level summary statistics 2025, providing
       up-to-date pupil rolls and teacher FTE per school.
+  - data/raw/acel_2024_25/*.csv
+      ACEL (Achievement of Curriculum for Excellence Levels) attainment data
+      for 2024/25, per-school, obtained via FOI from Scottish Government and
+      published by datamap-scotland.co.uk. Used as the rating for primary
+      schools: % of P1/P4/P7 pupils meeting the expected level across four
+      measures (reading, writing, numeracy, listening & talking).
   - data/raw/breadth_and_depth_2023-24.json, breadth_and_depth_2024-25.json
       SQA attainment (% of leavers with 5+ awards at Higher level or above),
       from the Scottish Government "Schools - Breadth and Depth of
       Qualifications" statistics.gov.scot dataset. Used as the rating for
-      secondary schools where available -- a more current, direct measure
-      than the sparse/dated inspection data, and secondary schools have no
-      equivalent to primary's ACEL attainment stats at school level.
+      secondary schools where available.
 
 Run with: python3 scripts/build_schools_json.py
 """
+import csv
+import glob
 import json
 import os
 import re
+import unicodedata
 from datetime import date
 
 import openpyxl
@@ -68,11 +75,44 @@ ATTAINMENT_BANDS = [
 ]
 
 
+# Bands for primary schools' ACEL attainment (% of P1/P4/P7 pupils meeting
+# expected level, averaged across reading, writing, numeracy, L&T). Thresholds
+# are set against the 2024/25 national average of ~81%.
+ACEL_BANDS = [
+    (90, "Excellent"),
+    (80, "Very Good"),
+    (70, "Good"),
+    (60, "Satisfactory"),
+    (50, "Weak"),
+    (0,  "Unsatisfactory"),
+]
+
+
 def band_for_percent(pct):
     for threshold, label in ATTAINMENT_BANDS:
         if pct >= threshold:
             return label
     return ATTAINMENT_BANDS[-1][1]
+
+
+def acel_band_for_percent(pct):
+    for threshold, label in ACEL_BANDS:
+        if pct >= threshold:
+            return label
+    return ACEL_BANDS[-1][1]
+
+
+def _normalize_name(name):
+    """Lowercase, strip accents, remove 'primary school'/'primary'/'school' suffix."""
+    name = unicodedata.normalize("NFD", name)
+    name = "".join(c for c in name if unicodedata.category(c) != "Mn")
+    name = name.lower().strip()
+    for suffix in (" primary school", " primary", " school"):
+        if name.endswith(suffix):
+            name = name[: -len(suffix)].strip()
+            break
+    name = re.sub(r"[^a-z0-9 ]+", " ", name)
+    return re.sub(r"\s+", " ", name).strip()
 
 
 def load_locations():
@@ -306,6 +346,102 @@ def load_attainment():
     return by_seed
 
 
+def _range_midpoint(value_label):
+    """Convert '70-80%' → 75.0.  Returns None for suppressed/n/a values."""
+    val = value_label.strip().rstrip("%")
+    if not val or val.lower() in ("n/a", "na", "*", "#", "c", ""):
+        return None
+    m = re.match(r"(\d+)\s*[-–]\s*(\d+)", val)
+    if m:
+        return (int(m.group(1)) + int(m.group(2))) / 2
+    try:
+        return float(val)
+    except ValueError:
+        return None
+
+
+def load_acel():
+    """Loads 2024/25 school-level ACEL data from per-LA CSVs.
+
+    Returns two lookup structures:
+      exact_by_name  – {school_name: {percent, label}} using exact name
+      fuzzy_by_norm  – {normalized_name: {percent, label}} for fallback
+    Only rows with stage 'P1, P4 & P7 combined' are used; the score is the
+    average midpoint across the four measures for schools where ≥3 measures
+    have non-suppressed data.
+    """
+    COMBINED_STAGE = "P1, P4 & P7 combined"
+    AGGREGATE_NAMES = {
+        "All publicly funded schools",
+        "All publicly funded Roman Catholic schools",
+        "All publicly funded non-denominational schools",
+    }
+
+    per_school = {}  # school_name -> [midpoints]
+    acel_dir = os.path.join(RAW, "acel_2024_25")
+    for fpath in glob.glob(os.path.join(acel_dir, "*.csv")):
+        with open(fpath, newline="", encoding="utf-8-sig") as f:
+            for row in csv.DictReader(f):
+                if row["stage"] != COMBINED_STAGE:
+                    continue
+                if row["school_name"] in AGGREGATE_NAMES:
+                    continue
+                mp = _range_midpoint(row["value_label"])
+                if mp is None:
+                    continue
+                per_school.setdefault(row["school_name"], []).append(mp)
+
+    exact_by_name = {}
+    fuzzy_by_norm = {}
+    for name, midpoints in per_school.items():
+        if len(midpoints) < 3:
+            continue
+        pct = round(sum(midpoints) / len(midpoints), 1)
+        rec = {"percent": pct, "label": acel_band_for_percent(pct), "year": "2024/25"}
+        exact_by_name[name] = rec
+        fuzzy_by_norm[_normalize_name(name)] = rec
+
+    return exact_by_name, fuzzy_by_norm
+
+
+def apply_acel(schools, exact_by_name, fuzzy_by_norm):
+    """For each primary school, look up its ACEL score and set rating.
+
+    When inspection data is also present it is moved to school['inspectionData']
+    so it can still be shown in popups and detail pages.
+    """
+    exact_matched = fuzzy_matched = 0
+    for school in schools.values():
+        if school["sector"] != "primary":
+            continue
+        rec = exact_by_name.get(school["name"])
+        if rec is None:
+            rec = fuzzy_by_norm.get(_normalize_name(school["name"]))
+            if rec is not None:
+                fuzzy_matched += 1
+        else:
+            exact_matched += 1
+
+        if rec is None:
+            continue
+
+        # Preserve any inspection data so it still appears on detail pages
+        if school["rating"].get("hasData") and school["rating"].get("metric") == "inspection":
+            school["inspectionData"] = school["rating"]
+
+        pct = rec["percent"]
+        school["rating"] = {
+            "hasData": True,
+            "metric": "acel",
+            "year": rec["year"],
+            "percent": pct,
+            "score": round(pct / 100, 3),
+            "label": rec["label"],
+        }
+
+    return exact_matched, fuzzy_matched
+
+
 def apply_attainment(schools, attainment_by_seed):
     matched = 0
     for school in schools.values():
@@ -337,6 +473,9 @@ def main():
     ratings_by_seed = load_ratings()
     inspection_matched = apply_ratings(schools, ratings_by_seed)
 
+    acel_exact, acel_fuzzy = load_acel()
+    acel_exact_n, acel_fuzzy_n = apply_acel(schools, acel_exact, acel_fuzzy)
+
     attainment_by_seed = load_attainment()
     attainment_matched = apply_attainment(schools, attainment_by_seed)
 
@@ -360,6 +499,7 @@ def main():
     print(f"  by sector: {by_sector}")
     print(f"  with rating data: {total_with_rating} ({total_with_rating / len(out):.0%})")
     print(f"    inspection-based: {rating_metric_counts.get('inspection', 0)}")
+    print(f"    ACEL-based (primary): {acel_exact_n + acel_fuzzy_n} ({acel_exact_n} exact, {acel_fuzzy_n} fuzzy)")
     print(f"    attainment-based (secondary): {attainment_matched}")
     print(f"  generated: {date.today().isoformat()}")
 

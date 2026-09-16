@@ -1,0 +1,785 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Falkirk,All publicly funded schools,P1,Listening & Talking - % Meeting Level,87.5%
+2024/25,Falkirk,All publicly funded schools,P1,Numeracy - % Meeting Level,85.4%
+2024/25,Falkirk,All publicly funded schools,P1,Reading - % Meeting Level,82.2%
+2024/25,Falkirk,All publicly funded schools,P1,Writing - % Meeting Level,81%
+2024/25,Falkirk,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.9%
+2024/25,Falkirk,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,83.4%
+2024/25,Falkirk,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,82.4%
+2024/25,Falkirk,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,80.2%
+2024/25,Falkirk,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.7%
+2024/25,Falkirk,All publicly funded schools,P4,Numeracy - % Meeting Level,82.8%
+2024/25,Falkirk,All publicly funded schools,P4,Reading - % Meeting Level,81.3%
+2024/25,Falkirk,All publicly funded schools,P4,Writing - % Meeting Level,77.8%
+2024/25,Falkirk,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.3%
+2024/25,Falkirk,All publicly funded schools,P7,Numeracy - % Meeting Level,82.4%
+2024/25,Falkirk,All publicly funded schools,P7,Reading - % Meeting Level,83.5%
+2024/25,Falkirk,All publicly funded schools,P7,Writing - % Meeting Level,81.6%
+2024/25,Falkirk,Airth Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Airth Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Airth Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Airth Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Airth Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Airth Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Airth Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Airth Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Airth Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Antonine Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Antonine Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Antonine Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Antonine Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Avonbridge Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,Avonbridge Primary School,P7,Writing - % Meeting Level,c
+2024/25,Falkirk,Bainsford Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bainsford Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Bainsford Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Bainsford Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Bainsford Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Bainsford Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bainsford Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bainsford Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bankier Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Bankier Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Bankier Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bankier Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bankier Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bankier Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bankier Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Bantaskin Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bantaskin Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bantaskin Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Bantaskin Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bantaskin Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bantaskin Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Beancross Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Beancross Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Beancross Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Beancross Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Beancross Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Beancross Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Beancross Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Beancross Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Bo'ness Public School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Bo'ness Public School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Bo'ness Public School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Bo'ness Public School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Bo'ness Public School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Bo'ness Public School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Bo'ness Public School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bo'ness Public School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bo'ness Public School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bo'ness Public School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bonnybridge Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Bonnybridge Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bonnybridge Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bonnybridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Bonnybridge Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Bonnybridge Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Bonnybridge Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Bowhouse Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Bowhouse Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Bowhouse Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Bowhouse Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,California Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,California Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,California Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,California Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,California Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,California Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,California Primary School,P7,Writing - % Meeting Level,c
+2024/25,Falkirk,Carmuirs Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carmuirs Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carmuirs Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Carmuirs Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Carmuirs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carmuirs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carmuirs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Carmuirs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Carmuirs Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Carmuirs Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Carmuirs Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Carmuirs Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Carmuirs Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Carmuirs Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Carmuirs Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Carmuirs Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Carron Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carron Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Carron Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Carron Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Carron Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Carronshore Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Carronshore Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Carronshore Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Carronshore Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Carronshore Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Comely Park Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Comely Park Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Comely Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Comely Park Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Comely Park Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Deanburn Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Deanburn Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Denny Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Denny Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Denny Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Denny Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Denny Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Drumbowie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,Drumbowie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Falkirk,Dunipace Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Dunipace Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Dunipace Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Dunipace Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Dunipace Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Dunipace Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Dunipace Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Dunipace Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Dunipace Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Easter Carmuirs Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Easter Carmuirs Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Easter Carmuirs Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Easter Carmuirs Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Easter Carmuirs Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Grange Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Grange Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Grange Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Grange Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Hallglen Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Hallglen Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Hallglen Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Hallglen Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Hallglen Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Head Of Muir Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Head Of Muir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Head Of Muir Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Head Of Muir Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Head Of Muir Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Head Of Muir Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Kinnaird Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinnaird Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinnaird Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinnaird Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Kinnaird Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Kinneil Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Kinneil Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Ladeside Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Ladeside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Ladeside Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Ladeside Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Ladeside Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Ladeside Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Ladeside Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Falkirk,Ladeside Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Ladeside Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Langlees Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Langlees Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Larbert Village Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Larbert Village Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Larbert Village Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Larbert Village Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Larbert Village Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Laurieston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Laurieston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Laurieston Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Laurieston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Laurieston Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Laurieston Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Laurieston Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Laurieston Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Laurieston Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Maddiston Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Maddiston Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Maddiston Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Maddiston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Maddiston Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Maddiston Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Maddiston Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Moray Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Moray Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Moray Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Moray Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Moray Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Moray Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Moray Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Moray Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Moray Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Falkirk,Moray Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Moray Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Nethermains Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Falkirk,Nethermains Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Nethermains Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Nethermains Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Nethermains Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Nethermains Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Nethermains Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Nethermains Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Nethermains Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Nethermains Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Nethermains Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Nethermains Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Nethermains Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Nethermains Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Nethermains Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Nethermains Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Sacred Heart RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Sacred Heart RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Sacred Heart RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,Sacred Heart RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Sacred Heart RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Sacred Heart RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Sacred Heart RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Shieldhill Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,Shieldhill Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,Shieldhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Shieldhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Shieldhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Shieldhill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Shieldhill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Shieldhill Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Falkirk,Shieldhill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Shieldhill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Slamannan Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Slamannan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Slamannan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Slamannan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Slamannan Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,Slamannan Primary School,P7,Writing - % Meeting Level,c
+2024/25,Falkirk,St Andrew's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,St Andrew's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Andrew's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Bernadette's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Bernadette's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Bernadette's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,St Bernadette's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,St Bernadette's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,St Bernadette's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,St Bernadette's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Bernadette's RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,St Bernadette's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Falkirk,St Francis Xavier's RC Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Falkirk,St Joseph's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Joseph's RC Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,St Joseph's RC Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,St Joseph's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Joseph's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Joseph's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Joseph's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Joseph's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Joseph's RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,St Joseph's RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Falkirk,St Margaret's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Margaret's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,St Margaret's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Margaret's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Margaret's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,St Mary's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,St Mary's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,St Mary's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,St Mary's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Mary's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Mary's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,St Mary's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Mary's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,St Mary's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Mary's RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Falkirk,St Mary's RC Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Falkirk,St Patrick's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Falkirk,St Patrick's RC Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Falkirk,St Patrick's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,St Patrick's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,St Patrick's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Stenhousemuir Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Stenhousemuir Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Stenhousemuir Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Stenhousemuir Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Stenhousemuir Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Stenhousemuir Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Victoria Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Victoria Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Wallacestone Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Wallacestone Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Falkirk,Wallacestone Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Falkirk,Westquarter Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Falkirk,Westquarter Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Westquarter Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Westquarter Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Falkirk,Westquarter Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Falkirk,Westquarter Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Falkirk,Whitecross Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P1,Reading - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P1,Writing - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P4,Reading - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P4,Writing - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P7,Reading - % Meeting Level,c
+2024/25,Falkirk,Whitecross Primary School,P7,Writing - % Meeting Level,c

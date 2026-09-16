@@ -1,0 +1,353 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Inverclyde,All publicly funded schools,P1,Listening & Talking - % Meeting Level,88.9%
+2024/25,Inverclyde,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Inverclyde,All publicly funded schools,P1,Reading - % Meeting Level,84.1%
+2024/25,Inverclyde,All publicly funded schools,P1,Writing - % Meeting Level,82.8%
+2024/25,Inverclyde,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,91.2%
+2024/25,Inverclyde,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,82.3%
+2024/25,Inverclyde,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,83.5%
+2024/25,Inverclyde,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,78.2%
+2024/25,Inverclyde,All publicly funded schools,P4,Listening & Talking - % Meeting Level,91.3%
+2024/25,Inverclyde,All publicly funded schools,P4,Numeracy - % Meeting Level,81.6%
+2024/25,Inverclyde,All publicly funded schools,P4,Reading - % Meeting Level,81.1%
+2024/25,Inverclyde,All publicly funded schools,P4,Writing - % Meeting Level,74.6%
+2024/25,Inverclyde,All publicly funded schools,P7,Listening & Talking - % Meeting Level,93%
+2024/25,Inverclyde,All publicly funded schools,P7,Numeracy - % Meeting Level,81.2%
+2024/25,Inverclyde,All publicly funded schools,P7,Reading - % Meeting Level,85.5%
+2024/25,Inverclyde,All publicly funded schools,P7,Writing - % Meeting Level,78.1%
+2024/25,Inverclyde,Aileymill Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Inverclyde,Aileymill Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Aileymill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Aileymill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Aileymill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Aileymill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Aileymill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Aileymill Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Inverclyde,All Saints Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,All Saints Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,All Saints Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,All Saints Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,All Saints Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,All Saints Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,All Saints Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,All Saints Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,All Saints Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,All Saints Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Ardgowan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Ardgowan Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Ardgowan Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Ardgowan Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Ardgowan Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Gourock Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Gourock Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Gourock Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Gourock Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Gourock Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Inverkip Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,Inverkip Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,Inverkip Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,Inverkip Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,Inverkip Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Inverkip Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Inverkip Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Inverkip Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Inverkip Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Kilmacolm Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Kilmacolm Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Kilmacolm Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Kilmacolm Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Kilmacolm Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Kilmacolm Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Inverclyde,King's Oak Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,King's Oak Primary School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Inverclyde,King's Oak Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Inverclyde,King's Oak Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,King's Oak Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,King's Oak Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,King's Oak Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,King's Oak Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,King's Oak Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,King's Oak Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,King's Oak Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,King's Oak Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,King's Oak Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,King's Oak Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,King's Oak Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,King's Oak Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,Lady Alice Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,Lady Alice Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,Lady Alice Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,Lady Alice Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Lady Alice Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Lady Alice Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Lady Alice Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Lady Alice Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Lady Alice Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Lady Alice Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Lady Alice Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Moorfoot Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Moorfoot Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Moorfoot Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Moorfoot Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Moorfoot Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Moorfoot Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Moorfoot Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Newark Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Newark Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Inverclyde,Newark Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Newark Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Newark Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Newark Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Newark Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Newark Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Newark Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Newark Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,St Andrew's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Andrew's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Andrew's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,St Andrew's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,St Andrew's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Inverclyde,St Andrew's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Andrew's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Andrew's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Andrew's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Francis' Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Francis' Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,St Francis' Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,St Francis' Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Inverclyde,St Francis' Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Francis' Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Inverclyde,St Francis' Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Inverclyde,St Francis' Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Francis' Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Francis' Primary School,P7,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Francis' Primary School,P7,Writing - % Meeting Level,c
+2024/25,Inverclyde,St John's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St John's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St John's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St John's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,St John's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St John's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St John's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St John's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Inverclyde,St Joseph's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Joseph's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Joseph's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Joseph's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,St Joseph's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Joseph's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Joseph's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Joseph's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Joseph's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Joseph's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Mary's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Mary's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,St Michael's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Inverclyde,St Michael's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Michael's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Michael's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Ninian's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Ninian's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Ninian's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Patrick's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,St Patrick's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Patrick's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Patrick's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,St Patrick's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Patrick's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,St Patrick's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,St Patrick's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,St Patrick's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Inverclyde,St Patrick's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,St Patrick's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Wemyss Bay Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P1,Reading - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P1,Writing - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Wemyss Bay Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Wemyss Bay Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Wemyss Bay Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Inverclyde,Wemyss Bay Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P4,Reading - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P4,Writing - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P7,Reading - % Meeting Level,c
+2024/25,Inverclyde,Wemyss Bay Primary School,P7,Writing - % Meeting Level,c
+2024/25,Inverclyde,Whinhill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Whinhill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Inverclyde,Whinhill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Whinhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Whinhill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Whinhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Inverclyde,Whinhill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Inverclyde,Whinhill Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Inverclyde,Whinhill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Inverclyde,Whinhill Primary School,P7,Writing - % Meeting Level,70-80%

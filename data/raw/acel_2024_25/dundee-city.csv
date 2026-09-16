@@ -1,0 +1,561 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Dundee City,All publicly funded schools,P1,Listening & Talking - % Meeting Level,85.6%
+2024/25,Dundee City,All publicly funded schools,P1,Numeracy - % Meeting Level,84.2%
+2024/25,Dundee City,All publicly funded schools,P1,Reading - % Meeting Level,81.8%
+2024/25,Dundee City,All publicly funded schools,P1,Writing - % Meeting Level,78.9%
+2024/25,Dundee City,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,86.8%
+2024/25,Dundee City,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,79.6%
+2024/25,Dundee City,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,82%
+2024/25,Dundee City,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.1%
+2024/25,Dundee City,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.3%
+2024/25,Dundee City,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Dundee City,All publicly funded schools,P4,Reading - % Meeting Level,82.1%
+2024/25,Dundee City,All publicly funded schools,P4,Writing - % Meeting Level,75.3%
+2024/25,Dundee City,All publicly funded schools,P7,Listening & Talking - % Meeting Level,87.3%
+2024/25,Dundee City,All publicly funded schools,P7,Numeracy - % Meeting Level,77.2%
+2024/25,Dundee City,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Dundee City,All publicly funded schools,P7,Writing - % Meeting Level,74.5%
+2024/25,Dundee City,Ancrum Road Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ancrum Road Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Ancrum Road Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ancrum Road Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ancrum Road Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ancrum Road Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Ancrum Road Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Ancrum Road Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Ancrum Road Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ardler Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ardler Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ardler Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ardler Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ardler Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P7,Reading - % Meeting Level,c
+2024/25,Dundee City,Ardler Primary School,P7,Writing - % Meeting Level,c
+2024/25,Dundee City,Ballumbie Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Ballumbie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ballumbie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Ballumbie Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Ballumbie Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Ballumbie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Ballumbie Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Barnhill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Barnhill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Barnhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Barnhill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Barnhill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Barnhill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Barnhill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Blackness Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Blackness Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Blackness Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Blackness Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Blackness Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Blackness Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Dundee City,Camperdown Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Camperdown Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Camperdown Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Camperdown Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Camperdown Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Camperdown Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Camperdown Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Camperdown Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Claypotts Castle Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Claypotts Castle Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Claypotts Castle Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Dundee City,Claypotts Castle Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Claypotts Castle Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Claypotts Castle Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Claypotts Castle Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Clepington Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Clepington Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Clepington Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Clepington Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Clepington Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Clepington Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Clepington Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Craigiebarns Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigiebarns Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Craigiebarns Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Craigiebarns Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigiebarns Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Craigiebarns Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Craigowl Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Craigowl Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Craigowl Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Craigowl Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Craigowl Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Craigowl Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Craigowl Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Dens Road Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Dens Road Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Dens Road Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Downfield Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Downfield Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Downfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Downfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Downfield Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Downfield Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Downfield Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Downfield Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Eastern Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Eastern Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Eastern Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Eastern Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Eastern Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Eastern Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Eastern Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,Fintry Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Fintry Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Fintry Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Forthill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Forthill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Forthill Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Forthill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Forthill Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Dundee City,Glebelands Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Glebelands Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Glebelands Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Glebelands Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Glebelands Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Glebelands Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Glebelands Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P1,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P1,Writing - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P4,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Longhaugh Primary,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Longhaugh Primary,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Mill Of Mains Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Mill Of Mains Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dundee City,Mill Of Mains Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Mill Of Mains Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Mill Of Mains Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Dundee City,Mill Of Mains Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,Mill Of Mains Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dundee City,Mill Of Mains Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Mill Of Mains Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Dundee City,Mill Of Mains Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,Mill Of Mains Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Our Lady's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Our Lady's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Our Lady's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Our Lady's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Our Lady's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Rosebank Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Rosebank Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Rosebank Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Rosebank Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Rowantree Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Rowantree Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Rowantree Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Rowantree Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Rowantree Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Rowantree Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Rowantree Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Rowantree Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dundee City,Rowantree Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Rowantree Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,Rowantree Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Sidlaw View Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Sidlaw View Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Sidlaw View Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Sidlaw View Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Andrew's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Andrew's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Andrew's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Andrew's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Andrew's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Andrew's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Andrew's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Andrew's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Clement's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,St Clement's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dundee City,St Clement's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dundee City,St Clement's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dundee City,St Clement's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Clement's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Clement's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,St Clement's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Clement's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Clement's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,St Fergus' RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dundee City,St Fergus' RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dundee City,St Fergus' RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dundee City,St Fergus' RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,St Fergus' RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dundee City,St Fergus' RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Fergus' RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Fergus' RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Fergus' RC Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Fergus' RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Francis RC Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Francis RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,St Francis RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dundee City,St Francis RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Francis RC Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Dundee City,St Francis RC Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,St Francis RC Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dundee City,St Francis RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Francis RC Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,St Francis RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Francis RC Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Joseph's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Joseph's RC Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Dundee City,St Joseph's RC Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,St Joseph's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Joseph's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Joseph's RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Mary's RC Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dundee City,St Mary's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Mary's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Mary's RC Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Mary's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Mary's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Mary's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Mary's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Mary's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Mary's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Mary's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Mary's RC Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Mary's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Mary's RC Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,St Mary's RC Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dundee City,St Mary's RC Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Ninian's RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Ninian's RC Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dundee City,St Ninian's RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Dundee City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Ninian's RC Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Ninian's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Ninian's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Ninian's RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,St Ninian's RC Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Peter & Paul RC School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Peter & Paul RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Peter & Paul RC School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Peter & Paul RC School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P4,Reading - % Meeting Level,90+%
+2024/25,Dundee City,St Peter & Paul RC School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Peter & Paul RC School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Peter & Paul RC School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,St Pius' RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Pius' RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dundee City,St Pius' RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Pius' RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,St Pius' RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dundee City,St Pius' RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,St Pius' RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,St Pius' RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,St Pius' RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Tayview Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Tayview Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Tayview Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Tayview Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dundee City,Tayview Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Tayview Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Tayview Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dundee City,Tayview Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Tayview Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dundee City,Tayview Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dundee City,Tayview Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Victoria Park Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Victoria Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Victoria Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Victoria Park Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Victoria Park Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dundee City,Victoria Park Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dundee City,Victoria Park Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dundee City,Victoria Park Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Dundee City,Victoria Park Primary School,P7,Writing - % Meeting Level,80-90%

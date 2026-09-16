@@ -1,0 +1,1441 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Dumfries & Galloway,All publicly funded schools,P1,Listening & Talking - % Meeting Level,84.3%
+2024/25,Dumfries & Galloway,All publicly funded schools,P1,Numeracy - % Meeting Level,83%
+2024/25,Dumfries & Galloway,All publicly funded schools,P1,Reading - % Meeting Level,80.2%
+2024/25,Dumfries & Galloway,All publicly funded schools,P1,Writing - % Meeting Level,80%
+2024/25,Dumfries & Galloway,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,84.4%
+2024/25,Dumfries & Galloway,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,77.8%
+2024/25,Dumfries & Galloway,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,78.8%
+2024/25,Dumfries & Galloway,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,75.6%
+2024/25,Dumfries & Galloway,All publicly funded schools,P4,Listening & Talking - % Meeting Level,83%
+2024/25,Dumfries & Galloway,All publicly funded schools,P4,Numeracy - % Meeting Level,74.2%
+2024/25,Dumfries & Galloway,All publicly funded schools,P4,Reading - % Meeting Level,76.4%
+2024/25,Dumfries & Galloway,All publicly funded schools,P4,Writing - % Meeting Level,72.4%
+2024/25,Dumfries & Galloway,All publicly funded schools,P7,Listening & Talking - % Meeting Level,85.8%
+2024/25,Dumfries & Galloway,All publicly funded schools,P7,Numeracy - % Meeting Level,76.8%
+2024/25,Dumfries & Galloway,All publicly funded schools,P7,Reading - % Meeting Level,79.8%
+2024/25,Dumfries & Galloway,All publicly funded schools,P7,Writing - % Meeting Level,75.1%
+2024/25,Dumfries & Galloway,Amisfield School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Amisfield School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Applegarth School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Auchencairn School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Beattock School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Belmont School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Belmont School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Belmont School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Belmont School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Belmont School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Brownhall School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brownhall School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Brydekirk School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Caerlaverock School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Calside School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Calside School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,P1,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Calside School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Calside School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Calside School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Calside School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Calside School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Calside School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Calside School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Calside School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Canonbie School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Canonbie School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Canonbie School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Canonbie School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Canonbie School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Canonbie School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Cargenbridge School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Cargenbridge School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Cargenbridge School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Cargenbridge School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cargenbridge School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Carrutherstown School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Castle Douglas Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Castle Kennedy School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Castle Kennedy School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Closeburn School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Collin School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Colvend School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Creetown School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Creetown School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Creetown School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Creetown School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Creetown School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Crossmichael School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Crossmichael School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Crossmichael School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Crossmichael School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Crossmichael School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Cummertrees School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Dalbeattie Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Dalry Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dalry Primary School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Drummore School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Duncow School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Dunscore School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eaglesfield School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Eastriggs School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Eastriggs School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Eastriggs School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Eastriggs School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Eastriggs School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Elmvale School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Elmvale School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Elmvale School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Elmvale School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Elmvale School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Elmvale School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Elmvale School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Elmvale School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Elmvale School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Garlieston School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Gatehouse School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gatehouse School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gatehouse School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gatehouse School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gatehouse School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gelston School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Georgetown School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Georgetown School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Georgetown School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Georgetown School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Georgetown School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Glenluce School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Glenluce School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Glenluce School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Glenluce School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Glenluce School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Glenluce School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Gretna School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Gretna School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Gretna School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Gretna School,P4,Numeracy - % Meeting Level,40-50%
+2024/25,Dumfries & Galloway,Gretna School,P4,Reading - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Gretna School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Gretna School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gretna School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gretna School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Gretna School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Hardgate School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Hardgate School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hardgate School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hardgate School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hardgate School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hardgate School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Heathhall Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Heathhall Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hecklegirth School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hecklegirth School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hecklegirth School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hecklegirth School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hecklegirth School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hecklegirth School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hecklegirth School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Hecklegirth School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hecklegirth School,P7,Reading - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Hecklegirth School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hightae School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hightae School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Hoddom School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hoddom School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Hoddom School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Hoddom School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Hoddom School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Holywood School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Holywood School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Holywood School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Holywood School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Holywood School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Johnstonebridge School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kelloholm School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kelloholm School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Kelloholm School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kelloholm School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kells School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kells School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcolm School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcowan School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkcudbright Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkgunzeon School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkinner School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Kirkinner School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kirkinner School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kirkinner School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkinner School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Kirkpatrick Fleming School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Langholm Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Langholm Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Langholm Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Langholm Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Langholm Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Langholm Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Langholm Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Langholm Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Laurieknowe School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Laurieknowe School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Laurieknowe School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Laurieknowe School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Leswalt School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Leswalt School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lincluden School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lincluden School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lincluden School,P1,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lincluden School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lincluden School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lincluden School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lincluden School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Lincluden School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lincluden School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lincluden School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lincluden School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Locharbriggs School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Locharbriggs School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Locharbriggs School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Locharbriggs School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Locharbriggs School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Locharbriggs School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Locharbriggs School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Dumfries & Galloway,Locharbriggs School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Locharbriggs School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lochmaben School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lochmaben School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lochmaben School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lochmaben School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lochmaben School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Lochmaben School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lochmaben School,P7,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Lochrutton School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lochrutton School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Lockerbie Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Loreburn School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Loreburn School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Loreburn School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Loreburn School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Loreburn School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Loreburn School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Loreburn School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Loreburn School,P4,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Loreburn School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Loreburn School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Loreburn School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Minnigaff School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Minnigaff School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moffat Academy,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P1,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P1,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Moffat Academy,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P4,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P4,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Moffat Academy,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Moffat Academy,P7,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Moffat Academy,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Moniaive School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Moniaive School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Nethermill School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,New Abbey School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Newington School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Newington School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Newington School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P4,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Newington School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Newington School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Newington School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Newington School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Noblehill School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Noblehill School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Noblehill School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Noblehill School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Noblehill School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Noblehill School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Noblehill School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Noblehill School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Noblehill School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,North West Community Campus,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P1,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P1,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,North West Community Campus,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,North West Community Campus,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,North West Community Campus,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,North West Community Campus,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P4,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,North West Community Campus,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,North West Community Campus,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,North West Community Campus,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,North West Community Campus,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Park School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Park School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Park School,P1,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,P1,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Park School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Park School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,P4,Numeracy - % Meeting Level,30-40%
+2024/25,Dumfries & Galloway,Park School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,P4,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Park School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Park School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Park School,P7,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Park School,P7,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Penninghame School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,P1,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P1,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penninghame School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,P7,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penninghame School,P7,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Penpont School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Penpont School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Penpont School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Penpont School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Penpont School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Penpont School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Port William School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Port William School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Port William School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Port William School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Port William School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Portpatrick School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Rephad School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Rephad School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Rephad School,P1,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Rephad School,P1,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Rephad School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Rephad School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Rephad School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Rephad School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Rephad School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Rephad School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Rephad School,P4,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Rephad School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Rephad School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Rephad School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Rephad School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Rephad School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sandhead School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sandhead School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sandhead School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sandhead School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sandhead School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sandhead School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sanquhar Primary School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Shawhead School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sheuchan School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sheuchan School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sheuchan School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sheuchan School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Sheuchan School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sheuchan School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sheuchan School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sheuchan School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sheuchan School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sheuchan School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sheuchan School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Sheuchan School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Sheuchan School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sheuchan School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sheuchan School,P7,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Sheuchan School,P7,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Springfield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springfield Primary School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Springholm School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Springholm School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Springholm School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Springholm School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Springholm School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Andrew's RC School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P1,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P1,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P4,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P7,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Andrew's RC School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Columba's RC School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Columba's RC School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Joseph's RC School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Michael's School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,St Michael's School,P1,Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Michael's School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,St Michael's School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Michael's School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,P4,Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,St Michael's School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Michael's School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,St Michael's School,P7,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,St Michael's School,P7,Writing - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,St Mungo School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Mungo School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,St Teresa's RC School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Troqueer School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Troqueer School,P1,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P1,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Troqueer School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Troqueer School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P4,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Troqueer School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Troqueer School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Dumfries & Galloway,Troqueer School,P7,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Troqueer School,P7,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Twynholm School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Twynholm School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Twynholm School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Twynholm School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Twynholm School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Twynholm School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Wallace Hall Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Whithorn School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Whithorn School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Whithorn School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Whithorn School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Whithorn School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Whithorn School,P7,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P1,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P1,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Wigtown Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Dumfries & Galloway,Wigtown Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Wigtown Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Dumfries & Galloway,Wigtown Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P4,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P4,Writing - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P7,Reading - % Meeting Level,c
+2024/25,Dumfries & Galloway,Wigtown Primary School,P7,Writing - % Meeting Level,c

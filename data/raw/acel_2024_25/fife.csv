@@ -1,0 +1,2141 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Fife,All publicly funded schools,P1,Listening & Talking - % Meeting Level,84.8%
+2024/25,Fife,All publicly funded schools,P1,Numeracy - % Meeting Level,82.7%
+2024/25,Fife,All publicly funded schools,P1,Reading - % Meeting Level,79.8%
+2024/25,Fife,All publicly funded schools,P1,Writing - % Meeting Level,78.9%
+2024/25,Fife,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,83.5%
+2024/25,Fife,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,77.4%
+2024/25,Fife,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,77.6%
+2024/25,Fife,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,73.7%
+2024/25,Fife,All publicly funded schools,P4,Listening & Talking - % Meeting Level,83.8%
+2024/25,Fife,All publicly funded schools,P4,Numeracy - % Meeting Level,75.1%
+2024/25,Fife,All publicly funded schools,P4,Reading - % Meeting Level,75.5%
+2024/25,Fife,All publicly funded schools,P4,Writing - % Meeting Level,70.1%
+2024/25,Fife,All publicly funded schools,P7,Listening & Talking - % Meeting Level,82.2%
+2024/25,Fife,All publicly funded schools,P7,Numeracy - % Meeting Level,75%
+2024/25,Fife,All publicly funded schools,P7,Reading - % Meeting Level,77.8%
+2024/25,Fife,All publicly funded schools,P7,Writing - % Meeting Level,72.7%
+2024/25,Fife,Aberdour Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Aberdour Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Aberdour Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Aberdour Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Aberdour Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Aberdour Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Aberdour Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Aberdour Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Aberdour Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Aberhill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Aberhill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Aberhill Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Aberhill Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Aberhill Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Anstruther Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Anstruther Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Anstruther Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Anstruther Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Anstruther Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Anstruther Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Anstruther Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Auchtermuchty Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Auchtermuchty Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Auchtermuchty Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Auchtermuchty Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Auchtermuchty Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Auchtermuchty Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Auchtermuchty Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Auchtermuchty Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Auchtermuchty Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Fife,Auchtertool Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Auchtertool Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Balcurvie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Balcurvie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Balcurvie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Balcurvie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Balcurvie Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Balcurvie Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Balcurvie Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Balcurvie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Balmerino Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Balmerino Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Balmerino Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Balmerino Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Balmerino Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Balmerino Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Balmullo Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Balmullo Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Balmullo Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Balmullo Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Balmullo Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Bellyeoman Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Bellyeoman Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Bellyeoman Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Bellyeoman Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Bellyeoman Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Bellyeoman Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Bellyeoman Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Benarty Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Benarty Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Benarty Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,Benarty Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Benarty Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Benarty Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,P4,Listening & Talking - % Meeting Level,40-50%
+2024/25,Fife,Benarty Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Benarty Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,Fife,Benarty Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Benarty Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Fife,Blairhall Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Blairhall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Blairhall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Blairhall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Blairhall Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Blairhall Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Buckhaven Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Buckhaven Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Buckhaven Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Buckhaven Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Buckhaven Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Buckhaven Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Burntisland Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Burntisland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Burntisland Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Burntisland Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Burntisland Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Burntisland Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Burntisland Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Burntisland Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Cairneyhill Primary & Community School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Cairneyhill Primary & Community School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Camdean Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Camdean Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Camdean Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Canmore Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Canmore Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Canmore Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Canmore Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Canmore Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Canmore Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Canmore Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Canmore Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Canmore Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Canmore Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Canmore Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Canmore Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Canmore Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Canmore Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Canmore Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Canmore Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Canongate Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Canongate Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Canongate Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Canongate Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Canongate Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Canongate Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Canongate Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Canongate Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Canongate Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Canongate Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Capshard Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Capshard Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Capshard Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Capshard Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Capshard Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Cardenden Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Cardenden Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Cardenden Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Cardenden Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Cardenden Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Cardenden Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Cardenden Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Cardenden Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Cardenden Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Cardenden Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Carleton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Carleton Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Carleton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Carleton Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Fife,Carnegie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Carnegie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Carnegie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Carnegie Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Carnegie Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Carnegie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Carnegie Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Carnegie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Carnock Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Carnock Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Carnock Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Carnock Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Carnock Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Carnock Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Caskieberran Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Caskieberran Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Caskieberran Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Caskieberran Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Caskieberran Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Caskieberran Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Caskieberran Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Castlehill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Fife,Castlehill Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Castlehill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Castlehill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Castlehill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Castlehill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Castlehill Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Castlehill Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Castlehill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Castlehill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Ceres Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Ceres Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Ceres Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Ceres Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Ceres Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Ceres Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Ceres Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Ceres Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Ceres Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Coaltown Of Balgonie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Coaltown Of Balgonie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Coaltown Of Balgonie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Coaltown Of Balgonie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Coaltown Of Balgonie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Coaltown Of Balgonie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Coaltown Of Balgonie Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Coaltown Of Balgonie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Coaltown Of Balgonie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Coaltown of Wemyss Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Coaltown of Wemyss Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Coaltown of Wemyss Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Coaltown of Wemyss Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Coaltown of Wemyss Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Coaltown of Wemyss Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Colinsburgh Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Collydean Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Collydean Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Collydean Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Collydean Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Commercial Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Commercial Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Commercial Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Commercial Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Commercial Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Commercial Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Commercial Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Commercial Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Cowdenbeath Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Cowdenbeath Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Cowdenbeath Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Cowdenbeath Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Cowdenbeath Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Cowdenbeath Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Cowdenbeath Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Cowdenbeath Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Cowdenbeath Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Cowdenbeath Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Cowdenbeath Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Cowdenbeath Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Cowdenbeath Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Cowdenbeath Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Cowdenbeath Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Cowdenbeath Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Craigrothie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Craigrothie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Crail Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Crail Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Crail Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Crail Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Crail Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Crail Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Crossford Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Crossford Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Crossford Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Crossford Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Crossford Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Crossford Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Crossford Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Crossford Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Crossford Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Crossford Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Crossford Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Crossford Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Crossford Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Crossford Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Crossford Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Crossford Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Crossgates Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Crossgates Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Crossgates Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Crossgates Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Crossgates Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Crossgates Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Crossgates Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Crossgates Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Crossgates Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Culross Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Culross Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Culross Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Culross Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Culross Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Culross Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Dairsie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Dalgety Bay Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Dalgety Bay Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Denbeath Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Denbeath Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Denbeath Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Denbeath Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Denbeath Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Denbeath Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Denbeath Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Denbeath Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Denbeath Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Denbeath Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Denbeath Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Denend Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Denend Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Denend Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Denend Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Denend Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Denend Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Denend Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Denend Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Denend Primary School,P4,Listening & Talking - % Meeting Level,40-50%
+2024/25,Fife,Denend Primary School,P4,Numeracy - % Meeting Level,20-30%
+2024/25,Fife,Denend Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Denend Primary School,P4,Writing - % Meeting Level,30-40%
+2024/25,Fife,Denend Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Denend Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Denend Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Denend Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Donibristle Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Donibristle Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Donibristle Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Donibristle Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Donibristle Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Donibristle Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Donibristle Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Donibristle Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Donibristle Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Duloch Schools and Community Campus,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Duloch Schools and Community Campus,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Duloch Schools and Community Campus,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Duloch Schools and Community Campus,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Dunbog Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Dunbog Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Dunnikier Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Dunnikier Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Dunnikier Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Dunnikier Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Dunnikier Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Dunnikier Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Dunnikier Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Dysart Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dysart Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Dysart Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Dysart Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Dysart Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Dysart Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Dysart Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Dysart Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Dysart Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,East Wemyss Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,East Wemyss Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,East Wemyss Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,East Wemyss Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,East Wemyss Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,East Wemyss Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,East Wemyss Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,East Wemyss Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Elie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Elie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Elie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Elie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Elie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Fair Isle Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Fair Isle Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Fair Isle Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Fair Isle Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Fair Isle Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Fair Isle Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Fair Isle Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Fair Isle Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Fair Isle Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Falkland Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Falkland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Falkland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Falkland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Falkland Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Falkland Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Falkland Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Falkland Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Fife,Falkland Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Falkland Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Foulford Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Foulford Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Foulford Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Foulford Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Foulford Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Foulford Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Foulford Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Foulford Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Foulford Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Foulford Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Foulford Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Foulford Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Foulford Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Foulford Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Foulford Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Foulford Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Freuchie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Freuchie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Freuchie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Freuchie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Freuchie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Freuchie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Greyfriars RC Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Greyfriars RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Greyfriars RC Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Greyfriars RC Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Guardbridge Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Guardbridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Guardbridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Guardbridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Guardbridge Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Guardbridge Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Hill of Beath Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Hill of Beath Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Hill of Beath Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Hill of Beath Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Hill of Beath Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Hill of Beath Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Hill of Beath Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Holy Name RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Holy Name RC Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Inverkeithing Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Inverkeithing Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Inverkeithing Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Inverkeithing Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Inzievar Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Inzievar Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Inzievar Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Inzievar Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Inzievar Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Inzievar Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Inzievar Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Inzievar Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Kelty Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kelty Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Kelty Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kennoway Primary & Community School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kennoway Primary & Community School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Kennoway Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kennoway Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Kennoway Primary & Community School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kennoway Primary & Community School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Kennoway Primary & Community School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Kennoway Primary & Community School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kennoway Primary & Community School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kennoway Primary & Community School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Kettle Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Kettle Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,King's Road Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,King's Road Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,King's Road Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,King's Road Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,King's Road Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,King's Road Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,King's Road Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kinghorn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kinghorn Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Kinghorn Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kinghorn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kinghorn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Kinghorn Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Kinglassie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kinglassie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kinglassie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Kinglassie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kinglassie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Kinglassie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Kinglassie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Kinglassie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Kinglassie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kinglassie Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Kinglassie Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Kingsbarns Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Kingsbarns Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Kingsbarns Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Kingsbarns Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Kingsbarns Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Kingsbarns Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Kirkcaldy North Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Kirkcaldy North Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Kirkcaldy North Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Kirkcaldy North Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Kirkcaldy North Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy North Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy North Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy North Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Kirkcaldy North Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy North Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Kirkcaldy North Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Kirkcaldy North Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,Fife,Kirkcaldy North Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy North Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy North Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy North Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Kirkcaldy West Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kirkcaldy West Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kirkcaldy West Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Kirkcaldy West Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Kirkcaldy West Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Kirkcaldy West Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Ladybank Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Ladybank Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Ladybank Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Ladybank Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Largoward Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Largoward Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Lawhead Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Lawhead Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lawhead Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Lawhead Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lawhead Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Leslie Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Leslie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Leslie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Leslie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Leslie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Leslie Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Leslie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Leslie Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Leslie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Letham Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Letham Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Letham Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Letham Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Letham Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Letham Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Leuchars Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Leuchars Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Leuchars Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Leuchars Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Leuchars Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Leuchars Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Leuchars Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Leuchars Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P4,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Leuchars Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Leuchars Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Limekilns Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Limekilns Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Limekilns Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Limekilns Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Limekilns Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Limekilns Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Limekilns Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Limekilns Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Limekilns Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly South Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lochgelly South Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Lochgelly South Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Lochgelly South Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Lochgelly South Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly South Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly South Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly South Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lochgelly South Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly South Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly South Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Lochgelly West Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly West Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly West Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly West Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Lochgelly West Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Lochgelly West Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Lochgelly West Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Lochgelly West Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Lochgelly West Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly West Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly West Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly West Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Lochgelly West Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Lochgelly West Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Lochgelly West Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Lochgelly West Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Lumphinnans Primary & Community School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lumphinnans Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lumphinnans Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Lumphinnans Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Lumphinnans Primary & Community School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lumphinnans Primary & Community School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lumphinnans Primary & Community School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lumphinnans Primary & Community School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Lumphinnans Primary & Community School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Lumphinnans Primary & Community School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Lundin Mill Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Lundin Mill Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Lundin Mill Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Lundin Mill Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Lundin Mill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lundin Mill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lundin Mill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Lundin Mill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Lundin Mill Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Lundin Mill Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Lundin Mill Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Lynburn Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Lynburn Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Lynburn Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Fife,Lynburn Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Lynburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Lynburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Lynburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Lynburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Lynburn Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Lynburn Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Lynburn Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Lynburn Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Lynburn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Lynburn Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Lynburn Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Lynburn Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Markinch Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Markinch Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Markinch Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Markinch Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Markinch Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Markinch Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Masterton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Masterton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Masterton Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Masterton Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Masterton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Masterton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Masterton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Masterton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Masterton Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Masterton Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,McLean Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,McLean Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,McLean Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Methilhill Primary & Community School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Methilhill Primary & Community School,P1,Reading - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,P1,Writing - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Methilhill Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,Fife,Methilhill Primary & Community School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Methilhill Primary & Community School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,P4,Reading - % Meeting Level,40-50%
+2024/25,Fife,Methilhill Primary & Community School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Methilhill Primary & Community School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Methilhill Primary & Community School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Fife,Methilhill Primary & Community School,P7,Reading - % Meeting Level,40-50%
+2024/25,Fife,Methilhill Primary & Community School,P7,Writing - % Meeting Level,30-40%
+2024/25,Fife,Milesmark Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Milesmark Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Milesmark Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Fife,Milesmark Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Fife,Milesmark Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Milesmark Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Mountfleurie Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Mountfleurie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Mountfleurie Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Mountfleurie Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Mountfleurie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Mountfleurie Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Mountfleurie Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Mountfleurie Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Mountfleurie Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Mountfleurie Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Newburgh Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Newburgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Newburgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Newburgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Newburgh Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Newburgh Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Newburgh Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Newburgh Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Newburgh Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Newcastle Primary & Community School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Newcastle Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Newcastle Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Newcastle Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Newcastle Primary & Community School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Newcastle Primary & Community School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Newport Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Newport Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Newport Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Newport Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Newport Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Newport Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Newport Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Newport Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,North Queensferry Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,North Queensferry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,North Queensferry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,North Queensferry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,North Queensferry Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,North Queensferry Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Park Road Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Park Road Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Park Road Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Park Road Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Park Road Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Park Road Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Park Road Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Park Road Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Park Road Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Parkhill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Parkhill Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Parkhill Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Parkhill Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Parkhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Parkhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Parkhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Parkhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Parkhill Primary School,P4,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Parkhill Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Parkhill Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Parkhill Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,Fife,Parkhill Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Parkhill Primary School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Fife,Parkhill Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Parkhill Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Fife,Pathhead Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pathhead Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pathhead Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Pathhead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Pathhead Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Pathhead Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Pathhead Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Pathhead Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pathhead Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pathhead Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Pitcoudie Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pitcoudie Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pitcoudie Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitcoudie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitcoudie Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Pitlessie Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Pitlessie Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Pitreavie Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Pitreavie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitreavie Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pitreavie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pittencrieff Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pittencrieff Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Pittencrieff Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Pittencrieff Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Pittencrieff Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pittencrieff Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pittencrieff Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Pittencrieff Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Pittencrieff Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pittencrieff Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pittencrieff Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pittencrieff Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pittencrieff Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pittencrieff Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pittencrieff Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pittencrieff Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pittenweem Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pittenweem Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pittenweem Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Pittenweem Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Pittenweem Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Pittenweem Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Pitteuchar East Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar East Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar East Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar East Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pitteuchar East Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pitteuchar East Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Pitteuchar East Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Pitteuchar East Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar East Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Pitteuchar West Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Pitteuchar West Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Pitteuchar West Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Pitteuchar West Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Pitteuchar West Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar West Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Pitteuchar West Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Pitteuchar West Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Rimbleton Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P1,Writing - % Meeting Level,40-50%
+2024/25,Fife,Rimbleton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Rimbleton Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,Rimbleton Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Fife,Rimbleton Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Saline Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Saline Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Saline Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Saline Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Saline Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Saline Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Saline Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Saline Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Saline Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Saline Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Saline Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Sinclairtown Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Sinclairtown Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Sinclairtown Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Sinclairtown Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Sinclairtown Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Sinclairtown Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Sinclairtown Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Sinclairtown Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Sinclairtown Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Sinclairtown Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,South Parks Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,South Parks Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,South Parks Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,South Parks Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,South Parks Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,South Parks Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,South Parks Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,South Parks Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,South Parks Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,South Parks Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,South Parks Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,South Parks Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,South Parks Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,South Parks Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,South Parks Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,South Parks Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Southwood Primary School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Southwood Primary School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Southwood Primary School,P1,Reading - % Meeting Level,40-50%
+2024/25,Fife,Southwood Primary School,P1,Writing - % Meeting Level,30-40%
+2024/25,Fife,Southwood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Southwood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Southwood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Southwood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,Fife,Southwood Primary School,P4,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Southwood Primary School,P4,Numeracy - % Meeting Level,30-40%
+2024/25,Fife,Southwood Primary School,P4,Reading - % Meeting Level,40-50%
+2024/25,Fife,Southwood Primary School,P4,Writing - % Meeting Level,20-30%
+2024/25,Fife,Southwood Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Southwood Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Southwood Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,Southwood Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Springfield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Springfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Springfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Springfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Springfield Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Springfield Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,St Agatha's R C Primary,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Agatha's R C Primary,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,St Agatha's R C Primary,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,St Agatha's R C Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Agatha's R C Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,St Agatha's R C Primary,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Agatha's R C Primary,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,St Agatha's R C Primary,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,St Agatha's R C Primary,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Agatha's R C Primary,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Agatha's R C Primary,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,St Bride's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Bride's R C Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Bride's R C Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Columba's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Columba's R C Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Columba's R C Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Fife,St Columba's R C Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Columba's R C Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Columba's R C Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St John's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,St John's R C Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,St John's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St John's R C Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,St John's R C Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Fife,St John's R C Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St John's R C Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,St John's R C Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,St John's R C Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Fife,St Joseph's R C Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Joseph's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,St Joseph's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Joseph's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Joseph's R C Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,St Joseph's R C Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,St Kenneth's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Kenneth's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Kenneth's R C Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Kenneth's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Kenneth's R C Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Kenneth's R C Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Kenneth's R C Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Kenneth's R C Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Leonard's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Leonard's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,St Leonard's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,St Leonard's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,St Leonard's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,St Leonard's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Fife,St Leonard's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,St Leonard's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,Fife,St Leonard's Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Leonard's Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,St Leonard's Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,St Leonard's Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Fife,St Leonard's Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,St Leonard's Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,St Leonard's Primary School,P7,Reading - % Meeting Level,40-50%
+2024/25,Fife,St Leonard's Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Fife,St Margaret's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Margaret's R C Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Margaret's R C Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Margaret's R C Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Marie's R C Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Marie's R C Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,St Marie's R C Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Monans Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Monans Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Monans Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Monans Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,St Monans Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,St Monans Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,St Ninian's R C Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Ninian's R C Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Ninian's R C Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Patrick's R C Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,St Patrick's R C Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,St Patrick's R C Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,St Patrick's R C Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Fife,St Patrick's R C Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,St Paul's R C Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Paul's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Paul's R C Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Fife,St Paul's R C Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,St Paul's R C Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,St Paul's R C Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,St Paul's R C Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,St Serf's R C Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,St Serf's R C Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,St Serf's R C Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,St Serf's R C Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,St Serf's R C Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,St Serf's R C Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Star Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Star Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Star Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Star Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Star Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Fife,Star Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Fife,Star Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Fife,Star Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Fife,Star Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Star Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Star Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Star Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Star Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Star Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Star Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Star Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Strathallan Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Strathallan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Strathallan Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Strathallan Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Strathallan Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Strathallan Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Strathallan Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Strathallan Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Strathkinness Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Strathkinness Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Strathkinness Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Strathkinness Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Strathkinness Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Strathkinness Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Strathmiglo Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Strathmiglo Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Strathmiglo Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Strathmiglo Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P4,Reading - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P4,Writing - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Strathmiglo Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Tayport Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Tayport Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Tayport Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Tayport Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Thornton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Thornton Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Thornton Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Thornton Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Thornton Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Torbain Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Torbain Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Fife,Torryburn Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Torryburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Torryburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Torryburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Fife,Torryburn Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Torryburn Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Torryburn Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Torryburn Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Torryburn Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P7,Reading - % Meeting Level,c
+2024/25,Fife,Torryburn Primary School,P7,Writing - % Meeting Level,c
+2024/25,Fife,Touch Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Touch Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P1,Writing - % Meeting Level,40-50%
+2024/25,Fife,Touch Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Touch Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Fife,Touch Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Fife,Touch Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Touch Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Touch Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Touch Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Touch Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Fife,Townhill Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Townhill Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Townhill Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Townhill Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Townhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Townhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Townhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Townhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Townhill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Townhill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Townhill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Fife,Townhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Fife,Townhill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Townhill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Townhill Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Townhill Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Fife,Tulliallan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Tulliallan Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Fife,Tulliallan Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Fife,Tulliallan Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Fife,Valley Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Fife,Valley Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Valley Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,40-50%
+2024/25,Fife,Valley Primary School,P4,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P4,Writing - % Meeting Level,40-50%
+2024/25,Fife,Valley Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Fife,Valley Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Valley Primary School,P7,Writing - % Meeting Level,30-40%
+2024/25,Fife,Warout Primary & Community School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Fife,Warout Primary & Community School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Fife,Warout Primary & Community School,P1,Reading - % Meeting Level,60-70%
+2024/25,Fife,Warout Primary & Community School,P1,Writing - % Meeting Level,60-70%
+2024/25,Fife,Warout Primary & Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,P4,Listening & Talking - % Meeting Level,40-50%
+2024/25,Fife,Warout Primary & Community School,P4,Numeracy - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,P4,Reading - % Meeting Level,40-50%
+2024/25,Fife,Warout Primary & Community School,P4,Writing - % Meeting Level,40-50%
+2024/25,Fife,Warout Primary & Community School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Fife,Warout Primary & Community School,P7,Reading - % Meeting Level,50-60%
+2024/25,Fife,Warout Primary & Community School,P7,Writing - % Meeting Level,50-60%
+2024/25,Fife,Wormit Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Fife,Wormit Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Fife,Wormit Primary School,P1,Reading - % Meeting Level,c
+2024/25,Fife,Wormit Primary School,P1,Writing - % Meeting Level,c
+2024/25,Fife,Wormit Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Fife,Wormit Primary School,P7,Writing - % Meeting Level,90+%

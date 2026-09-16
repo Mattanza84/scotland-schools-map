@@ -1,0 +1,561 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,East Dunbartonshire,All publicly funded schools,P1,Listening & Talking - % Meeting Level,93.6%
+2024/25,East Dunbartonshire,All publicly funded schools,P1,Numeracy - % Meeting Level,90.4%
+2024/25,East Dunbartonshire,All publicly funded schools,P1,Reading - % Meeting Level,87.5%
+2024/25,East Dunbartonshire,All publicly funded schools,P1,Writing - % Meeting Level,85.3%
+2024/25,East Dunbartonshire,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,94%
+2024/25,East Dunbartonshire,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,87.8%
+2024/25,East Dunbartonshire,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,88.2%
+2024/25,East Dunbartonshire,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,84.1%
+2024/25,East Dunbartonshire,All publicly funded schools,P4,Listening & Talking - % Meeting Level,93.9%
+2024/25,East Dunbartonshire,All publicly funded schools,P4,Numeracy - % Meeting Level,85.8%
+2024/25,East Dunbartonshire,All publicly funded schools,P4,Reading - % Meeting Level,87%
+2024/25,East Dunbartonshire,All publicly funded schools,P4,Writing - % Meeting Level,82%
+2024/25,East Dunbartonshire,All publicly funded schools,P7,Listening & Talking - % Meeting Level,94.5%
+2024/25,East Dunbartonshire,All publicly funded schools,P7,Numeracy - % Meeting Level,87.6%
+2024/25,East Dunbartonshire,All publicly funded schools,P7,Reading - % Meeting Level,89.8%
+2024/25,East Dunbartonshire,All publicly funded schools,P7,Writing - % Meeting Level,85.1%
+2024/25,East Dunbartonshire,Baldernock Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baldernock Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baldernock Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baldernock Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baldernock Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P7,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Baldernock Primary School,P7,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Baljaffray Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Baljaffray Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Balmuildy Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Bearsden Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Bearsden Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Castlehill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Castlehill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Castlehill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Clober Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Clober Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Clober Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Clober Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Clober Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Clober Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Colquhoun Park Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craigdhu Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craigdhu Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Craighead Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Craighead Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Gartconner Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Gartconner Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Gartconner Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Gartconner Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Gartconner Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Gartconner Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Gartconner Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Harestanes Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Harestanes Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Harestanes Primary School,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Harestanes Primary School,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Harestanes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Harestanes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Harestanes Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Harestanes Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Harestanes Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Harestanes Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Hillhead Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Hillhead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,East Dunbartonshire,Hillhead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,East Dunbartonshire,Hillhead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,30-40%
+2024/25,East Dunbartonshire,Hillhead Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P7,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Hillhead Primary School,P7,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Holy Family Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Holy Family Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Family Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Holy Trinity Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Killermont Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Killermont Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Killermont Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Killermont Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Killermont Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Lairdsland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lairdsland Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Lennoxtown Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Lenzie Meadow Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P7,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P7,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P7,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Gaelic Unit,P7,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Meadowburn Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Meadowburn Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Millersneuk Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Milngavie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Milngavie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Milngavie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Milngavie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Milngavie Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Mosshead Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Oxgang Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Oxgang Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Oxgang Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Oxgang Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,St Helen's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Helen's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Helen's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Helen's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Helen's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Helen's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Helen's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Machan's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Machan's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,St Machan's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Machan's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,St Machan's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,St Machan's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Machan's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,St Machan's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Machan's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Matthew's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Matthew's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,St Nicholas' Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P1,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P1,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P1,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Thomas Muir Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Thomas Muir Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P4,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P4,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P7,Numeracy - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Thomas Muir Primary,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Torrance Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Torrance Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Torrance Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Torrance Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Torrance Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Torrance Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Torrance Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Torrance Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Twechar Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P1,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P1,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Twechar Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Twechar Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Twechar Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Twechar Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P4,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P4,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P7,Reading - % Meeting Level,c
+2024/25,East Dunbartonshire,Twechar Primary School,P7,Writing - % Meeting Level,c
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P1,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P1,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P1,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P4,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P4,Reading - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P4,Writing - % Meeting Level,70-80%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Wester Cleddens Primary,P7,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Westerton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Westerton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Westerton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,East Dunbartonshire,Westerton Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Westerton Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,East Dunbartonshire,Westerton Primary School,P7,Writing - % Meeting Level,70-80%

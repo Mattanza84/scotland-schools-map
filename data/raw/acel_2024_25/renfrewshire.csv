@@ -1,0 +1,833 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Renfrewshire,All publicly funded schools,P1,Listening & Talking - % Meeting Level,90.6%
+2024/25,Renfrewshire,All publicly funded schools,P1,Numeracy - % Meeting Level,88.6%
+2024/25,Renfrewshire,All publicly funded schools,P1,Reading - % Meeting Level,83.8%
+2024/25,Renfrewshire,All publicly funded schools,P1,Writing - % Meeting Level,82.1%
+2024/25,Renfrewshire,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,92.5%
+2024/25,Renfrewshire,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,84.9%
+2024/25,Renfrewshire,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,84.1%
+2024/25,Renfrewshire,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,79.2%
+2024/25,Renfrewshire,All publicly funded schools,P4,Listening & Talking - % Meeting Level,93.4%
+2024/25,Renfrewshire,All publicly funded schools,P4,Numeracy - % Meeting Level,83.6%
+2024/25,Renfrewshire,All publicly funded schools,P4,Reading - % Meeting Level,82.5%
+2024/25,Renfrewshire,All publicly funded schools,P4,Writing - % Meeting Level,77.2%
+2024/25,Renfrewshire,All publicly funded schools,P7,Listening & Talking - % Meeting Level,93.4%
+2024/25,Renfrewshire,All publicly funded schools,P7,Numeracy - % Meeting Level,82.9%
+2024/25,Renfrewshire,All publicly funded schools,P7,Reading - % Meeting Level,85.9%
+2024/25,Renfrewshire,All publicly funded schools,P7,Writing - % Meeting Level,78.3%
+2024/25,Renfrewshire,Arkleston Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Arkleston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Arkleston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Arkleston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Arkleston Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Arkleston Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Arkleston Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Arkleston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Arkleston Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Arkleston Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Arkleston Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Auchenlodment Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Auchenlodment Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Auchenlodment Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Auchenlodment Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Auchenlodment Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Auchenlodment Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,Auchenlodment Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Auchenlodment Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Auchenlodment Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Auchenlodment Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Auchenlodment Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Bargarran Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bargarran Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bargarran Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bargarran Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bargarran Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bargarran Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bargarran Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Barsail Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Barsail Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bishopton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bishopton Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bishopton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bishopton Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bishopton Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Brediland Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Brediland Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bridge Of Weir Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Bushes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Bushes Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Bushes Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Cochrane Castle Primary,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Cochrane Castle Primary,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Cochrane Castle Primary,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Cochrane Castle Primary,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Cochrane Castle Primary,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Cochrane Castle Primary,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Cochrane Castle Primary,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Cochrane Castle Primary,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,Cochrane Castle Primary,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Cochrane Castle Primary,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Cochrane Castle Primary,P4,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Cochrane Castle Primary,P4,Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,Cochrane Castle Primary,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Cochrane Castle Primary,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Cochrane Castle Primary,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Cochrane Castle Primary,P7,Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,Dargavel Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Dargavel Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Dargavel Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Dargavel Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Dargavel Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Dargavel Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Dargavel Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Dargavel Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,East Fulton Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,East Fulton Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,East Fulton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,East Fulton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,East Fulton Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,East Fulton Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,East Fulton Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,East Fulton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,East Fulton Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Fordbank Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Fordbank Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Fordbank Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Fordbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Fordbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Fordbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Fordbank Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Fordbank Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Fordbank Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,Fordbank Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Fordbank Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Gallowhill Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Gallowhill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Gallowhill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Gallowhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Gallowhill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Gallowhill Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Gallowhill Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Gallowhill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Gallowhill Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Gallowhill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Gallowhill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Glencoats Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Glencoats Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Glencoats Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Glencoats Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Glencoats Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Glencoats Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,Glencoats Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,Glencoats Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Glencoats Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Glencoats Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Renfrewshire,Heriot Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Heriot Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Heriot Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Heriot Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Heriot Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Heriot Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Heriot Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Heriot Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Heriot Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Heriot Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Heriot Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Heriot Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Heriot Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Heriot Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Heriot Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Heriot Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Houston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Houston Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Houston Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Howwood Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Howwood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Howwood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Howwood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Howwood Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Howwood Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Inchinnan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Inchinnan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Inchinnan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Inchinnan Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Inchinnan Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Kilbarchan Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kilbarchan Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kilbarchan Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kilbarchan Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kilbarchan Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kilbarchan Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kilbarchan Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kilbarchan Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kilbarchan Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kilbarchan Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Kirklandneuk Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Langbank Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Langbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langbank Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Langbank Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Langcraigs Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Langcraigs Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Langcraigs Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Langcraigs Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Langcraigs Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Langcraigs Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochfield Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Lochfield Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochfield Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Lochfield Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Lochfield Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochfield Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochfield Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Lochwinnoch Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Mossvale Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,Mossvale Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,Mossvale Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Mossvale Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Mossvale Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Mossvale Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Mossvale Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Mossvale Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Newmains Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Newmains Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Newmains Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Newmains Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Newmains Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Newmains Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Our Lady Of Peace Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Ralston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Ralston Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Ralston Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Ralston Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Rashielea Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Rashielea Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Rashielea Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Rashielea Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Rashielea Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Rashielea Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Rashielea Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Rashielea Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Rashielea Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anne's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Anne's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Anne's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Anne's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Anne's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anne's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anne's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anne's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anne's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Anthony's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Anthony's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Anthony's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Catherine's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Catherine's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Catherine's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Catherine's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Catherine's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Catherine's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Charles' Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Charles' Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Charles' Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St David's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Renfrewshire,St David's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,St David's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,St David's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St David's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St David's Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Fergus Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Fergus Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Fergus Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Fergus Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Fillan's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Fillan's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Fillan's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Fillan's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P7,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Fillan's Primary School,P7,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St James's Primary School (Paisley),P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St James's Primary School (Paisley),P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St James's Primary School (Paisley),P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St James's Primary School (Paisley),P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St James's Primary School (Paisley),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Paisley),"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Paisley),"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Paisley),"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Paisley),P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P1,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P1,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St James's Primary School (Renfrew),P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Bosco Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Bosco Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St John Ogilvie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St John Ogilvie Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,St Margaret's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,St Margaret's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,St Margaret's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,St Margaret's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Margaret's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,St Margaret's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,St Mary's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Mary's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Mary's Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Mary's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Mary's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Mary's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Mary's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Mary's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,St Mary's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Mary's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Mary's Primary School,P4,Reading - % Meeting Level,50-60%
+2024/25,Renfrewshire,St Mary's Primary School,P4,Writing - % Meeting Level,30-40%
+2024/25,Renfrewshire,St Mary's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,St Mary's Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Mary's Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Mary's Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Paul's Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Renfrewshire,St Paul's Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,St Paul's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Paul's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Renfrewshire,St Paul's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Paul's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Paul's Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Paul's Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Paul's Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Renfrewshire,St Peter's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Peter's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,St Peter's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,St Peter's Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,St Peter's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Thorn Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Thorn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Thorn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Thorn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Thorn Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Thorn Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Thorn Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Thorn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Thorn Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Todholm Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Todholm Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Todholm Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Todholm Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Todholm Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Todholm Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Todholm Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Todholm Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Wallace Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Wallace Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Wallace Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,West Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,West Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,West Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,West Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,West Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,West Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Williamsburgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Williamsburgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Williamsburgh Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Williamsburgh Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Williamsburgh Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Williamsburgh Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Renfrewshire,Williamsburgh Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Williamsburgh Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Williamsburgh Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Woodlands Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P1,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P1,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Woodlands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Renfrewshire,Woodlands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Renfrewshire,Woodlands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Renfrewshire,Woodlands Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P4,Reading - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P4,Writing - % Meeting Level,c
+2024/25,Renfrewshire,Woodlands Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Renfrewshire,Woodlands Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Renfrewshire,Woodlands Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Renfrewshire,Woodlands Primary School,P7,Writing - % Meeting Level,60-70%

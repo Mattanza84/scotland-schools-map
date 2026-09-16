@@ -1,0 +1,529 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Midlothian,All publicly funded schools,P1,Listening & Talking - % Meeting Level,88.1%
+2024/25,Midlothian,All publicly funded schools,P1,Numeracy - % Meeting Level,85.5%
+2024/25,Midlothian,All publicly funded schools,P1,Reading - % Meeting Level,82.5%
+2024/25,Midlothian,All publicly funded schools,P1,Writing - % Meeting Level,80%
+2024/25,Midlothian,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,89.2%
+2024/25,Midlothian,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.2%
+2024/25,Midlothian,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,81.7%
+2024/25,Midlothian,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,78.4%
+2024/25,Midlothian,All publicly funded schools,P4,Listening & Talking - % Meeting Level,91.5%
+2024/25,Midlothian,All publicly funded schools,P4,Numeracy - % Meeting Level,79.8%
+2024/25,Midlothian,All publicly funded schools,P4,Reading - % Meeting Level,82.8%
+2024/25,Midlothian,All publicly funded schools,P4,Writing - % Meeting Level,79.4%
+2024/25,Midlothian,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88%
+2024/25,Midlothian,All publicly funded schools,P7,Numeracy - % Meeting Level,75.4%
+2024/25,Midlothian,All publicly funded schools,P7,Reading - % Meeting Level,79.5%
+2024/25,Midlothian,All publicly funded schools,P7,Writing - % Meeting Level,75.6%
+2024/25,Midlothian,Bilston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Bilston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Bilston Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Bilston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Bilston Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Bilston Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Bilston Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Bilston Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Midlothian,Bilston Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Bonnyrigg Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Bonnyrigg Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Bonnyrigg Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Bonnyrigg Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Bonnyrigg Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,Bonnyrigg Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Bonnyrigg Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Burnbrae Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Burnbrae Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Burnbrae Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Burnbrae Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Burnbrae Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Burnbrae Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Cornbank Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Cornbank Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Cornbank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Cornbank Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Cornbank Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Cuiken Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Cuiken Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Cuiken Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Midlothian,Cuiken Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Cuiken Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Cuiken Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Cuiken Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Cuiken Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Cuiken Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cuiken Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Cuiken Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Cuiken Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Cuiken Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Cuiken Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,Cuiken Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Cuiken Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Danderhall Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Danderhall Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Danderhall Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Danderhall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Danderhall Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Danderhall Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Danderhall Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Easthouses Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Easthouses Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Easthouses Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Easthouses Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Easthouses Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Easthouses Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Easthouses Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Easthouses Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Easthouses Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P7,Reading - % Meeting Level,c
+2024/25,Midlothian,Easthouses Primary School,P7,Writing - % Meeting Level,c
+2024/25,Midlothian,Gore Glen Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Gore Glen Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Gore Glen Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Gore Glen Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Gore Glen Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,Gore Glen Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Gore Glen Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Gore Glen Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Gore Glen Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Gorebridge Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Gorebridge Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Gorebridge Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Hawthornden Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Hawthornden Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Hawthornden Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Hawthornden Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Hawthornden Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Hawthornden Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Hawthornden Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Hawthornden Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,King's Park Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,King's Park Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Midlothian,King's Park Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Midlothian,King's Park Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,King's Park Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,King's Park Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,King's Park Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Lasswade Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Lasswade Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Lasswade Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Lasswade Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Lasswade Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Lasswade Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Lasswade Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Lawfield Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Lawfield Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Lawfield Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Lawfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Lawfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Lawfield Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Lawfield Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Lawfield Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Loanhead Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Loanhead Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Loanhead Primary School,P1,Reading - % Meeting Level,c
+2024/25,Midlothian,Loanhead Primary School,P1,Writing - % Meeting Level,c
+2024/25,Midlothian,Loanhead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Loanhead Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Loanhead Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Midlothian,Loanhead Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Loanhead Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Loanhead Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Mauricewood Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Mauricewood Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Mauricewood Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Midlothian,Mauricewood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Mauricewood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Mauricewood Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Mauricewood Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Mauricewood Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Mayfield Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Mayfield Primary School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Mayfield Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Mayfield Primary School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,P7,Reading - % Meeting Level,50-60%
+2024/25,Midlothian,Mayfield Primary School,P7,Writing - % Meeting Level,40-50%
+2024/25,Midlothian,Moorfoot Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P1,Reading - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P1,Writing - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Moorfoot Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Moorfoot Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Moorfoot Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Midlothian,Moorfoot Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P7,Reading - % Meeting Level,c
+2024/25,Midlothian,Moorfoot Primary School,P7,Writing - % Meeting Level,c
+2024/25,Midlothian,Newtongrange Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Newtongrange Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Newtongrange Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Newtongrange Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Newtongrange Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Newtongrange Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Newtongrange Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Newtongrange Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Newtongrange Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Paradykes Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Paradykes Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Paradykes Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Paradykes Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Rosewell Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Rosewell Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Rosewell Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Rosewell Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Rosewell Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Rosewell Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Rosewell Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Rosewell Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Rosewell Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Roslin Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Roslin Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Roslin Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Sacred Heart Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Sacred Heart Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Sacred Heart Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Sacred Heart Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Sacred Heart Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Sacred Heart Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Sacred Heart Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Sacred Heart Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Sacred Heart Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P7,Reading - % Meeting Level,c
+2024/25,Midlothian,Sacred Heart Primary School,P7,Writing - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Andrew's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,St Andrew's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Andrew's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,St David's RC Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St David's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St David's RC Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St David's RC Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Midlothian,St David's RC Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Midlothian,St Luke's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Luke's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Luke's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Midlothian,St Luke's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Midlothian,St Luke's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Luke's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St Luke's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Luke's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St Luke's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Luke's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,St Luke's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Luke's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,St Luke's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Luke's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,St Luke's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Luke's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Mary's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,St Mary's Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Midlothian,St Mary's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Mary's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,St Mary's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,St Mary's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,St Mary's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,St Mary's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,St Mary's Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,St Mary's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,St Matthew's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P1,Reading - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P1,Writing - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,St Matthew's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Midlothian,St Matthew's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Midlothian,St Matthew's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Midlothian,St Matthew's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P7,Reading - % Meeting Level,c
+2024/25,Midlothian,St Matthew's Primary School,P7,Writing - % Meeting Level,c
+2024/25,Midlothian,Stobhill Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Stobhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Stobhill Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Stobhill Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Stobhill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Stobhill Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Stobhill Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Midlothian,Strathesk Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Strathesk Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Strathesk Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Strathesk Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Strathesk Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Strathesk Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Strathesk Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Midlothian,Tynewater Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Tynewater Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Midlothian,Tynewater Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Midlothian,Tynewater Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Midlothian,Tynewater Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Midlothian,Tynewater Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Tynewater Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Tynewater Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Tynewater Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P4,Reading - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P4,Writing - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P7,Reading - % Meeting Level,c
+2024/25,Midlothian,Tynewater Primary School,P7,Writing - % Meeting Level,c
+2024/25,Midlothian,Woodburn Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Midlothian,Woodburn Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Midlothian,Woodburn Primary School,P7,Writing - % Meeting Level,80-90%

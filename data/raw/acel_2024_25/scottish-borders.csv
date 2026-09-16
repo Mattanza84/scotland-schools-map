@@ -1,0 +1,913 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,Scottish Borders,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scottish Borders,All publicly funded schools,P1,Numeracy - % Meeting Level,85%
+2024/25,Scottish Borders,All publicly funded schools,P1,Reading - % Meeting Level,81.3%
+2024/25,Scottish Borders,All publicly funded schools,P1,Writing - % Meeting Level,79.9%
+2024/25,Scottish Borders,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.8%
+2024/25,Scottish Borders,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,79.8%
+2024/25,Scottish Borders,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,81.2%
+2024/25,Scottish Borders,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.3%
+2024/25,Scottish Borders,All publicly funded schools,P4,Listening & Talking - % Meeting Level,90.2%
+2024/25,Scottish Borders,All publicly funded schools,P4,Numeracy - % Meeting Level,79.7%
+2024/25,Scottish Borders,All publicly funded schools,P4,Reading - % Meeting Level,80%
+2024/25,Scottish Borders,All publicly funded schools,P4,Writing - % Meeting Level,76.7%
+2024/25,Scottish Borders,All publicly funded schools,P7,Listening & Talking - % Meeting Level,86.6%
+2024/25,Scottish Borders,All publicly funded schools,P7,Numeracy - % Meeting Level,75.7%
+2024/25,Scottish Borders,All publicly funded schools,P7,Reading - % Meeting Level,82.1%
+2024/25,Scottish Borders,All publicly funded schools,P7,Writing - % Meeting Level,73%
+2024/25,Scottish Borders,Ancrum Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ancrum Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Ayton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Ayton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Ayton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Ayton Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ayton Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Balmoral Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Balmoral Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Balmoral Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Balmoral Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Balmoral Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Broomlands Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Broomlands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Broomlands Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Broomlands Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Broomlands Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Broomlands Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Broomlands Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Broomlands Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broomlands Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Broomlands Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Broughton Central P School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Broughton Central P School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Burgh Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Burgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Burgh Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Burgh Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Burgh Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Burgh Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,Scottish Borders,Burgh Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Burgh Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Burgh Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Burgh Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,60-70%
+2024/25,Scottish Borders,Burnfoot Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Burnfoot Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,50-60%
+2024/25,Scottish Borders,Burnfoot Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,Burnfoot Community School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Burnfoot Community School,P7,Listening & Talking - % Meeting Level,50-60%
+2024/25,Scottish Borders,Burnfoot Community School,P7,Numeracy - % Meeting Level,30-40%
+2024/25,Scottish Borders,Burnfoot Community School,P7,Reading - % Meeting Level,50-60%
+2024/25,Scottish Borders,Burnfoot Community School,P7,Writing - % Meeting Level,30-40%
+2024/25,Scottish Borders,Channelkirk Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Channelkirk Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Chirnside Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Chirnside Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Chirnside Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Clovenfords Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Clovenfords Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Clovenfords Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Clovenfords Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Cockburnspath Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Coldingham Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Coldingham Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Coldingham Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,Scottish Borders,Coldingham Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldingham Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Coldstream Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Coldstream Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Coldstream Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Coldstream Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Coldstream Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Denholm Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Denholm Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Denholm Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Denholm Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Denholm Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P7,Listening & Talking - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P7,Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Drumlanrig St Cuthbert's Primary School,P7,Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,Duns Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Duns Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Duns Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Duns Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Duns Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Duns Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Earlston Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Earlston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Earlston Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Earlston Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Earlston Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Earlston Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Earlston Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Edenside Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Edenside Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Edenside Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Edenside Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Edenside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Edenside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Edenside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Edenside Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Edenside Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Edenside Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Edenside Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Ednam Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Ednam Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Eyemouth Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Eyemouth Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Eyemouth Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Eyemouth Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Eyemouth Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Eyemouth Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Eyemouth Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Eyemouth Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Glendinning Terrace Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Glendinning Terrace Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Glendinning Terrace Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Glendinning Terrace Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Gordon Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Gordon Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Gordon Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Gordon Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Gordon Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Greenlaw Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Greenlaw Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Greenlaw Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Greenlaw Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Greenlaw Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Halyrude Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Halyrude Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Halyrude Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Halyrude Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Halyrude Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Heriot Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Jedburgh Grammar School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Jedburgh Grammar School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,P1,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Jedburgh Grammar School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Jedburgh Grammar School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Jedburgh Grammar School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Jedburgh Grammar School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Jedburgh Grammar School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Jedburgh Grammar School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Jedburgh Grammar School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Jedburgh Grammar School,P7,Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,Kingsland Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Kingsland Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kingsland Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Kirkhope Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Kirkhope Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Knowepark Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Knowepark Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Knowepark Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Knowepark Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Knowepark Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Knowepark Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Knowepark Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Knowepark Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Knowepark Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Knowepark Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Langlee Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Langlee Primary School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Langlee Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,Scottish Borders,Langlee Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,Langlee Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Langlee Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Langlee Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Langlee Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Langlee Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Langlee Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Langlee Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Langlee Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Langlee Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Langlee Primary School,P7,Numeracy - % Meeting Level,40-50%
+2024/25,Scottish Borders,Langlee Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Langlee Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Lauder Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,Scottish Borders,Lauder Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Lauder Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Lauder Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Lauder Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Lauder Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Lauder Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Lauder Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Lauder Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Lauder Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Lauder Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Lilliesleaf Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Lilliesleaf Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Melrose Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Melrose Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Melrose Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Melrose Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Melrose Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Melrose Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Melrose Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Morebattle Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Morebattle Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newcastleton Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newlands Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Newtown Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Newtown Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Newtown Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Newtown Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Newtown Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Philiphaugh Community School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,Philiphaugh Community School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Philiphaugh Community School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,Philiphaugh Community School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Philiphaugh Community School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Priorsford Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Priorsford Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Priorsford Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Priorsford Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Reston Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Reston Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Sprouston Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,St Boswells Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Boswells Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,St Boswells Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Boswells Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Boswells Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Boswells Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Boswells Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Boswells Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Boswells Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,St Boswells Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,St Boswells Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,St Boswells Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,St Boswells Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Boswells Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Boswells Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,St Boswells Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P4,Numeracy - % Meeting Level,50-60%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P4,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P4,Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,St Margaret's RC Primary School (Galashiels),P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,St Peter's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Peter's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,St Peter's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Peter's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Peter's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Peter's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Peter's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Peter's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Peter's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Peter's Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Peter's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Peter's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Peter's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Peter's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Peter's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Peter's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,St Ronan's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,St Ronan's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Ronan's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Ronan's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Ronan's Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Ronan's Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,St Ronan's Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,Scottish Borders,St Ronan's Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,St Ronan's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,St Ronan's Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Stirches Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Stirches Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Stirches Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Stirches Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Stirches Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stirches Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Stow Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Stow Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Stow Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Stow Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Stow Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Swinton Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Trinity Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Trinity Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Trinity Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Trinity Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,Scottish Borders,Trinity Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Trinity Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Tweedbank Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Tweedbank Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,Tweedbank Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Tweedbank Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Tweedbank Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Tweedbank Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,Scottish Borders,Tweedbank Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Tweedbank Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Tweedbank Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Tweedbank Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Tweedbank Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Tweedbank Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Tweedbank Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Tweedbank Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Tweedbank Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,Tweedbank Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Walkerburn Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Walkerburn Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,West Linton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,West Linton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,Scottish Borders,West Linton Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,Scottish Borders,Westruther Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Westruther Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Wilton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Wilton Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,Scottish Borders,Wilton Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,Scottish Borders,Wilton Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Wilton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,Scottish Borders,Wilton Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,Scottish Borders,Wilton Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,Scottish Borders,Wilton Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,Scottish Borders,Yarrow Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yarrow Primary School,P7,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P1,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P1,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P4,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P4,Writing - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P7,Reading - % Meeting Level,c
+2024/25,Scottish Borders,Yetholm Primary School,P7,Writing - % Meeting Level,c

@@ -1,0 +1,1101 @@
+year,la_name,school_name,stage,measure,value_label
+2024/25,Scotland,All publicly funded schools,P1,Listening & Talking - % Meeting Level,86.5%
+2024/25,Scotland,All publicly funded schools,P1,Numeracy - % Meeting Level,84.6%
+2024/25,Scotland,All publicly funded schools,P1,Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,P1,Writing - % Meeting Level,78.7%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,87.5%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80.3%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,80.6%
+2024/25,Scotland,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,76.5%
+2024/25,Scotland,All publicly funded schools,P4,Listening & Talking - % Meeting Level,87.4%
+2024/25,Scotland,All publicly funded schools,P4,Numeracy - % Meeting Level,77.9%
+2024/25,Scotland,All publicly funded schools,P4,Reading - % Meeting Level,79.1%
+2024/25,Scotland,All publicly funded schools,P4,Writing - % Meeting Level,74.2%
+2024/25,Scotland,All publicly funded schools,P7,Listening & Talking - % Meeting Level,88.5%
+2024/25,Scotland,All publicly funded schools,P7,Numeracy - % Meeting Level,78.9%
+2024/25,Scotland,All publicly funded schools,P7,Reading - % Meeting Level,82%
+2024/25,Scotland,All publicly funded schools,P7,Writing - % Meeting Level,76.9%
+2024/25,West Lothian,All publicly funded schools,P1,Listening & Talking - % Meeting Level,87.1%
+2024/25,West Lothian,All publicly funded schools,P1,Numeracy - % Meeting Level,84.1%
+2024/25,West Lothian,All publicly funded schools,P1,Reading - % Meeting Level,81.1%
+2024/25,West Lothian,All publicly funded schools,P1,Writing - % Meeting Level,79%
+2024/25,West Lothian,All publicly funded schools,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90.7%
+2024/25,West Lothian,All publicly funded schools,"P1, P4 & P7 combined",Numeracy - % Meeting Level,84.6%
+2024/25,West Lothian,All publicly funded schools,"P1, P4 & P7 combined",Reading - % Meeting Level,83.9%
+2024/25,West Lothian,All publicly funded schools,"P1, P4 & P7 combined",Writing - % Meeting Level,80.5%
+2024/25,West Lothian,All publicly funded schools,P4,Listening & Talking - % Meeting Level,91.9%
+2024/25,West Lothian,All publicly funded schools,P4,Numeracy - % Meeting Level,85.2%
+2024/25,West Lothian,All publicly funded schools,P4,Reading - % Meeting Level,83.5%
+2024/25,West Lothian,All publicly funded schools,P4,Writing - % Meeting Level,80.1%
+2024/25,West Lothian,All publicly funded schools,P7,Listening & Talking - % Meeting Level,92.6%
+2024/25,West Lothian,All publicly funded schools,P7,Numeracy - % Meeting Level,84.4%
+2024/25,West Lothian,All publicly funded schools,P7,Reading - % Meeting Level,86.5%
+2024/25,West Lothian,All publicly funded schools,P7,Writing - % Meeting Level,82.3%
+2024/25,West Lothian,Addiewell Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Addiewell Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Addiewell Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Addiewell Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Addiewell Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Addiewell Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Addiewell Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Addiewell Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Addiewell Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Addiewell Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Addiewell Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Addiewell Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,West Lothian,Addiewell Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Addiewell Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Addiewell Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Addiewell Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Armadale Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Armadale Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Armadale Primary School,P1,Reading - % Meeting Level,50-60%
+2024/25,West Lothian,Armadale Primary School,P1,Writing - % Meeting Level,50-60%
+2024/25,West Lothian,Armadale Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Armadale Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Armadale Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Armadale Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Armadale Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Armadale Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Armadale Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Armadale Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Armadale Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Armadale Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Armadale Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Armadale Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Balbardie Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Balbardie Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Balbardie Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Balbardie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Balbardie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Balbardie Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Balbardie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Balbardie Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Balbardie Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Bankton Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Bankton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Bankton Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Bankton Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Bankton Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Bankton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bankton Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Bankton Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Bellsquarry Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Bellsquarry Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Bellsquarry Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Bellsquarry Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Bellsquarry Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Bellsquarry Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Bellsquarry Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Blackburn Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Blackburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Blackburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Blackburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Blackburn Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackburn Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Blackridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Blackridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Blackridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Blackridge Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Blackridge Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Boghall Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Boghall Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Boghall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Boghall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Boghall Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Boghall Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Boghall Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Boghall Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Boghall Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Bridgend Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Bridgend Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Broxburn Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Broxburn Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Broxburn Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Broxburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Broxburn Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Broxburn Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Broxburn Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Broxburn Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Broxburn Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Calderwood Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Calderwood Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Calderwood Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Calderwood Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Calderwood Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Calderwood Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Calderwood Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Carmondean Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Carmondean Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Carmondean Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Carmondean Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Carmondean Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Carmondean Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Carmondean Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Carmondean Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Carmondean Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Croftmalloch Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Croftmalloch Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Croftmalloch Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Croftmalloch Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Croftmalloch Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Croftmalloch Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Croftmalloch Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Croftmalloch Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Croftmalloch Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Croftmalloch Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Croftmalloch Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Croftmalloch Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Croftmalloch Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Croftmalloch Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Croftmalloch Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Croftmalloch Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Deans Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Deans Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Deans Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Deans Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Deans Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Deans Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Deans Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Deans Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Dedridge Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Dedridge Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Dedridge Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Dedridge Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Dedridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Dedridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Dedridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Dedridge Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P7,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Dedridge Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,East Calder Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,East Calder Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,East Calder Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,East Calder Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,East Calder Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Eastertoun Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Eastertoun Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Eastertoun Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Eastertoun Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Falla Hill Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Falla Hill Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Falla Hill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Falla Hill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Falla Hill Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Falla Hill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Falla Hill Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Falla Hill Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Falla Hill Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Greenrigg Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Greenrigg Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Greenrigg Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Greenrigg Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Greenrigg Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Greenrigg Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Harrysmuir Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Harrysmuir Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Harrysmuir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Harrysmuir Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Harrysmuir Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Harrysmuir Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Harrysmuir Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Holy Family Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Holy Family Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Holy Family Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Holy Family Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Holy Family Primary School,P4,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Holy Family Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Holy Family Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Holy Family Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Holy Family Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Holy Family Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Howden St Andrew's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Howden St Andrew's Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Howden St Andrew's Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Howden St Andrew's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Howden St Andrew's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Howden St Andrew's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Howden St Andrew's Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Howden St Andrew's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Howden St Andrew's Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Kirkhill Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirkhill Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirkhill Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirkhill Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Kirkhill Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Kirkhill Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Kirknewton Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Kirknewton Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Kirknewton Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Kirknewton Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Kirknewton Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Kirknewton Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Kirknewton Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Kirknewton Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Kirknewton Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Kirknewton Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Knightsridge Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Knightsridge Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Knightsridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Knightsridge Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Knightsridge Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Knightsridge Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,P1,Listening & Talking - % Meeting Level,50-60%
+2024/25,West Lothian,Letham Primary School,P1,Numeracy - % Meeting Level,40-50%
+2024/25,West Lothian,Letham Primary School,P1,Reading - % Meeting Level,40-50%
+2024/25,West Lothian,Letham Primary School,P1,Writing - % Meeting Level,40-50%
+2024/25,West Lothian,Letham Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Letham Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Letham Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,50-60%
+2024/25,West Lothian,Letham Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Letham Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,P4,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Letham Primary School,P4,Writing - % Meeting Level,50-60%
+2024/25,West Lothian,Letham Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Letham Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Linlithgow Bridge Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Linlithgow Bridge Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Linlithgow Bridge Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Linlithgow Bridge Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Bridge Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Linlithgow Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Linlithgow Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Linlithgow Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Livingston Village Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Livingston Village Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Longridge Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Longridge Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Longridge Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Longridge Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Longridge Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Longridge Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Low Port Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Low Port Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Meldrum Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Meldrum Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Meldrum Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Meldrum Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Meldrum Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Meldrum Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Meldrum Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Meldrum Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Meldrum Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Mid Calder Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Mid Calder Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Mid Calder Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Mid Calder Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Mid Calder Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Mid Calder Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Mid Calder Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Murrayfield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Murrayfield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Murrayfield Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Murrayfield Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Murrayfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Murrayfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Murrayfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Murrayfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Murrayfield Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Murrayfield Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Murrayfield Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Murrayfield Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Murrayfield Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Murrayfield Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Murrayfield Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Murrayfield Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady Of Lourdes Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Our Lady's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Our Lady's Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Parkhead Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Parkhead Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Parkhead Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Parkhead Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Peel Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Peel Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Peel Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Polkemmet Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Polkemmet Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Polkemmet Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Polkemmet Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Polkemmet Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Polkemmet Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Polkemmet Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Polkemmet Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Polkemmet Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Polkemmet Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Polkemmet Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P1,Writing - % Meeting Level,50-60%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Pumpherston and Uphall Station CPS,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Riverside Primary School,P1,Listening & Talking - % Meeting Level,60-70%
+2024/25,West Lothian,Riverside Primary School,P1,Numeracy - % Meeting Level,50-60%
+2024/25,West Lothian,Riverside Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Riverside Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Riverside Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Riverside Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Riverside Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Riverside Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Riverside Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Riverside Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Riverside Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Seafield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Seafield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Seafield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Seafield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Seafield Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Seafield Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Simpson Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Simpson Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Simpson Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Simpson Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Simpson Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Simpson Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Simpson Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Simpson Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Southdale Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Southdale Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Southdale Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Springfield Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Springfield Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,P1,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Anthony's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Anthony's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Columba's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Columba's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Columba's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Columba's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Columba's Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,St Columba's Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,St John Ogilvie Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St John Ogilvie Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St John Ogilvie Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St John Ogilvie Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St John The Baptist Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,St John The Baptist Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St John The Baptist Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St John The Baptist Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St John The Baptist Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John The Baptist Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St John The Baptist Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St John The Baptist Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St John The Baptist Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St John The Baptist Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St John The Baptist Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P4,Reading - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P4,Writing - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P7,Reading - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Linlithgow),P7,Writing - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P7,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,St Joseph's Primary School (Whitburn),P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,P1,Reading - % Meeting Level,60-70%
+2024/25,West Lothian,St Mary's Primary School,P1,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,St Mary's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's Primary School,P4,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's RC Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Mary's RC Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Mary's RC Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Mary's RC Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Mary's RC Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Mary's RC Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,P4,Listening & Talking - % Meeting Level,60-70%
+2024/25,West Lothian,St Mary's RC Primary School,P4,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,St Mary's RC Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Mary's RC Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Mary's RC Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Nicholas Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Nicholas Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Nicholas Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Ninian's Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Ninian's Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Ninian's Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Ninian's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Ninian's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Ninian's Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Ninian's Primary School,P7,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,St Ninian's Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Ninian's Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,St Paul's Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Paul's Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,St Paul's Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,St Paul's Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P4,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,St Paul's Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,St Paul's Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,St Paul's Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,St Paul's Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,St Paul's Primary School,P7,Writing - % Meeting Level,90+%
+2024/25,West Lothian,St Thomas' Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,St Thomas' Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Stoneyburn Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Stoneyburn Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Stoneyburn Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Stoneyburn Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Stoneyburn Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Toronto Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Toronto Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Toronto Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Toronto Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Toronto Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Toronto Primary School,P4,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Toronto Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P4,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Toronto Primary School,P7,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P7,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Toronto Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Toronto Primary School,P7,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Torphichen Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Torphichen Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Torphichen Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Torphichen Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Torphichen Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Torphichen Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Uphall Primary School,P1,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Uphall Primary School,P1,Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Uphall Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Uphall Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Uphall Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Uphall Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Uphall Primary School,P7,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,P7,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Uphall Primary School,P7,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Uphall Primary School,P7,Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Westfield Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Westfield Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,70-80%
+2024/25,West Lothian,Westfield Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,60-70%
+2024/25,West Lothian,Westfield Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,60-70%
+2024/25,West Lothian,Westfield Primary School,P4,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P4,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P4,Reading - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P4,Writing - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Westfield Primary School,P7,Writing - % Meeting Level,c
+2024/25,West Lothian,Whitdale Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P4,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Whitdale Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Whitdale Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Williamston Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P1,Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P1,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P1,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Williamston Primary School,P4,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P4,Writing - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Williamston Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Williamston Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P1,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Winchburgh Primary School,P1,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P1,Reading - % Meeting Level,70-80%
+2024/25,West Lothian,Winchburgh Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Winchburgh Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Winchburgh Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Winchburgh Primary School,P4,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Winchburgh Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Winchburgh Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Winchburgh Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P7,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Winchburgh Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P1,Listening & Talking - % Meeting Level,70-80%
+2024/25,West Lothian,Windyknowe Primary School,P1,Numeracy - % Meeting Level,60-70%
+2024/25,West Lothian,Windyknowe Primary School,P1,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P1,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Windyknowe Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P4,Listening & Talking - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P4,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P4,Reading - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P4,Writing - % Meeting Level,70-80%
+2024/25,West Lothian,Windyknowe Primary School,P7,Listening & Talking - % Meeting Level,90+%
+2024/25,West Lothian,Windyknowe Primary School,P7,Numeracy - % Meeting Level,80-90%
+2024/25,West Lothian,Windyknowe Primary School,P7,Reading - % Meeting Level,90+%
+2024/25,West Lothian,Windyknowe Primary School,P7,Writing - % Meeting Level,80-90%
+2024/25,West Lothian,Woodmuir Primary School,P1,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P1,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P1,Reading - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P1,Writing - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,"P1, P4 & P7 combined",Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,"P1, P4 & P7 combined",Numeracy - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,"P1, P4 & P7 combined",Reading - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,"P1, P4 & P7 combined",Writing - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P7,Listening & Talking - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P7,Numeracy - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P7,Reading - % Meeting Level,c
+2024/25,West Lothian,Woodmuir Primary School,P7,Writing - % Meeting Level,c
