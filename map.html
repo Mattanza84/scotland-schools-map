@@ -43,7 +43,22 @@
   </p>
 </div>
 
-<div id="map"></div>
+<div id="map-wrap">
+  <div id="map"></div>
+  <button id="mobile-filter-btn" aria-label="Open filters" aria-expanded="false">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="20" y2="12"/><line x1="12" y1="18" x2="20" y2="18"/></svg>
+    Filters
+  </button>
+</div>
+
+<div id="mobile-filter-overlay" hidden>
+  <div id="mobile-filter-sheet">
+    <div id="mobile-filter-header">
+      <span>Filter by</span>
+      <button type="button" id="mobile-filter-close" aria-label="Close filters">&times;</button>
+    </div>
+  </div>
+</div>
 
 <div id="control-panel">
   <div id="filter-card">
@@ -120,5 +135,49 @@
 <script src="js/data-loader.js?v=10"></script>
 <script src="js/app.js?v=10"></script>
 <script src="js/site-header.js?v=1"></script>
+<script>
+(function () {
+  var btn = document.getElementById("mobile-filter-btn");
+  var overlay = document.getElementById("mobile-filter-overlay");
+  var sheet = document.getElementById("mobile-filter-sheet");
+  var closeBtn = document.getElementById("mobile-filter-close");
+  var filterCard = document.getElementById("filter-card");
+
+  function isMobile() { return window.innerWidth <= 640; }
+
+  function moveFilterCard() {
+    if (isMobile()) {
+      if (!sheet.contains(filterCard)) sheet.appendChild(filterCard);
+    } else {
+      var panel = document.getElementById("control-panel");
+      if (!panel.contains(filterCard)) panel.appendChild(filterCard);
+    }
+  }
+
+  function openSheet() {
+    overlay.hidden = false;
+    btn.setAttribute("aria-expanded", "true");
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeSheet() {
+    overlay.hidden = true;
+    btn.setAttribute("aria-expanded", "false");
+    document.body.style.overflow = "";
+  }
+
+  btn.addEventListener("click", openSheet);
+  closeBtn.addEventListener("click", closeSheet);
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay) closeSheet();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !overlay.hidden) closeSheet();
+  });
+
+  moveFilterCard();
+  window.addEventListener("resize", moveFilterCard);
+}());
+</script>
 </body>
 </html>
