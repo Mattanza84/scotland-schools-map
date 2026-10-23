@@ -348,6 +348,7 @@ async function init() {
   document.getElementById("apply-filters-btn").addEventListener("click", () => {
     applyMarkerVisibility();
     document.querySelectorAll(".accordion-item").forEach((item) => item.classList.remove("open"));
+    if (typeof window.closeMobileFilterSheet === "function") window.closeMobileFilterSheet();
   });
 
   document.getElementById("reset-filters-btn").addEventListener("click", resetFilters);

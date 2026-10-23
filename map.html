@@ -154,16 +154,18 @@
     }
   }
 
-  function openSheet() {
-    overlay.hidden = false;
-    btn.setAttribute("aria-expanded", "true");
-    document.body.style.overflow = "hidden";
-  }
-
   function closeSheet() {
     overlay.hidden = true;
     btn.setAttribute("aria-expanded", "false");
     document.body.style.overflow = "";
+  }
+
+  window.closeMobileFilterSheet = closeSheet;
+
+  function openSheet() {
+    overlay.hidden = false;
+    btn.setAttribute("aria-expanded", "true");
+    document.body.style.overflow = "hidden";
   }
 
   btn.addEventListener("click", openSheet);
